@@ -1,0 +1,5 @@
+model,best_params,cv_macro_f1_mean,cv_macro_f1_std,cv_acc_mean,cv_acc_std,test_accuracy,test_macro_f1,test_weighted_f1,test_Bust_precision,test_Bust_recall,test_Bust_f1,test_Solid_precision,test_Solid_recall,test_Solid_f1,test_Star_precision,test_Star_recall,test_Star_f1
+Baseline (Dummy),{'strategy': 'stratified'},0.3184,0.0399,0.4444,0.0358,0.4467,0.3388,0.4481,0.6,0.5932,0.5966,0.2308,0.2308,0.2308,0.1842,0.1944,0.1892
+Random Forest,"{'max_depth': 6, 'min_samples_split': 5, 'n_estimators': 400}",0.4899,0.03,0.5547,0.0272,0.5086,0.432,0.5301,0.7465,0.5989,0.6646,0.3176,0.3462,0.3313,0.2344,0.4167,0.3
+XGBoost,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 200}",0.4733,0.0175,0.6236,0.0132,0.5601,0.4919,0.5756,0.7619,0.6328,0.6914,0.3736,0.4359,0.4024,0.3208,0.4722,0.382
+SVM (RBF),"{'C': 3.0, 'gamma': 'scale'}",0.4761,0.0222,0.5383,0.0275,0.512,0.4373,0.5333,0.7465,0.5989,0.6646,0.3333,0.3462,0.3396,0.2353,0.4444,0.3077

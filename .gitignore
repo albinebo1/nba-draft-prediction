@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Local-only data archives
+*.zip
+*.tar.gz
+*.7z
+
+# Local env vars
+.env
+.env.local

@@ -1,0 +1,1453 @@
+draft_year,draft_pick,team,player,college,career_years,career_g,career_ws,career_ws48,career_bpm,career_vorp,position,height_no_shoes,weight,wingspan,standing_reach,hand_length,hand_width,standing_vertical,vertical_leap_max,lane_agility,shuttle_run,sprint,bench_press,draft_round,career_label
+1990,1,NJN,Derrick Coleman,Syracuse,15.0,781.0,64.3,0.119,1.4,22.3,,,,,,,,,,,,,,1,Star
+1990,2,SEA,Gary Payton,Oregon State,17.0,1335.0,145.5,0.148,3.3,62.5,,,,,,,,,,,,,,1,Star
+1990,3,DEN,Mahmoud Abdul-Rauf,LSU,9.0,586.0,25.2,0.077,-0.8,4.5,,,,,,,,,,,,,,1,Solid
+1990,4,ORL,Dennis Scott,Georgia Tech,10.0,629.0,33.4,0.089,0.2,9.9,,,,,,,,,,,,,,1,Solid
+1990,5,CHH,Kendall Gill,Illinois,15.0,966.0,47.8,0.078,0.1,15.8,,,,,,,,,,,,,,1,Solid
+1990,6,MIN,Felton Spencer,Louisville,12.0,640.0,20.9,0.081,-4.3,-7.0,,,,,,,,,,,,,,1,Solid
+1990,7,SAC,Lionel Simmons,La Salle,7.0,454.0,16.9,0.06,0.0,6.7,,,,,,,,,,,,,,1,Solid
+1990,8,LAC,Bo Kimble,Loyola Marymount,3.0,105.0,0.1,0.004,-5.7,-1.2,,,,,,,,,,,,,,1,Bust
+1990,9,MIA,Willie Burton,Minnesota,8.0,316.0,9.1,0.065,-2.5,-0.9,,,,,,,,,,,,,,1,Bust
+1990,10,ATL,Rumeal Robinson,Michigan,6.0,336.0,5.2,0.041,-1.5,0.8,,,,,,,,,,,,,,1,Bust
+1990,11,GSW,Tyrone Hill,Xavier,14.0,801.0,56.2,0.12,-1.9,0.8,,,,,,,,,,,,,,1,Star
+1990,12,HOU,Alec Kessler,Georgia,4.0,210.0,2.0,0.033,-5.9,-2.8,,,,,,,,,,,,,,1,Bust
+1990,13,LAC,Loy Vaught,Michigan,11.0,689.0,35.8,0.101,-1.5,2.2,,,,,,,,,,,,,,1,Solid
+1990,14,SAC,Travis Mays,Texas,3.0,115.0,2.4,0.039,-2.6,-0.5,,,,,,,,,,,,,,1,Bust
+1990,15,MIA,Dave Jamerson,Ohio University,3.0,90.0,0.2,0.018,-3.9,-0.3,,,,,,,,,,,,,,1,Bust
+1990,16,MIL,Terry Mills,Michigan,11.0,678.0,33.3,0.097,-0.6,5.9,,,,,,,,,,,,,,1,Solid
+1990,17,NYK,Jerrod Mustaf,Maryland,4.0,179.0,1.7,0.043,-4.1,-1.0,,,,,,,,,,,,,,1,Bust
+1990,18,SAC,Duane Causwell,Temple,11.0,541.0,15.8,0.081,-2.3,-0.7,,,,,,,,,,,,,,1,Solid
+1990,19,BOS,Dee Brown,Jacksonville University,12.0,608.0,33.4,0.095,0.8,11.6,,,,,,,,,,,,,,1,Solid
+1990,20,MIN,Gerald Glass,Ole Miss,4.0,201.0,1.8,0.025,-1.9,0.1,,,,,,,,,,,,,,1,Bust
+1990,21,PHO,Jayson Williams,St. John's,9.0,475.0,20.0,0.098,-2.8,-2.1,,,,,,,,,,,,,,1,Solid
+1990,22,NJN,Tate George,UConn,4.0,177.0,1.3,0.032,-3.5,-0.8,,,,,,,,,,,,,,1,Bust
+1990,23,SAC,Anthony Bonner,Saint Louis,6.0,318.0,10.8,0.07,-2.0,0.1,,,,,,,,,,,,,,1,Bust
+1990,24,SAS,Dwayne Schintzius,Florida,8.0,217.0,1.0,0.024,-5.0,-1.5,,,,,,,,,,,,,,1,Bust
+1990,25,POR,Alaa Abdelnaby,Duke,5.0,256.0,4.8,0.072,-3.8,-1.5,,,,,,,,,,,,,,1,Bust
+1990,26,DET,Lance Blanks,Texas,3.0,142.0,0.7,0.031,-3.2,-0.3,,,,,,,,,,,,,,1,Bust
+1990,27,LAL,Elden Campbell,Clemson,15.0,1044.0,62.8,0.117,-0.5,9.5,,,,,,,,,,,,,,1,Star
+1990,28,GSW,Les Jepsen,Iowa,2.0,52.0,0.1,0.031,-8.0,-0.3,,,,,,,,,,,,,,1,Bust
+1990,29,CHI,Toni Kukoč,Unknown,13.0,846.0,59.6,0.129,2.8,27.2,,,,,,,,,,,,,,1,Star
+1990,30,MIA,Carl Herrera,Houston,8.0,465.0,9.0,0.054,-3.7,-3.4,,,,,,,,,,,,,,1,Bust
+1990,31,PHO,Negele Knight,Dayton,6.0,276.0,4.2,0.044,-3.0,-1.1,,,,,,,,,,,,,,2,Bust
+1990,32,PHI,Brian Oliver,Georgia Tech,4.0,118.0,-0.5,-0.02,-5.9,-1.2,,,,,,,,,,,,,,2,Bust
+1990,33,UTA,Walter Palmer,Dartmouth College,2.0,48.0,-0.1,-0.013,-6.7,-0.2,,,,,,,,,,,,,,2,Bust
+1990,34,GSW,Kevin Pritchard,Kansas,4.0,94.0,0.4,0.017,-4.0,-0.6,,,,,,,,,,,,,,2,Bust
+1990,35,WSB,Greg Foster,Texas-El Paso,13.0,656.0,5.6,0.033,-5.5,-7.0,,,,,,,,,,,,,,2,Bust
+1990,36,ATL,Trevor Wilson,UCLA,4.0,103.0,0.8,0.023,-3.4,-0.6,,,,,,,,,,,,,,2,Bust
+1990,37,WSB,A.J. English,Virginia Union University,2.0,151.0,1.1,0.017,-3.9,-1.5,,,,,,,,,,,,,,2,Bust
+1990,38,SEA,Jud Buechler,Arizona,12.0,720.0,16.5,0.094,-0.1,4.0,,,,,,,,,,,,,,2,Solid
+1990,39,CHH,Steve Scheffler,Purdue,7.0,174.0,2.9,0.153,-1.9,0.0,,,,,,,,,,,,,,2,Bust
+1990,40,SAC,Bimbo Coles,Virginia Tech,14.0,852.0,27.4,0.065,-1.6,1.9,,,,,,,,,,,,,,2,Solid
+1990,41,ATL,Steve Bardo,Illinois,3.0,33.0,-0.1,-0.02,-4.0,-0.2,,,,,,,,,,,,,,2,Bust
+1990,42,DEN,Marcus Liberty,Illinois,4.0,267.0,4.0,0.042,-2.6,-0.7,,,,,,,,,,,,,,2,Bust
+1990,43,SAS,Tony Massenburg,Maryland,13.0,683.0,15.6,0.061,-4.5,-7.8,,,,,,,,,,,,,,2,Solid
+1990,44,MIL,Steve Henson,Kansas State,7.0,238.0,3.8,0.079,-1.8,0.1,,,,,,,,,,,,,,2,Bust
+1990,45,IND,Antonio Davis,Texas-El Paso,13.0,903.0,59.6,0.11,-1.3,4.4,,,,,,,,,,,,,,2,Star
+1990,46,IND,Kenny Williams,Elizabeth City State University,4.0,260.0,7.4,0.122,0.1,1.5,,,,,,,,,,,,,,2,Bust
+1990,47,PHI,Derek Strong,Xavier,10.0,456.0,18.5,0.104,-2.1,-0.3,,,,,,,,,,,,,,2,Solid
+1990,48,PHO,Cedric Ceballos,Cal State Fullerton,11.0,609.0,40.4,0.132,0.7,10.1,,,,,,,,,,,,,,2,Solid
+1990,50,PHO,Miloš Babić,Tennessee Technological University,2.0,21.0,-0.1,-0.028,-5.9,-0.1,,,,,,,,,,,,,,2,Bust
+1990,51,LAL,Tony Smith,Marquette,9.0,457.0,6.7,0.044,-2.0,0.0,,,,,,,,,,,,,,2,Bust
+1990,52,CLE,Stefano Rusconi,Unknown,1.0,7.0,-0.1,-0.104,-11.4,-0.1,,,,,,,,,,,,,,2,Bust
+1990,54,SAS,Sean Higgins,Michigan,6.0,220.0,0.4,0.006,-4.7,-2.3,,,,,,,,,,,,,,2,Bust
+1991,1,CHH,Larry Johnson,UNLV,10.0,707.0,69.7,0.13,1.4,22.0,,,,,,,,,,,,,,1,Star
+1991,2,NJN,Kenny Anderson,Georgia Tech,14.0,858.0,62.5,0.116,1.4,21.9,,,,,,,,,,,,,,1,Star
+1991,3,SAC,Billy Owens,Syracuse,10.0,600.0,28.6,0.078,-0.2,7.8,,,,,,,,,,,,,,1,Solid
+1991,4,DEN,Dikembe Mutombo,Georgetown,18.0,1196.0,117.0,0.153,1.7,33.9,,,,,,,,,,,,,,1,Star
+1991,5,MIA,Steve Smith,Michigan State,14.0,942.0,83.7,0.139,1.4,24.6,,,,,,,,,,,,,,1,Star
+1991,6,DAL,Doug Smith,Missouri,5.0,296.0,3.0,0.024,-3.6,-2.4,,,,,,,,,,,,,,1,Bust
+1991,7,MIN,Luc Longley,New Mexico,10.0,567.0,17.5,0.07,-2.6,-1.9,,,,,,,,,,,,,,1,Solid
+1991,8,DEN,Mark Macon,Temple,6.0,251.0,0.1,0.001,-3.7,-2.2,,,,,,,,,,,,,,1,Bust
+1991,9,ATL,Stacey Augmon,UNLV,15.0,1001.0,43.8,0.097,-0.2,9.8,,,,,,,,,,,,,,1,Solid
+1991,10,ORL,Bison Dele,Arizona,8.0,413.0,22.8,0.109,-0.6,3.4,,,,,,,,,,,,,,1,Solid
+1991,11,CLE,Terrell Brandon,Oregon,11.0,724.0,65.9,0.147,3.6,30.3,,,,,,,,,,,,,,1,Star
+1991,12,NYK,Greg Anthony,UNLV,11.0,757.0,35.9,0.109,1.3,13.3,,,,,,,,,,,,,,1,Solid
+1991,13,IND,Dale Davis,Clemson,16.0,1094.0,86.9,0.141,0.5,18.4,,,,,,,,,,,,,,1,Star
+1991,14,SEA,Rich King,Nebraska,4.0,72.0,0.2,0.036,-6.9,-0.4,,,,,,,,,,,,,,1,Bust
+1991,15,ATL,Anthony Avent,Seton Hall,6.0,352.0,0.3,0.002,-5.7,-6.4,,,,,,,,,,,,,,1,Bust
+1991,16,GSW,Chris Gatling,Old Dominion,11.0,700.0,32.1,0.112,-1.1,3.2,,,,,,,,,,,,,,1,Solid
+1991,17,GSW,Victor Alexander,Iowa State,5.0,286.0,8.8,0.073,-2.2,-0.3,,,,,,,,,,,,,,1,Bust
+1991,18,MIL,Kevin Brooks,Louisiana,3.0,126.0,-0.1,-0.004,-5.9,-1.0,,,,,,,,,,,,,,1,Bust
+1991,19,WSB,LaBradford Smith,Louisville,3.0,183.0,1.5,0.024,-3.6,-1.2,,,,,,,,,,,,,,1,Bust
+1991,20,HOU,John Turner,Phillips University,1.0,42.0,-0.1,-0.021,-7.9,-0.5,,,,,,,,,,,,,,1,Bust
+1991,21,UTA,Eric Murdock,Providence,9.0,508.0,25.6,0.103,2.0,12.1,,,,,,,,,,,,,,1,Solid
+1991,22,LAC,LeRon Ellis,Syracuse,3.0,91.0,1.2,0.069,-3.5,-0.3,,,,,,,,,,,,,,1,Bust
+1991,23,ORL,Stanley Roberts,LSU,8.0,300.0,8.1,0.066,-3.4,-2.0,,,,,,,,,,,,,,1,Bust
+1991,24,BOS,Rick Fox,UNC,13.0,930.0,44.7,0.09,0.0,11.7,,,,,,,,,,,,,,1,Solid
+1991,26,CHI,Mark Randall,Kansas,4.0,127.0,1.0,0.054,-3.3,-0.3,,,,,,,,,,,,,,1,Bust
+1991,27,SAC,Pete Chilcutt,UNC,9.0,584.0,10.6,0.06,-1.8,0.3,,,,,,,,,,,,,,1,Bust
+1991,28,CHH,Kevin Lynch,Minnesota,2.0,95.0,0.4,0.016,-4.4,-0.7,,,,,,,,,,,,,,1,Bust
+1991,30,ATL,Rodney Monroe,NC State,1.0,38.0,-0.2,-0.035,-5.3,-0.3,,,,,,,,,,,,,,1,Bust
+1991,31,SAC,Randy Brown,New Mexico State,12.0,655.0,11.0,0.046,-1.9,0.2,,,,,,,,,,,,,,2,Bust
+1991,32,PHO,Chad Gallagher,Creighton,1.0,2.0,0.1,1.442,30.1,0.0,,,,,,,,,,,,,,2,Bust
+1991,33,DAL,Donald Hodge,Temple,5.0,249.0,1.8,0.025,-4.2,-1.9,,,,,,,,,,,,,,2,Bust
+1991,34,MIN,Myron Brown,Slippery Rock University of Pennsylvania,1.0,4.0,0.0,0.032,-1.8,0.0,,,,,,,,,,,,,,2,Bust
+1991,35,DAL,Mike Iuzzolino,Saint Francis University,2.0,122.0,3.7,0.058,-1.9,0.1,,,,,,,,,,,,,,2,Bust
+1991,36,ORL,Chris Corchiani,NC State,3.0,112.0,1.6,0.058,-1.8,0.1,,,,,,,,,,,,,,2,Bust
+1991,37,LAC,Elliot Perry,Memphis,10.0,549.0,14.0,0.071,-0.5,3.6,,,,,,,,,,,,,,2,Bust
+1991,39,CLE,Jimmy Oliver,Purdue,5.0,78.0,0.3,0.018,-4.7,-0.6,,,,,,,,,,,,,,2,Bust
+1991,40,DET,Doug Overton,La Salle,11.0,499.0,2.5,0.016,-3.9,-3.5,,,,,,,,,,,,,,2,Bust
+1991,41,IND,Sean Green,Iona College,3.0,84.0,-1.3,-0.095,-7.0,-0.8,,,,,,,,,,,,,,2,Bust
+1991,43,GSW,Lamont Strothers,Christopher Newport University,2.0,13.0,-0.5,-0.142,-7.7,-0.2,,,,,,,,,,,,,,2,Bust
+1991,45,MIL,Bobby Phills,Southern University and A&M College,9.0,467.0,27.2,0.097,0.2,7.5,,,,,,,,,,,,,,2,Solid
+1991,46,PHO,Richard Dumas,Oklahoma State,3.0,102.0,4.5,0.097,-0.2,1.0,,,,,,,,,,,,,,2,Bust
+1991,48,UTA,Isaac Austin,Arizona State,9.0,432.0,9.2,0.053,-2.5,-1.0,,,,,,,,,,,,,,2,Bust
+1991,49,SAS,Greg Sutton,Oral Roberts,3.0,168.0,1.0,0.024,-3.6,-0.8,,,,,,,,,,,,,,2,Bust
+1991,51,HOU,Žan Tabak,Unknown,6.0,247.0,2.4,0.032,-4.9,-2.7,,,,,,,,,,,,,,2,Bust
+1992,1,ORL,Shaquille O'Neal,LSU,19.0,1207.0,181.7,0.208,5.1,75.5,,,,,,,,,,,,,,1,Star
+1992,2,CHH,Alonzo Mourning,Georgetown,15.0,838.0,89.7,0.166,2.2,27.4,,,,,,,,,,,,,,1,Star
+1992,3,MIN,Christian Laettner,Duke,13.0,868.0,64.9,0.121,1.0,19.5,,,,,,,,,,,,,,1,Star
+1992,4,DAL,Jim Jackson,Ohio State,14.0,885.0,35.8,0.059,-0.9,8.2,,,,,,,,,,,,,,1,Solid
+1992,5,DEN,LaPhonso Ellis,Notre Dame,11.0,624.0,32.8,0.089,-1.0,4.6,,,,,,,,,,,,,,1,Solid
+1992,6,WSB,Tom Gugliotta,NC State,13.0,763.0,40.2,0.082,0.6,15.3,,,,,,,,,,,,,,1,Solid
+1992,7,SAC,Walt Williams,Maryland,11.0,708.0,33.9,0.087,0.5,11.8,,,,,,,,,,,,,,1,Solid
+1992,8,MIL,Todd Day,Arkansas,8.0,483.0,17.5,0.069,-0.9,3.4,,,,,,,,,,,,,,1,Solid
+1992,9,PHI,Clarence Weatherspoon,Southern Miss,13.0,915.0,58.4,0.101,-0.3,11.8,,,,,,,,,,,,,,1,Star
+1992,10,ATL,Adam Keefe,Stanford,9.0,617.0,24.9,0.116,-1.3,1.7,,,,,,,,,,,,,,1,Solid
+1992,11,HOU,Robert Horry,Alabama,16.0,1107.0,66.3,0.118,1.9,26.4,,,,,,,,,,,,,,1,Star
+1992,12,MIA,Harold Miner,USC,4.0,200.0,4.2,0.053,-3.0,-0.9,,,,,,,,,,,,,,1,Bust
+1992,13,DEN,Bryant Stith,Virginia,10.0,586.0,29.5,0.086,-0.8,4.9,,,,,,,,,,,,,,1,Solid
+1992,14,IND,Malik Sealy,St. John's,8.0,493.0,17.1,0.07,-1.2,2.2,,,,,,,,,,,,,,1,Solid
+1992,15,LAL,Anthony Peeler,Missouri,13.0,827.0,30.7,0.072,-0.7,6.6,,,,,,,,,,,,,,1,Solid
+1992,16,LAC,Randy Woods,La Salle,4.0,151.0,0.6,0.026,-1.5,0.1,,,,,,,,,,,,,,1,Bust
+1992,17,SEA,Doug Christie,Pepperdine,15.0,827.0,55.7,0.102,1.1,20.7,,,,,,,,,,,,,,1,Star
+1992,18,SAS,Tracy Murray,UCLA,12.0,659.0,24.1,0.096,-0.1,5.8,,,,,,,,,,,,,,1,Solid
+1992,19,DET,Don MacLean,UCLA,9.0,319.0,9.4,0.067,-2.5,-0.9,,,,,,,,,,,,,,1,Bust
+1992,20,NYK,Hubert Davis,UNC,12.0,685.0,27.7,0.088,-0.9,4.2,,,,,,,,,,,,,,1,Solid
+1992,21,BOS,Jon Barry,Georgia Tech,14.0,821.0,37.2,0.129,1.8,13.4,,,,,,,,,,,,,,1,Solid
+1992,22,PHO,Oliver Miller,Arkansas,9.0,493.0,21.1,0.089,0.6,7.4,,,,,,,,,,,,,,1,Solid
+1992,23,MIL,Lee Mayberry,Arkansas,7.0,496.0,7.9,0.036,-2.9,-2.3,,,,,,,,,,,,,,1,Bust
+1992,24,GSW,Latrell Sprewell,Alabama,13.0,913.0,56.3,0.077,0.4,21.0,,,,,,,,,,,,,,1,Star
+1992,25,LAC,Elmore Spencer,UNLV,5.0,157.0,0.0,0.001,-4.6,-1.7,,,,,,,,,,,,,,1,Bust
+1992,26,POR,Dave Johnson,Syracuse,2.0,59.0,-0.3,-0.032,-8.2,-0.7,,,,,,,,,,,,,,1,Bust
+1992,27,CHI,Byron Houston,Oklahoma State,4.0,214.0,3.9,0.069,-3.9,-1.3,,,,,,,,,,,,,,1,Bust
+1992,28,MIN,Marlon Maxey,Texas-El Paso,2.0,98.0,2.6,0.109,-3.0,-0.3,,,,,,,,,,,,,,1,Bust
+1992,29,NJN,P.J. Brown,Louisiana Tech,15.0,1089.0,89.8,0.128,0.0,17.4,,,,,,,,,,,,,,1,Star
+1992,30,DAL,Sean Rooks,Arizona,12.0,749.0,16.2,0.057,-2.9,-3.1,,,,,,,,,,,,,,1,Solid
+1992,31,POR,Reggie Smith,TCU,2.0,66.0,0.4,0.051,-5.1,-0.3,,,,,,,,,,,,,,2,Bust
+1992,32,WSB,Brent Price,Oklahoma,9.0,418.0,12.0,0.082,-0.8,2.2,,,,,,,,,,,,,,2,Bust
+1992,33,CHI,Corey Williams,Oklahoma State,2.0,39.0,0.2,0.037,-5.6,-0.3,,,,,,,,,,,,,,2,Bust
+1992,34,MIN,Chris Smith,UConn,3.0,224.0,3.2,0.039,-2.3,-0.3,,,,,,,,,,,,,,2,Bust
+1992,35,CHH,Tony Bennett,Green Bay,3.0,152.0,1.6,0.041,-2.7,-0.3,,,,,,,,,,,,,,2,Bust
+1992,36,LAL,Duane Cooper,USC,2.0,88.0,-0.5,-0.032,-6.1,-0.8,,,,,,,,,,,,,,2,Bust
+1992,37,MIA,Isaiah Morris,Arkansas,1.0,25.0,0.0,-0.022,-5.7,-0.1,,,,,,,,,,,,,,2,Bust
+1992,38,ATL,Elmer Bennett,Notre Dame,3.0,21.0,-0.3,-0.095,-6.9,-0.2,,,,,,,,,,,,,,2,Bust
+1992,39,CHI,Litterial Green,Georgia,5.0,148.0,1.6,0.066,-2.4,-0.1,,,,,,,,,,,,,,2,Bust
+1992,41,HOU,Popeye Jones,Murray State,11.0,535.0,22.0,0.084,-2.7,-2.1,,,,,,,,,,,,,,2,Solid
+1992,42,MIA,Matt Geiger,Georgia Tech,10.0,552.0,28.4,0.112,-1.8,0.6,,,,,,,,,,,,,,2,Solid
+1992,43,GSW,Sasha Danilović,Unknown,2.0,75.0,4.2,0.087,-0.7,0.8,,,,,,,,,,,,,,2,Bust
+1992,45,SEA,Chris King,Wake Forest,3.0,103.0,1.0,0.023,-2.8,-0.4,,,,,,,,,,,,,,2,Bust
+1992,46,DEN,Robert Werdann,St. John's,3.0,47.0,0.1,0.026,-6.3,-0.3,,,,,,,,,,,,,,2,Bust
+1992,47,BOS,Darren Morningstar,Pitt,1.0,23.0,0.4,0.048,-4.5,-0.2,,,,,,,,,,,,,,2,Bust
+1992,48,PHO,Brian Davis,Duke,1.0,68.0,0.0,0.0,-4.7,-0.3,,,,,,,,,,,,,,2,Bust
+1992,50,GSW,Matt Fish,UNC Wilmington,3.0,50.0,0.6,0.058,-3.1,-0.1,,,,,,,,,,,,,,2,Bust
+1992,52,CHI,Matt Steigenga,Michigan State,1.0,2.0,0.0,-0.126,-8.5,0.0,,,,,,,,,,,,,,2,Bust
+1993,1,ORL,Chris Webber,Michigan,15.0,831.0,84.7,0.132,3.4,42.1,,,,,,,,,,,,,,1,Star
+1993,2,PHI,Shawn Bradley,BYU,12.0,832.0,40.7,0.1,-0.2,8.9,,,,,,,,,,,,,,1,Solid
+1993,3,GSW,Anfernee Hardaway,Memphis,14.0,704.0,61.9,0.125,2.5,26.9,,,,,,,,,,,,,,1,Star
+1993,4,DAL,Jamal Mashburn,Kentucky,11.0,611.0,43.7,0.092,0.3,13.4,,,,,,,,,,,,,,1,Solid
+1993,5,MIN,Isaiah Rider,UNLV,9.0,563.0,22.8,0.061,-1.0,4.5,,,,,,,,,,,,,,1,Solid
+1993,6,WSB,Calbert Cheaney,Indiana,13.0,825.0,23.1,0.05,-2.5,-2.9,,,,,,,,,,,,,,1,Solid
+1993,7,SAC,Bobby Hurley,Duke,5.0,269.0,-1.2,-0.014,-5.4,-3.5,,,,,,,,,,,,,,1,Bust
+1993,8,MIL,Vin Baker,University of Hartford,13.0,791.0,47.0,0.088,-1.2,5.3,,,,,,,,,,,,,,1,Solid
+1993,9,DEN,Rodney Rogers,Wake Forest,12.0,866.0,38.8,0.085,-0.3,9.7,,,,,,,,,,,,,,1,Solid
+1993,10,DET,Lindsey Hunter,Jackson State University,17.0,937.0,32.9,0.068,-0.4,9.4,,,,,,,,,,,,,,1,Solid
+1993,11,DET,Allan Houston,Tennessee,12.0,839.0,55.3,0.094,0.1,15.0,,,,,,,,,,,,,,1,Star
+1993,12,LAL,George Lynch,UNC,12.0,774.0,32.3,0.088,-0.4,7.3,,,,,,,,,,,,,,1,Solid
+1993,13,LAC,Terry Dehere,Seton Hall,6.0,402.0,7.3,0.048,-2.6,-1.1,,,,,,,,,,,,,,1,Bust
+1993,14,IND,Scott Haskin,Oregon State,1.0,27.0,0.3,0.087,-2.8,0.0,,,,,,,,,,,,,,1,Bust
+1993,15,ATL,Doug Edwards,Florida State,3.0,85.0,0.2,0.013,-4.8,-0.6,,,,,,,,,,,,,,1,Bust
+1993,16,NJN,Rex Walters,Kansas,7.0,335.0,6.3,0.066,-2.0,0.0,,,,,,,,,,,,,,1,Bust
+1993,17,CHH,Greg Graham,Indiana,5.0,207.0,1.3,0.025,-3.8,-1.2,,,,,,,,,,,,,,1,Bust
+1993,18,UTA,Luther Wright,Seton Hall,1.0,15.0,-0.1,-0.064,-12.3,-0.2,,,,,,,,,,,,,,1,Bust
+1993,19,BOS,Acie Earl,Iowa,4.0,193.0,0.3,0.005,-5.9,-2.5,,,,,,,,,,,,,,1,Bust
+1993,20,CHH,Scott Burrell,UConn,8.0,383.0,16.4,0.104,0.7,5.2,,,,,,,,,,,,,,1,Solid
+1993,21,POR,James Robinson,Alabama,7.0,381.0,5.8,0.04,-2.0,0.0,,,,,,,,,,,,,,1,Bust
+1993,22,CLE,Chris Mills,Arizona,10.0,568.0,37.7,0.105,-0.5,6.8,,,,,,,,,,,,,,1,Solid
+1993,23,SEA,Ervin Johnson,New Orleans,13.0,845.0,37.8,0.107,-1.4,2.6,,,,,,,,,,,,,,1,Solid
+1993,24,HOU,Sam Cassell,Florida State,15.0,993.0,87.5,0.141,1.8,28.8,,,,,,,,,,,,,,1,Star
+1993,25,CHI,Corie Blount,Cincinnati,11.0,644.0,18.2,0.088,-2.5,-1.1,,,,,,,,,,,,,,1,Solid
+1993,26,ORL,Geert Hammink,LSU,3.0,8.0,0.1,0.089,-3.7,0.0,,,,,,,,,,,,,,1,Bust
+1993,27,PHO,Malcolm Mackey,Georgia Tech,1.0,22.0,0.1,0.036,-8.7,-0.1,,,,,,,,,,,,,,1,Bust
+1993,28,DAL,Lucious Harris,Cal State Long Beach,12.0,800.0,28.7,0.088,-0.9,4.5,,,,,,,,,,,,,,1,Solid
+1993,30,WSB,Gheorghe Mureșan,Unknown,6.0,307.0,19.0,0.136,-0.3,2.9,,,,,,,,,,,,,,1,Solid
+1993,31,SAC,Evers Burns,Maryland,1.0,23.0,0.1,0.02,-5.5,-0.1,,,,,,,,,,,,,,2,Bust
+1993,32,PHI,Alphonso Ford,Mississippi Valley State University,2.0,11.0,-0.4,-0.153,-8.4,-0.2,,,,,,,,,,,,,,2,Bust
+1993,33,DAL,Eric Riley,Michigan,5.0,186.0,2.5,0.066,-3.8,-0.9,,,,,,,,,,,,,,2,Bust
+1993,34,GSW,Darnell Mee,Western Kentucky,2.0,40.0,-0.1,-0.02,-2.8,-0.1,,,,,,,,,,,,,,2,Bust
+1993,35,MIA,Ed Stokes,Arizona,1.0,4.0,0.0,-0.077,-7.6,0.0,,,,,,,,,,,,,,2,Bust
+1993,37,LAL,Nick Van Exel,Cincinnati,13.0,880.0,55.9,0.093,0.4,17.7,,,,,,,,,,,,,,2,Star
+1993,40,ATL,Rich Manning,Washington,2.0,55.0,-0.3,-0.028,-8.3,-0.8,,,,,,,,,,,,,,2,Bust
+1993,42,SEA,Adonis Jordan,Kansas,2.0,10.0,0.0,-0.015,-2.9,0.0,,,,,,,,,,,,,,2,Bust
+1993,43,DEN,Josh Grant,Utah,1.0,53.0,0.5,0.06,-2.3,0.0,,,,,,,,,,,,,,2,Bust
+1993,45,UTA,Bryon Russell,Cal State Long Beach,13.0,841.0,47.4,0.115,0.4,11.8,,,,,,,,,,,,,,2,Solid
+1993,46,HOU,Richard Petruška,UCLA,1.0,22.0,0.0,-0.014,-8.2,-0.1,,,,,,,,,,,,,,2,Bust
+1993,47,SAS,Chris Whitney,Clemson,11.0,579.0,21.2,0.101,-0.2,4.6,,,,,,,,,,,,,,2,Solid
+1993,48,POR,Kevin Thompson,NC State,1.0,14.0,0.0,-0.016,-8.1,-0.1,,,,,,,,,,,,,,2,Bust
+1993,52,SAC,Mike Peplowski,Michigan State,3.0,68.0,1.0,0.067,-4.5,-0.4,,,,,,,,,,,,,,2,Bust
+1994,1,MIL,Glenn Robinson,Purdue,11.0,688.0,39.8,0.075,0.1,13.5,,,,,,,,,,,,,,1,Solid
+1994,2,DAL,Jason Kidd,California,19.0,1391.0,138.6,0.133,3.8,73.5,,,,,,,,,,,,,,1,Star
+1994,3,DET,Grant Hill,Duke,18.0,1026.0,99.9,0.138,3.0,43.6,,,,,,,,,,,,,,1,Star
+1994,4,MIN,Donyell Marshall,UConn,15.0,957.0,59.0,0.113,1.1,19.9,,,,,,,,,,,,,,1,Star
+1994,5,WSB,Juwan Howard,Michigan,19.0,1208.0,59.4,0.078,-1.6,3.8,,,,,,,,,,,,,,1,Star
+1994,6,PHI,Sharone Wright,Clemson,4.0,203.0,1.4,0.015,-4.8,-3.2,,,,,,,,,,,,,,1,Bust
+1994,7,LAC,Lamond Murray,California,11.0,736.0,19.8,0.052,-1.2,4.0,,,,,,,,,,,,,,1,Solid
+1994,8,SAC,Brian Grant,Xavier,12.0,756.0,54.5,0.122,-0.8,6.2,,,,,,,,,,,,,,1,Star
+1994,9,BOS,Eric Montross,UNC,8.0,465.0,8.5,0.048,-4.4,-5.2,,,,,,,,,,,,,,1,Bust
+1994,10,LAL,Eddie Jones,Temple,14.0,954.0,100.6,0.147,3.1,42.3,,,,,,,,,,,,,,1,Star
+1994,11,SEA,Carlos Rogers,Tennessee State,8.0,298.0,11.1,0.095,-1.0,1.5,,,,,,,,,,,,,,1,Bust
+1994,12,MIA,Khalid Reeves,Arizona,6.0,277.0,8.4,0.069,-1.3,1.0,,,,,,,,,,,,,,1,Bust
+1994,13,DEN,Jalen Rose,Michigan,13.0,923.0,47.2,0.081,-0.2,12.3,,,,,,,,,,,,,,1,Solid
+1994,14,NJN,Yinka Dare,George Washington,4.0,110.0,-0.7,-0.033,-8.4,-1.6,,,,,,,,,,,,,,1,Bust
+1994,15,IND,Eric Piatkowski,Nebraska,14.0,789.0,31.0,0.102,0.2,7.9,,,,,,,,,,,,,,1,Solid
+1994,16,GSW,Clifford Rozier,Louisville,4.0,173.0,3.9,0.063,-3.5,-1.1,,,,,,,,,,,,,,1,Bust
+1994,17,POR,Aaron McKie,Temple,13.0,793.0,40.0,0.1,0.7,12.9,,,,,,,,,,,,,,1,Solid
+1994,18,MIL,Eric Mobley,Pitt,3.0,113.0,1.1,0.034,-4.3,-0.9,,,,,,,,,,,,,,1,Bust
+1994,19,DAL,Tony Dumas,Missouri-Kansas City,4.0,156.0,1.3,0.027,-3.3,-0.7,,,,,,,,,,,,,,1,Bust
+1994,20,PHI,B.J. Tyler,Texas,1.0,55.0,-0.7,-0.039,-5.0,-0.6,,,,,,,,,,,,,,1,Bust
+1994,21,CHI,Dickey Simpkins,Providence,7.0,327.0,4.7,0.044,-4.5,-3.3,,,,,,,,,,,,,,1,Bust
+1994,22,SAS,Bill Curley,Boston College,5.0,147.0,1.6,0.047,-5.3,-1.3,,,,,,,,,,,,,,1,Bust
+1994,23,PHO,Wesley Person,Auburn,11.0,733.0,44.0,0.102,0.9,15.2,,,,,,,,,,,,,,1,Solid
+1994,24,NYK,Monty Williams,Notre Dame,9.0,456.0,11.4,0.072,-1.8,0.3,,,,,,,,,,,,,,1,Bust
+1994,25,LAC,Greg Minor,Louisville,5.0,277.0,8.2,0.077,-1.5,0.7,,,,,,,,,,,,,,1,Bust
+1994,26,NYK,Charlie Ward,Florida State,11.0,630.0,33.0,0.113,2.1,14.5,,,,,,,,,,,,,,1,Solid
+1994,27,ORL,Brooks Thompson,Oklahoma State,4.0,168.0,2.0,0.057,-1.5,0.2,,,,,,,,,,,,,,1,Bust
+1994,29,PHO,Antonio Lang,Duke,6.0,143.0,1.7,0.057,-3.8,-0.6,,,,,,,,,,,,,,1,Bust
+1994,30,MIN,Howard Eisley,Boston College,12.0,786.0,19.5,0.058,-1.7,1.3,,,,,,,,,,,,,,1,Solid
+1994,32,WSB,Jim McIlvaine,Marquette,7.0,401.0,9.4,0.076,-2.2,-0.3,,,,,,,,,,,,,,2,Bust
+1994,33,PHI,Derrick Alston,Duquesne,3.0,139.0,2.6,0.047,-2.8,-0.5,,,,,,,,,,,,,,2,Bust
+1994,34,ATL,Gaylon Nickerson,Northwestern Oklahoma State University,1.0,4.0,0.1,0.076,-1.2,0.0,,,,,,,,,,,,,,2,Bust
+1994,35,SAC,Michael Smith,Providence,7.0,449.0,23.4,0.107,-0.1,5.1,,,,,,,,,,,,,,2,Solid
+1994,37,SEA,Dontonio Wingfield,Cincinnati,4.0,114.0,1.8,0.074,-2.6,-0.2,,,,,,,,,,,,,,2,Bust
+1994,38,CHH,Darrin Hancock,Kansas,3.0,133.0,1.1,0.038,-3.3,-0.5,,,,,,,,,,,,,,2,Bust
+1994,39,GSW,Anthony Miller,Michigan State,8.0,181.0,3.8,0.11,-2.6,-0.2,,,,,,,,,,,,,,2,Bust
+1994,40,MIA,Jeff Webster,Oklahoma,1.0,11.0,0.0,-0.03,-4.9,0.0,,,,,,,,,,,,,,2,Bust
+1994,43,POR,Shawnelle Scott,St. John's,4.0,105.0,1.3,0.101,-3.8,-0.3,,,,,,,,,,,,,,2,Bust
+1994,45,GSW,Dwayne Morton,Louisville,1.0,41.0,0.2,0.025,-3.5,-0.1,,,,,,,,,,,,,,2,Bust
+1994,46,MIL,Voshon Lenard,Minnesota,11.0,565.0,29.6,0.093,0.0,7.9,,,,,,,,,,,,,,2,Solid
+1994,47,UTA,Jamie Watson,South Carolina,4.0,102.0,1.2,0.045,-1.5,0.2,,,,,,,,,,,,,,2,Bust
+1994,50,PHO,Charles Claxton,Georgia,1.0,3.0,0.0,-0.179,-18.9,0.0,,,,,,,,,,,,,,2,Bust
+1994,51,SAC,Lawrence Funderburke,Ohio State,7.0,318.0,12.9,0.131,-0.5,1.8,,,,,,,,,,,,,,2,Bust
+1994,52,PHO,Anthony Goldwire,Houston,8.0,266.0,6.4,0.062,-1.8,0.3,,,,,,,,,,,,,,2,Bust
+1994,54,SEA,Željko Rebrača,Unknown,5.0,215.0,8.3,0.121,-2.2,-0.2,,,,,,,,,,,,,,2,Bust
+1995,1,GSW,Joe Smith,Maryland,16.0,1030.0,60.3,0.107,-1.5,3.0,,,,,,,,,,,,,,1,Star
+1995,2,LAC,Antonio McDyess,Alabama,15.0,1015.0,69.8,0.119,-0.1,13.2,,,,,,,,,,,,,,1,Star
+1995,3,PHI,Jerry Stackhouse,UNC,18.0,970.0,52.4,0.083,0.3,17.4,,,,,,,,,,,,,,1,Star
+1995,4,WSB,Rasheed Wallace,UNC,16.0,1109.0,105.1,0.139,2.2,38.3,,,,,,,,,,,,,,1,Star
+1995,5,MIN,Kevin Garnett,Unknown,21.0,1462.0,191.4,0.182,5.6,96.9,,,,,,,,,,,,,,1,Star
+1995,6,VAN,Bryant Reeves,Oklahoma State,6.0,395.0,13.0,0.052,-3.4,-4.3,,,,,,,,,,,,,,1,Bust
+1995,7,TOR,Damon Stoudamire,Arizona,13.0,878.0,55.4,0.091,0.3,16.8,,,,,,,,,,,,,,1,Star
+1995,8,POR,Shawn Respert,Michigan State,4.0,172.0,2.1,0.043,-2.3,-0.2,,,,,,,,,,,,,,1,Bust
+1995,9,NJN,Ed O'Bannon,UCLA,2.0,128.0,1.1,0.025,-3.5,-0.7,,,,,,,,,,,,,,1,Bust
+1995,10,MIA,Kurt Thomas,TCU,18.0,1110.0,64.2,0.114,-0.8,8.6,,,,,,,,,,,,,,1,Star
+1995,11,MIL,Gary Trent,Ohio University,9.0,506.0,23.2,0.113,-1.0,2.4,,,,,,,,,,,,,,1,Solid
+1995,12,DAL,Cherokee Parks,Duke,9.0,472.0,11.8,0.076,-2.4,-0.7,,,,,,,,,,,,,,1,Bust
+1995,13,SAC,Corliss Williamson,Arkansas,12.0,822.0,34.7,0.089,-2.0,-0.1,,,,,,,,,,,,,,1,Solid
+1995,14,BOS,Eric Williams,Providence,12.0,658.0,23.2,0.071,-2.4,-1.5,,,,,,,,,,,,,,1,Solid
+1995,15,DEN,Brent Barry,Oregon State,14.0,912.0,70.5,0.143,2.6,27.7,,,,,,,,,,,,,,1,Star
+1995,16,ATL,Alan Henderson,Indiana,12.0,652.0,28.0,0.097,-1.8,0.6,,,,,,,,,,,,,,1,Solid
+1995,17,CLE,Bob Sura,Florida State,10.0,657.0,28.3,0.087,0.4,9.4,,,,,,,,,,,,,,1,Solid
+1995,18,DET,Theo Ratliff,Wyoming,16.0,810.0,47.9,0.112,0.0,10.3,,,,,,,,,,,,,,1,Solid
+1995,19,DET,Randolph Childress,Wake Forest,2.0,51.0,-0.2,-0.026,-5.7,-0.4,,,,,,,,,,,,,,1,Bust
+1995,20,CHI,Jason Caffey,Alabama,8.0,462.0,13.5,0.072,-3.6,-3.6,,,,,,,,,,,,,,1,Bust
+1995,21,PHO,Michael Finley,Wisconsin,15.0,1103.0,85.2,0.108,1.0,28.8,,,,,,,,,,,,,,1,Star
+1995,22,CHH,George Zídek,UCLA,3.0,135.0,0.8,0.029,-7.5,-1.8,,,,,,,,,,,,,,1,Bust
+1995,23,IND,Travis Best,Georgia Tech,10.0,708.0,30.9,0.098,-0.4,6.0,,,,,,,,,,,,,,1,Solid
+1995,24,DAL,Loren Meyer,Iowa State,3.0,140.0,0.5,0.012,-7.2,-2.7,,,,,,,,,,,,,,1,Bust
+1995,25,ORL,David Vaughn,Memphis,4.0,118.0,0.6,0.026,-6.4,-1.3,,,,,,,,,,,,,,1,Bust
+1995,26,SEA,Sherell Ford,University of Illinois at Chicago,1.0,28.0,0.4,0.124,-5.2,-0.1,,,,,,,,,,,,,,1,Bust
+1995,27,PHO,Mario Bennett,Arizona State,4.0,68.0,1.9,0.153,-0.8,0.2,,,,,,,,,,,,,,1,Bust
+1995,28,UTA,Greg Ostertag,Kansas,11.0,756.0,33.8,0.11,-0.6,5.1,,,,,,,,,,,,,,1,Solid
+1995,29,SAS,Cory Alexander,Virginia,7.0,307.0,3.0,0.03,-1.7,0.4,,,,,,,,,,,,,,1,Bust
+1995,30,DET,Lou Roe,UMass,2.0,66.0,0.0,-0.001,-4.9,-0.4,,,,,,,,,,,,,,1,Bust
+1995,31,CHI,Dragan Tarlać,Unknown,1.0,43.0,-0.2,-0.016,-7.3,-0.8,,,,,,,,,,,,,,2,Bust
+1995,32,WSB,Terrence Rencher,Texas,1.0,36.0,-0.2,-0.021,-4.0,-0.2,,,,,,,,,,,,,,2,Bust
+1995,33,BOS,Junior Burrough,Virginia,1.0,61.0,-0.2,-0.018,-7.5,-0.7,,,,,,,,,,,,,,2,Bust
+1995,34,GSW,Andrew DeClercq,Florida,10.0,587.0,19.3,0.094,-2.9,-2.4,,,,,,,,,,,,,,2,Solid
+1995,35,TOR,Jimmy King,Michigan,2.0,64.0,0.0,0.001,-4.6,-0.6,,,,,,,,,,,,,,2,Bust
+1995,36,VAN,Lawrence Moten,Syracuse,3.0,119.0,0.0,0.001,-2.1,0.0,,,,,,,,,,,,,,2,Bust
+1995,37,LAL,Frankie King,Western Carolina University,2.0,13.0,0.0,0.025,-4.7,-0.1,,,,,,,,,,,,,,2,Bust
+1995,39,CLE,Donny Marshall,UConn,5.0,119.0,0.9,0.045,-3.8,-0.4,,,,,,,,,,,,,,2,Bust
+1995,40,GSW,Dwayne Whitfield,Jackson State University,1.0,8.0,0.0,0.01,-7.2,-0.2,,,,,,,,,,,,,,2,Bust
+1995,42,ATL,Donnie Boyce,Colorado,2.0,30.0,-0.3,-0.064,-4.9,-0.1,,,,,,,,,,,,,,2,Bust
+1995,43,MIL,Eric Snow,Michigan State,13.0,846.0,43.4,0.09,-1.0,5.9,,,,,,,,,,,,,,2,Solid
+1995,47,SAC,Tyus Edney,UCLA,4.0,226.0,6.8,0.068,-1.5,0.7,,,,,,,,,,,,,,2,Bust
+1995,48,MIN,Mark Davis,Texas Tech,5.0,230.0,2.3,0.03,-2.4,-0.4,,,,,,,,,,,,,,2,Bust
+1995,49,MIN,Jerome Allen,Penn,2.0,117.0,0.2,0.006,-3.2,-0.4,,,,,,,,,,,,,,2,Bust
+1995,50,GSW,Martin Lewis,Seward County Community College,2.0,25.0,0.1,0.026,-5.0,-0.2,,,,,,,,,,,,,,2,Bust
+1995,52,IND,Fred Hoiberg,Iowa State,10.0,541.0,27.6,0.133,1.2,8.0,,,,,,,,,,,,,,2,Solid
+1995,55,GSW,Michael McDonald,New Orleans,1.0,1.0,-0.1,-0.638,-32.4,0.0,,,,,,,,,,,,,,2,Bust
+1995,56,PHO,Chris Carr,Southern Illinois,6.0,297.0,3.9,0.042,-3.0,-1.1,,,,,,,,,,,,,,2,Bust
+1995,57,ATL,Cuonzo Martin,Purdue,2.0,7.0,-0.1,-0.151,-6.3,0.0,,,,,,,,,,,,,,2,Bust
+1995,58,DET,Don Reid,Georgetown,8.0,403.0,13.7,0.123,-2.1,-0.2,,,,,,,,,,,,,,2,Bust
+1996,1,PHI,Allen Iverson,Georgetown,14.0,914.0,99.0,0.126,3.2,49.6,,,,,,,,,,,,,,1,Star
+1996,2,TOR,Marcus Camby,UMass,17.0,973.0,81.6,0.137,2.3,31.3,,,,,,,,,,,,,,1,Star
+1996,3,VAN,Shareef Abdur-Rahim,California,12.0,830.0,71.2,0.118,1.0,21.9,,,,,,,,,,,,,,1,Star
+1996,4,MIL,Stephon Marbury,Georgia Tech,13.0,846.0,77.5,0.117,1.8,30.7,,,,,,,,,,,,,,1,Star
+1996,5,MIN,Ray Allen,UConn,18.0,1300.0,145.1,0.15,2.9,57.6,,,,,,,,,,,,,,1,Star
+1996,6,BOS,Antoine Walker,Kentucky,12.0,893.0,38.1,0.058,0.3,18.0,,,,,,,,,,,,,,1,Solid
+1996,7,LAC,Lorenzen Wright,Memphis,13.0,778.0,30.5,0.079,-2.6,-3.0,,,,,,,,,,,,,,1,Solid
+1996,8,NJN,Kerry Kittles,Villanova,8.0,507.0,44.8,0.127,2.2,18.0,,,,,,,,,,,,,,1,Solid
+1996,9,DAL,Samaki Walker,Louisville,10.0,445.0,14.2,0.089,-2.6,-1.1,,,,,,,,,,,,,,1,Bust
+1996,10,IND,Erick Dampier,Mississippi State,16.0,987.0,52.7,0.105,-1.3,4.1,,,,,,,,,,,,,,1,Star
+1996,11,GSW,Todd Fuller,NC State,5.0,225.0,2.2,0.041,-5.7,-2.3,,,,,,,,,,,,,,1,Bust
+1996,12,CLE,Vitaly Potapenko,Wright State University,11.0,610.0,15.5,0.064,-4.0,-5.9,,,,,,,,,,,,,,1,Solid
+1996,13,CHH,Kobe Bryant,Unknown,20.0,1346.0,172.7,0.17,4.6,80.1,,,,,,,,,,,,,,1,Star
+1996,14,SAC,Peja Stojaković,Unknown,13.0,804.0,82.6,0.147,1.9,26.2,,,,,,,,,,,,,,1,Star
+1996,15,PHO,Steve Nash,Santa Clara,18.0,1217.0,129.7,0.164,3.0,48.2,,,,,,,,,,,,,,1,Star
+1996,16,CHH,Tony Delk,Kentucky,10.0,545.0,19.5,0.08,-0.4,4.8,,,,,,,,,,,,,,1,Solid
+1996,17,POR,Jermaine O'Neal,Unknown,18.0,1011.0,66.0,0.116,0.3,15.6,,,,,,,,,,,,,,1,Star
+1996,18,NYK,John Wallace,Syracuse,7.0,381.0,6.4,0.05,-2.7,-1.0,,,,,,,,,,,,,,1,Bust
+1996,19,NYK,Walter McCarty,Kentucky,10.0,593.0,13.7,0.064,-1.7,0.8,,,,,,,,,,,,,,1,Bust
+1996,20,CLE,Zydrunas Ilgauskas,Unknown,13.0,843.0,66.3,0.139,-0.2,10.2,,,,,,,,,,,,,,1,Star
+1996,21,NYK,Dontae' Jones,Mississippi State,1.0,15.0,-0.3,-0.175,-10.9,-0.2,,,,,,,,,,,,,,1,Bust
+1996,22,VAN,Roy Rogers,Alabama,3.0,137.0,1.7,0.035,-3.7,-1.0,,,,,,,,,,,,,,1,Bust
+1996,23,DEN,Efthimios Rentzias,Unknown,1.0,35.0,0.2,0.058,-3.8,-0.1,,,,,,,,,,,,,,1,Bust
+1996,24,LAL,Derek Fisher,Little Rock,18.0,1287.0,62.3,0.091,-0.9,8.9,,,,,,,,,,,,,,1,Star
+1996,25,UTA,Martin Müürsepp,Unknown,2.0,83.0,2.0,0.1,-1.6,0.1,,,,,,,,,,,,,,1,Bust
+1996,26,DET,Jerome Williams,Georgetown,9.0,587.0,37.9,0.143,0.3,7.4,,,,,,,,,,,,,,1,Solid
+1996,27,ORL,Brian Evans,Indiana,3.0,102.0,1.7,0.076,-0.8,0.3,,,,,,,,,,,,,,1,Bust
+1996,28,ATL,Priest Lauderdale,Central State University,2.0,74.0,-0.8,-0.074,-7.9,-0.8,,,,,,,,,,,,,,1,Bust
+1996,29,CHI,Travis Knight,UConn,7.0,371.0,7.9,0.083,-3.0,-1.1,,,,,,,,,,,,,,1,Bust
+1996,30,HOU,Othella Harrington,Georgetown,12.0,709.0,23.1,0.08,-3.4,-4.9,,,,,,,,,,,,,,1,Solid
+1996,31,PHI,Mark Hendrickson,Washington State,4.0,114.0,2.1,0.067,-3.8,-0.7,,,,,,,,,,,,,,2,Bust
+1996,33,MIL,Moochie Norris,University of West Florida,9.0,445.0,10.0,0.063,-1.4,1.2,,,,,,,,,,,,,,2,Bust
+1996,37,DEN,Jeff McInnis,UNC,11.0,576.0,23.1,0.07,-2.1,-0.3,,,,,,,,,,,,,,2,Solid
+1996,38,BOS,Steve Hamer,Tennessee,1.0,35.0,0.2,0.031,-6.5,-0.3,,,,,,,,,,,,,,2,Bust
+1996,41,SAC,Jason Sasser,Texas Tech,2.0,14.0,0.0,-0.014,-5.7,-0.1,,,,,,,,,,,,,,2,Bust
+1996,42,HOU,Randy Livingston,LSU,11.0,203.0,2.3,0.041,-2.5,-0.3,,,,,,,,,,,,,,2,Bust
+1996,43,PHO,Ben Davis,Arizona,4.0,40.0,0.1,0.04,-5.5,-0.1,,,,,,,,,,,,,,2,Bust
+1996,44,CHH,Malik Rose,Drexel,13.0,813.0,26.5,0.095,-2.1,-0.4,,,,,,,,,,,,,,2,Solid
+1996,46,POR,Marcus Brown,Murray State,2.0,27.0,0.3,0.066,-2.6,0.0,,,,,,,,,,,,,,2,Bust
+1996,48,PHI,Jamie Feick,Michigan State,5.0,201.0,8.2,0.091,-2.7,-0.7,,,,,,,,,,,,,,2,Bust
+1996,49,ORL,Amal McCaskill,Marquette,4.0,114.0,0.5,0.024,-4.7,-0.7,,,,,,,,,,,,,,2,Bust
+1996,51,VAN,Chris Robinson,Western Kentucky,2.0,76.0,-0.1,-0.003,-4.0,-0.6,,,,,,,,,,,,,,2,Bust
+1996,52,IND,Mark Pope,Kentucky,6.0,153.0,1.3,0.038,-4.3,-0.9,,,,,,,,,,,,,,2,Bust
+1996,53,MIL,Jeff Nordgaard,Green Bay,1.0,13.0,0.0,0.043,-3.7,0.0,,,,,,,,,,,,,,2,Bust
+1996,54,UTA,Shandon Anderson,Georgia,10.0,719.0,23.6,0.071,-1.3,3.0,,,,,,,,,,,,,,2,Solid
+1996,56,CLE,Reggie Geary,Arizona,2.0,101.0,0.6,0.032,-2.5,-0.1,,,,,,,,,,,,,,2,Bust
+1996,57,SEA,Drew Barry,Georgia Tech,3.0,60.0,0.6,0.051,-3.5,-0.2,,,,,,,,,,,,,,2,Bust
+1997,1,SAS,Tim Duncan,Wake Forest,19.0,1392.0,206.4,0.209,5.6,91.1,,,,,,,,,,,,,,1,Star
+1997,2,PHI,Keith Van Horn,Utah,9.0,575.0,41.7,0.11,0.1,9.6,,,,,,,,,,,,,,1,Solid
+1997,3,BOS,Chauncey Billups,Colorado,17.0,1043.0,120.8,0.176,3.2,43.5,,,,,,,,,,,,,,1,Star
+1997,4,VAN,Antonio Daniels,Bowling Green,13.0,872.0,47.0,0.115,0.0,10.1,,,,,,,,,,,,,,1,Solid
+1997,5,DEN,Tony Battie,Texas Tech,14.0,837.0,36.4,0.099,-1.8,0.8,,,,,,,,,,,,,,1,Solid
+1997,6,BOS,Ron Mercer,Kentucky,8.0,432.0,9.4,0.034,-2.7,-2.5,,,,,,,,,,,,,,1,Bust
+1997,7,NJN,Tim Thomas,Villanova,13.0,824.0,35.2,0.079,-0.8,6.4,,,,,,,,,,,,,,1,Solid
+1997,8,GSW,Adonal Foyle,Colgate,12.0,733.0,18.7,0.069,-1.7,1.1,,,,,,,,,,,,,,1,Solid
+1997,9,TOR,Tracy McGrady,Unknown,15.0,938.0,97.3,0.152,5.2,55.7,,,,,,,,,,,,,,1,Star
+1997,10,MIL,Danny Fortson,Cincinnati,10.0,440.0,22.3,0.121,-3.2,-2.6,,,,,,,,,,,,,,1,Solid
+1997,11,SAC,Tariq Abdul-Wahad,San Jose State,6.0,236.0,3.5,0.035,-3.0,-1.2,,,,,,,,,,,,,,1,Bust
+1997,12,IND,Austin Croshere,Providence,12.0,659.0,27.6,0.115,-0.1,5.6,,,,,,,,,,,,,,1,Solid
+1997,13,CLE,Derek Anderson,Kentucky,11.0,615.0,43.9,0.117,1.0,13.5,,,,,,,,,,,,,,1,Solid
+1997,14,LAC,Maurice Taylor,Michigan,9.0,534.0,9.9,0.036,-3.6,-5.3,,,,,,,,,,,,,,1,Bust
+1997,15,DAL,Kelvin Cato,Iowa State,10.0,541.0,28.6,0.129,-0.3,4.4,,,,,,,,,,,,,,1,Solid
+1997,16,CLE,Brevin Knight,Stanford,12.0,729.0,32.6,0.086,0.3,10.5,,,,,,,,,,,,,,1,Solid
+1997,17,ORL,Johnny Taylor,Chattanooga,3.0,54.0,0.1,0.007,-4.0,-0.4,,,,,,,,,,,,,,1,Bust
+1997,18,POR,Chris Anstey,Unknown,3.0,155.0,2.8,0.062,-2.9,-0.5,,,,,,,,,,,,,,1,Bust
+1997,19,DET,Scot Pollard,Kansas,11.0,506.0,26.6,0.153,-0.6,2.9,,,,,,,,,,,,,,1,Solid
+1997,20,MIN,Paul Grant,Wisconsin,2.0,16.0,-0.1,-0.043,-8.7,-0.2,,,,,,,,,,,,,,1,Bust
+1997,21,NJN,Anthony Parker,Bradley,9.0,494.0,24.5,0.085,-0.2,6.1,,,,,,,,,,,,,,1,Solid
+1997,22,ATL,Ed Gray,California,2.0,60.0,0.1,0.009,-4.0,-0.4,,,,,,,,,,,,,,1,Bust
+1997,23,SEA,Bobby Jackson,Minnesota,12.0,755.0,31.4,0.09,0.4,10.0,,,,,,,,,,,,,,1,Solid
+1997,24,HOU,Rodrick Rhodes,USC,3.0,72.0,-1.6,-0.064,-6.3,-1.3,,,,,,,,,,,,,,1,Bust
+1997,25,NYK,John Thomas,Minnesota,5.0,208.0,3.2,0.067,-4.4,-1.4,,,,,,,,,,,,,,1,Bust
+1997,26,MIA,Charles Smith,New Mexico,5.0,142.0,1.5,0.036,-1.1,0.4,,,,,,,,,,,,,,1,Bust
+1997,27,UTA,Jacque Vaughn,Kansas,12.0,776.0,15.4,0.058,-3.4,-4.5,,,,,,,,,,,,,,1,Solid
+1997,28,CHI,Keith Booth,Maryland,2.0,45.0,-0.8,-0.08,-6.1,-0.5,,,,,,,,,,,,,,1,Bust
+1997,31,DET,Charles O'Bannon,UCLA,2.0,48.0,0.6,0.07,-2.0,0.0,,,,,,,,,,,,,,2,Bust
+1997,32,DEN,James Cotton,Cal State Long Beach,2.0,19.0,0.0,0.008,-6.6,-0.1,,,,,,,,,,,,,,2,Bust
+1997,33,PHI,Marko Milič,Unknown,2.0,44.0,0.2,0.047,-2.4,0.0,,,,,,,,,,,,,,2,Bust
+1997,34,DAL,Bubba Wells,Austin Peay State University,1.0,39.0,0.1,0.013,-3.5,-0.2,,,,,,,,,,,,,,2,Bust
+1997,35,PHI,Kebu Stewart,Cal State-Bakersfield,1.0,15.0,0.2,0.098,-1.4,0.0,,,,,,,,,,,,,,2,Bust
+1997,36,PHI,James Collins,Florida State,1.0,23.0,0.0,0.008,-1.0,0.0,,,,,,,,,,,,,,2,Bust
+1997,37,GSW,Marc Jackson,Temple,7.0,387.0,13.0,0.082,-2.7,-1.4,,,,,,,,,,,,,,2,Bust
+1997,38,MIL,Jerald Honeycutt,Tulane,2.0,54.0,0.3,0.02,-3.3,-0.2,,,,,,,,,,,,,,2,Bust
+1997,39,SAC,Anthony Johnson,College of Charleston,13.0,793.0,23.2,0.072,-1.5,2.0,,,,,,,,,,,,,,2,Solid
+1997,41,DEN,Jason Lawson,Villanova,1.0,17.0,0.5,0.28,4.8,0.1,,,,,,,,,,,,,,2,Bust
+1997,42,PHO,Stephen Jackson,Butler County Community College,14.0,858.0,36.1,0.063,-0.4,11.2,,,,,,,,,,,,,,2,Solid
+1997,44,CLE,Cedric Henderson,Memphis,5.0,260.0,3.3,0.026,-2.8,-1.3,,,,,,,,,,,,,,2,Bust
+1997,45,WAS,God Shammgod,Providence,1.0,20.0,-0.1,-0.049,-6.2,-0.2,,,,,,,,,,,,,,2,Bust
+1997,46,ORL,Eric Washington,Alabama,2.0,104.0,0.1,0.002,-3.5,-0.9,,,,,,,,,,,,,,2,Bust
+1997,47,POR,Alvin Williams,Villanova,9.0,460.0,21.7,0.082,-0.4,4.9,,,,,,,,,,,,,,2,Solid
+1997,48,WAS,Predrag Drobnjak,Unknown,4.0,278.0,5.6,0.048,-3.0,-1.3,,,,,,,,,,,,,,2,Bust
+1997,50,ATL,Chris Crawford,Marquette,7.0,252.0,6.5,0.078,-2.6,-0.6,,,,,,,,,,,,,,2,Bust
+1997,51,LAL,DeJuan Wheat,Louisville,2.0,80.0,0.5,0.034,-1.9,0.0,,,,,,,,,,,,,,2,Bust
+1997,54,SEA,Mark Blount,Pitt,9.0,605.0,18.8,0.065,-2.7,-2.5,,,,,,,,,,,,,,2,Solid
+1998,1,LAC,Michael Olowokandi,University of the Pacific,9.0,500.0,2.5,0.009,-4.6,-8.5,,,,,,,,,,,,,,1,Bust
+1998,2,VAN,Mike Bibby,Arizona,14.0,1001.0,73.2,0.104,0.8,23.8,,,,,,,,,,,,,,1,Star
+1998,3,DEN,Raef LaFrentz,Kansas,10.0,563.0,39.4,0.13,0.7,9.8,,,,,,,,,,,,,,1,Solid
+1998,4,TOR,Antawn Jamison,UNC,16.0,1083.0,87.8,0.112,0.6,24.5,,,,,,,,,,,,,,1,Star
+1998,5,GSW,Vince Carter,UNC,22.0,1541.0,125.3,0.13,3.0,57.9,,,,,,,,,,,,,,1,Star
+1998,6,DAL,Robert Traylor,Michigan,7.0,438.0,13.3,0.102,-1.6,0.7,,,,,,,,,,,,,,1,Bust
+1998,7,SAC,Jason Williams,Florida,12.0,788.0,38.5,0.08,0.2,12.9,,,,,,,,,,,,,,1,Solid
+1998,8,PHI,Larry Hughes,Saint Louis,13.0,727.0,32.3,0.069,-0.1,10.7,,,,,,,,,,,,,,1,Solid
+1998,9,MIL,Dirk Nowitzki,Unknown,21.0,1522.0,206.3,0.193,4.5,84.8,,,,,,,,,,,,,,1,Star
+1998,10,BOS,Paul Pierce,Kansas,19.0,1343.0,150.0,0.157,3.7,65.5,,,,,,,,,,,,,,1,Star
+1998,11,DET,Bonzi Wells,Ball State University,10.0,591.0,29.4,0.093,0.2,8.3,,,,,,,,,,,,,,1,Solid
+1998,12,ORL,Michael Doleac,Utah,10.0,587.0,12.7,0.07,-3.7,-3.7,,,,,,,,,,,,,,1,Bust
+1998,13,ORL,Keon Clark,UNLV,6.0,353.0,18.2,0.11,-0.7,2.6,,,,,,,,,,,,,,1,Solid
+1998,14,HOU,Michael Dickerson,Arizona,5.0,212.0,9.6,0.061,-1.3,1.3,,,,,,,,,,,,,,1,Bust
+1998,15,ORL,Matt Harpring,Georgia Tech,11.0,665.0,41.9,0.114,-0.6,6.2,,,,,,,,,,,,,,1,Solid
+1998,16,HOU,Bryce Drew,Valparaiso,6.0,243.0,2.4,0.03,-3.1,-1.1,,,,,,,,,,,,,,1,Bust
+1998,17,MIN,Rasho Nesterović,Unknown,12.0,811.0,39.9,0.107,-0.9,5.0,,,,,,,,,,,,,,1,Solid
+1998,18,HOU,Mirsad Türkcan,Unknown,1.0,17.0,0.0,-0.019,-6.3,-0.1,,,,,,,,,,,,,,1,Bust
+1998,19,MIL,Pat Garrity,Notre Dame,10.0,552.0,18.7,0.081,-1.8,0.5,,,,,,,,,,,,,,1,Solid
+1998,20,ATL,Roshown McLeod,Duke,3.0,113.0,0.2,0.004,-4.4,-1.3,,,,,,,,,,,,,,1,Bust
+1998,21,CHH,Ricky Davis,Iowa,12.0,736.0,28.0,0.061,-0.8,6.3,,,,,,,,,,,,,,1,Solid
+1998,22,LAC,Brian Skinner,Baylor,14.0,608.0,15.8,0.07,-2.5,-1.5,,,,,,,,,,,,,,1,Solid
+1998,23,DEN,Tyronn Lue,Nebraska,11.0,554.0,19.7,0.075,-1.8,0.6,,,,,,,,,,,,,,1,Solid
+1998,24,SAS,Felipe López,St. John's,4.0,249.0,3.1,0.036,-2.5,-0.5,,,,,,,,,,,,,,1,Bust
+1998,25,IND,Al Harrington,Unknown,16.0,981.0,42.5,0.073,-1.5,3.7,,,,,,,,,,,,,,1,Solid
+1998,26,LAL,Sam Jacobson,Minnesota,3.0,68.0,1.1,0.071,-3.9,-0.4,,,,,,,,,,,,,,1,Bust
+1998,27,SEA,Vladimir Stepania,Unknown,6.0,270.0,5.2,0.067,-3.3,-1.2,,,,,,,,,,,,,,1,Bust
+1998,28,CHI,Corey Benjamin,Oregon State,4.0,153.0,-0.9,-0.019,-4.8,-1.6,,,,,,,,,,,,,,1,Bust
+1998,29,UTA,Nazr Mohammed,Kentucky,18.0,1005.0,34.3,0.104,-2.6,-2.2,,,,,,,,,,,,,,1,Solid
+1998,30,DAL,Ansu Sesay,Ole Miss,4.0,127.0,1.4,0.051,-3.3,-0.4,,,,,,,,,,,,,,1,Bust
+1998,31,LAL,Ruben Patterson,Cincinnati,10.0,649.0,35.1,0.106,0.7,10.8,,,,,,,,,,,,,,2,Solid
+1998,32,SEA,Rashard Lewis,Unknown,16.0,1049.0,90.9,0.13,1.9,33.1,,,,,,,,,,,,,,2,Star
+1998,33,SEA,Jelani McCoy,UCLA,8.0,260.0,5.1,0.064,-2.9,-0.9,,,,,,,,,,,,,,2,Bust
+1998,34,CHI,Shammond Williams,UNC,7.0,325.0,8.8,0.079,-0.7,1.7,,,,,,,,,,,,,,2,Bust
+1998,35,DAL,Bruno Šundov,Unknown,7.0,102.0,-0.7,-0.062,-8.9,-0.9,,,,,,,,,,,,,,2,Bust
+1998,36,SAC,Jerome James,Florida A&M,9.0,358.0,2.9,0.029,-4.9,-3.5,,,,,,,,,,,,,,2,Bust
+1998,37,PHI,Casey Shaw,Toledo,1.0,9.0,-0.1,-0.498,-29.8,-0.1,,,,,,,,,,,,,,2,Bust
+1998,38,NYK,DeMarco Johnson,UNC Charlotte,1.0,5.0,-0.1,-0.091,-10.3,-0.1,,,,,,,,,,,,,,2,Bust
+1998,39,MIL,Rafer Alston,Fresno State,11.0,671.0,32.9,0.081,0.0,9.6,,,,,,,,,,,,,,2,Solid
+1998,40,DET,Korleone Young,Unknown,1.0,3.0,0.1,0.28,9.4,0.0,,,,,,,,,,,,,,2,Bust
+1998,41,HOU,Cuttino Mobley,Rhode Island,11.0,747.0,52.2,0.091,-0.1,12.9,,,,,,,,,,,,,,2,Star
+1998,42,ORL,Miles Simon,Arizona,1.0,5.0,-0.1,-0.289,-17.4,-0.1,,,,,,,,,,,,,,2,Bust
+1998,43,WAS,Jahidi White,Georgetown,7.0,334.0,10.4,0.085,-3.2,-1.8,,,,,,,,,,,,,,2,Bust
+1998,44,NYK,Sean Marks,California,11.0,230.0,2.6,0.055,-5.0,-1.7,,,,,,,,,,,,,,2,Bust
+1998,45,LAL,Toby Bailey,UCLA,2.0,73.0,1.0,0.072,-3.5,-0.3,,,,,,,,,,,,,,2,Bust
+1998,46,MIN,Andrae Patterson,Indiana,2.0,40.0,0.7,0.114,-1.9,0.0,,,,,,,,,,,,,,2,Bust
+1998,47,TOR,Tyson Wheeler,Rhode Island,1.0,1.0,0.1,1.367,51.1,0.0,,,,,,,,,,,,,,2,Bust
+1998,48,CLE,Ryan Stack,South Carolina,2.0,43.0,0.2,0.028,-6.7,-0.5,,,,,,,,,,,,,,2,Bust
+1998,49,ATL,Cory Carr,Texas Tech,1.0,42.0,-1.2,-0.089,-8.2,-1.0,,,,,,,,,,,,,,2,Bust
+1998,52,SAS,Derrick Dial,Eastern Michigan,4.0,82.0,0.6,0.045,-2.2,0.0,,,,,,,,,,,,,,2,Bust
+1998,53,DAL,Greg Buckner,Clemson,10.0,570.0,20.9,0.092,-0.9,3.0,,,,,,,,,,,,,,2,Solid
+1998,54,DEN,Tremaine Fowlkes,Fresno State,4.0,103.0,2.1,0.08,-2.0,0.0,,,,,,,,,,,,,,2,Bust
+1998,55,DEN,Ryan Bowen,Iowa,10.0,507.0,12.4,0.092,-0.8,2.0,,,,,,,,,,,,,,2,Bust
+1998,56,VAN,J.R. Henderson,UCLA,1.0,30.0,-0.2,-0.025,-4.8,-0.2,,,,,,,,,,,,,,2,Bust
+1998,57,UTA,Torraye Braggs,Xavier,2.0,22.0,0.3,0.071,-4.9,-0.1,,,,,,,,,,,,,,2,Bust
+1998,58,CHI,Maceo Baston,Michigan,4.0,105.0,2.3,0.134,-1.2,0.2,,,,,,,,,,,,,,2,Bust
+1999,1,CHI,Elton Brand,Duke,17.0,1058.0,109.6,0.151,2.2,37.3,,,,,,,,,,,,,,1,Star
+1999,2,VAN,Steve Francis,Maryland,9.0,576.0,54.1,0.12,2.2,22.7,,,,,,,,,,,,,,1,Star
+1999,3,CHH,Baron Davis,UCLA,13.0,835.0,63.1,0.106,2.6,33.1,,,,,,,,,,,,,,1,Star
+1999,4,LAC,Lamar Odom,Rhode Island,14.0,961.0,77.0,0.115,1.9,31.4,,,,,,,,,,,,,,1,Star
+1999,5,TOR,Jonathan Bender,Unknown,8.0,262.0,3.8,0.047,-2.6,-0.6,,,,,,,,,,,,,,1,Bust
+1999,6,MIN,Wally Szczerbiak,Miami University,10.0,651.0,53.3,0.127,0.7,13.6,,,,,,,,,,,,,,1,Star
+1999,7,WAS,Richard Hamilton,UConn,14.0,921.0,62.8,0.102,-0.2,13.2,,,,,,,,,,,,,,1,Star
+1999,8,CLE,Andre Miller,Utah,17.0,1304.0,100.8,0.12,1.3,33.4,,,,,,,,,,,,,,1,Star
+1999,9,PHO,Shawn Marion,UNLV,16.0,1163.0,124.9,0.15,2.7,47.6,,,,,,,,,,,,,,1,Star
+1999,10,ATL,Jason Terry,Arizona,19.0,1410.0,102.0,0.116,1.5,37.4,,,,,,,,,,,,,,1,Star
+1999,11,CLE,Trajan Langdon,Duke,3.0,119.0,2.9,0.079,-1.1,0.4,,,,,,,,,,,,,,1,Bust
+1999,12,TOR,Aleksandar Radojević,Barton County Community College,2.0,15.0,-0.4,-0.13,-11.6,-0.4,,,,,,,,,,,,,,1,Bust
+1999,13,SEA,Corey Maggette,Duke,14.0,827.0,62.2,0.128,0.3,13.3,,,,,,,,,,,,,,1,Star
+1999,14,MIN,William Avery,Duke,3.0,142.0,-0.9,-0.034,-5.6,-1.1,,,,,,,,,,,,,,1,Bust
+1999,16,CHI,Metta World Peace,St. John's,17.0,991.0,61.1,0.093,1.2,25.4,,,,,,,,,,,,,,1,Star
+1999,17,ATL,Cal Bowdler,Old Dominion,3.0,142.0,1.8,0.061,-3.2,-0.4,,,,,,,,,,,,,,1,Bust
+1999,18,DEN,James Posey,Xavier,12.0,864.0,51.6,0.107,0.3,13.7,,,,,,,,,,,,,,1,Star
+1999,19,UTA,Quincy Lewis,Minnesota,4.0,159.0,0.8,0.02,-4.9,-1.4,,,,,,,,,,,,,,1,Bust
+1999,20,ATL,Dion Glover,Georgia Tech,6.0,294.0,5.8,0.045,-1.8,0.3,,,,,,,,,,,,,,1,Bust
+1999,21,GSW,Jeff Foster,Texas State University,13.0,764.0,47.5,0.145,-0.4,6.3,,,,,,,,,,,,,,1,Solid
+1999,22,HOU,Kenny Thomas,New Mexico,11.0,632.0,31.2,0.086,-1.3,3.1,,,,,,,,,,,,,,1,Solid
+1999,23,LAL,Devean George,Augsburg College,11.0,630.0,18.2,0.075,-1.5,1.4,,,,,,,,,,,,,,1,Solid
+1999,24,UTA,Andrei Kirilenko,Unknown,13.0,797.0,75.4,0.151,4.9,41.7,,,,,,,,,,,,,,1,Star
+1999,25,MIA,Tim James,Miami (FL),3.0,43.0,0.0,-0.003,-7.0,-0.3,,,,,,,,,,,,,,1,Bust
+1999,26,IND,Vonteego Cummings,Pitt,3.0,199.0,2.2,0.028,-2.4,-0.3,,,,,,,,,,,,,,1,Bust
+1999,27,ATL,Jumaine Jones,Georgia,8.0,471.0,15.1,0.074,-1.2,2.1,,,,,,,,,,,,,,1,Solid
+1999,28,UTA,Scott Padgett,Kentucky,8.0,448.0,13.2,0.113,-0.4,2.3,,,,,,,,,,,,,,1,Bust
+1999,29,SAS,Leon Smith,Unknown,2.0,15.0,0.2,0.112,-2.9,0.0,,,,,,,,,,,,,,1,Bust
+1999,30,LAL,John Celestand,Villanova,1.0,16.0,-0.1,-0.038,-7.6,-0.3,,,,,,,,,,,,,,1,Bust
+1999,32,CHI,Michael Ruffin,Tulsa,9.0,414.0,6.8,0.055,-3.3,-2.0,,,,,,,,,,,,,,2,Bust
+1999,33,DEN,Chris Herren,Fresno State,2.0,70.0,0.5,0.025,-4.5,-0.6,,,,,,,,,,,,,,2,Bust
+1999,34,NJN,Evan Eschmeyer,Northwestern,4.0,153.0,4.0,0.09,-3.0,-0.5,,,,,,,,,,,,,,2,Bust
+1999,35,WAS,Calvin Booth,Penn State,10.0,366.0,8.0,0.086,-1.8,0.3,,,,,,,,,,,,,,2,Bust
+1999,36,DAL,Wang Zhizhi,Unknown,5.0,137.0,2.1,0.078,-1.6,0.1,,,,,,,,,,,,,,2,Bust
+1999,37,VAN,Obinna Ekezie,Maryland,4.0,143.0,1.7,0.054,-5.4,-1.3,,,,,,,,,,,,,,2,Bust
+1999,38,ORL,Laron Profit,Maryland,4.0,135.0,0.7,0.021,-2.1,0.0,,,,,,,,,,,,,,2,Bust
+1999,39,CLE,A.J. Bramlett,Arizona,1.0,8.0,-0.2,-0.129,-15.9,-0.2,,,,,,,,,,,,,,2,Bust
+1999,40,DAL,Gordan Giriček,Unknown,6.0,384.0,8.0,0.044,-2.5,-1.1,,,,,,,,,,,,,,2,Bust
+1999,41,DEN,Francisco Elson,California,9.0,472.0,11.7,0.078,-2.7,-1.3,,,,,,,,,,,,,,2,Bust
+1999,43,CHH,Lee Nailon,TCU,6.0,306.0,8.0,0.066,-2.0,0.0,,,,,,,,,,,,,,2,Bust
+1999,45,SAC,Ryan Robertson,Kansas,1.0,1.0,0.0,-0.022,-5.4,0.0,,,,,,,,,,,,,,2,Bust
+1999,47,PHI,Todd MacCulloch,Washington,4.0,223.0,11.9,0.166,0.3,2.0,,,,,,,,,,,,,,2,Bust
+1999,49,CHI,Lari Ketner,UMass,2.0,25.0,0.0,-0.015,-7.4,-0.2,,,,,,,,,,,,,,2,Bust
+1999,53,MIA,Rodney Buford,Creighton,5.0,230.0,2.9,0.033,-3.8,-1.9,,,,,,,,,,,,,,2,Bust
+1999,56,GSW,Tim Young,Stanford,1.0,25.0,0.2,0.058,-4.9,-0.1,,,,,,,,,,,,,,2,Bust
+1999,57,SAS,Manu Ginóbili,Unknown,16.0,1057.0,106.4,0.19,5.0,47.6,,,,,,,,,,,,,,2,Star
+2000,1,NJN,Kenyon Martin,Cincinnati,15.0,757.0,48.0,0.1,0.1,12.1,,,,,,,,,,,,,,1,Solid
+2000,2,VAN,Stromile Swift,LSU,9.0,547.0,21.3,0.095,-1.6,1.1,,,,,,,,,,,,,,1,Solid
+2000,3,LAC,Darius Miles,Unknown,7.0,446.0,9.5,0.039,-1.0,3.0,,,,,,,,,,,,,,1,Bust
+2000,4,CHI,Marcus Fizer,Iowa State,6.0,289.0,2.7,0.022,-3.7,-2.6,,,,,,,,,,,,,,1,Bust
+2000,5,ORL,Mike Miller,Florida,17.0,1032.0,60.7,0.105,0.8,19.8,,,,,,,,,,,,,,1,Star
+2000,6,ATL,DerMarr Johnson,Cincinnati,7.0,344.0,6.4,0.052,-1.6,0.6,,,,,,,,,,,,,,1,Bust
+2000,7,CHI,Chris Mihm,Texas,8.0,436.0,13.3,0.073,-3.9,-4.3,,,,,,,,,,,,,,1,Bust
+2000,8,CLE,Jamal Crawford,Michigan,20.0,1327.0,60.7,0.075,-0.1,18.4,PG-SG,76.5,175.0,82.0,102.5,,,,,,,,0.0,1,Star
+2000,9,HOU,Joel Przybilla,Minnesota,13.0,592.0,23.0,0.094,-1.7,0.8,,,,,,,,,,,,,,1,Solid
+2000,10,ORL,Keyon Dooling,Missouri,13.0,728.0,18.5,0.063,-2.0,-0.2,,,,,,,,,,,,,,1,Solid
+2000,11,BOS,Jérôme Moïso,UCLA,5.0,145.0,2.1,0.074,-2.9,-0.3,,,,,,,,,,,,,,1,Bust
+2000,12,DAL,Etan Thomas,Syracuse,9.0,409.0,14.9,0.101,-2.1,-0.2,,,,,,,,,,,,,,1,Bust
+2000,13,ORL,Courtney Alexander,Fresno State,3.0,187.0,4.1,0.048,-3.7,-1.7,,,,,,,,,,,,,,1,Bust
+2000,14,DET,Mateen Cleaves,Michigan State,6.0,167.0,-0.8,-0.021,-5.6,-1.7,,,,,,,,,,,,,,1,Bust
+2000,15,MIL,Jason Collier,Georgia Tech,5.0,151.0,1.9,0.042,-5.4,-1.9,,,,,,,,,,,,,,1,Bust
+2000,16,SAC,Hedo Türkoğlu,Unknown,15.0,997.0,63.3,0.114,0.9,19.6,,,,,,,,,,,,,,1,Star
+2000,17,SEA,Desmond Mason,Oklahoma State,10.0,643.0,23.1,0.056,-2.4,-2.1,,,,,,,,,,,,,,1,Solid
+2000,18,LAC,Quentin Richardson,DePaul,13.0,783.0,32.8,0.076,-0.4,8.5,,,,,,,,,,,,,,1,Solid
+2000,19,CHH,Jamaal Magloire,Kentucky,12.0,680.0,27.7,0.091,-2.9,-3.1,,,,,,,,,,,,,,1,Solid
+2000,20,PHI,Speedy Claxton,Hofstra,7.0,334.0,14.2,0.08,-0.3,3.6,PG,70.5,166.0,72.0,94.5,,,36.0,42.5,10.48,,3.06,6.0,1,Bust
+2000,21,TOR,Morris Peterson,Michigan State,11.0,711.0,35.7,0.089,-0.4,7.6,,,,,,,,,,,,,,1,Solid
+2000,22,NYK,Donnell Harvey,Florida,5.0,205.0,4.7,0.069,-2.6,-0.5,PF,79.25,220.0,84.5,105.5,,,33.0,32.5,11.23,,,15.0,1,Bust
+2000,23,UTA,DeShawn Stevenson,Unknown,13.0,824.0,12.1,0.032,-2.7,-3.5,,,,,,,,,,,,,,1,Bust
+2000,24,CHI,Dalibor Bagarić,Unknown,3.0,95.0,-0.9,-0.043,-7.9,-1.5,,,,,,,,,,,,,,1,Bust
+2000,25,PHO,Jake Tsakalidis,Unknown,7.0,315.0,9.9,0.095,-3.1,-1.4,,,,,,,,,,,,,,1,Bust
+2000,26,DEN,Mamadou N'Diaye,Auburn,5.0,69.0,1.8,0.101,-4.2,-0.5,,,,,,,,,,,,,,1,Bust
+2000,27,IND,Primož Brezec,Unknown,8.0,342.0,10.8,0.084,-3.1,-1.7,C,84.75,243.0,86.0,110.0,,,26.0,29.5,11.53,,3.55,,1,Bust
+2000,28,POR,Erick Barkley,St. John's,2.0,27.0,0.2,0.027,-3.7,-0.1,,,,,,,,,,,,,,1,Bust
+2000,29,LAL,Mark Madsen,Stanford,9.0,453.0,8.2,0.074,-4.1,-2.9,PF,80.0,236.5,84.5,104.5,,,30.5,33.5,12.12,,3.46,13.0,1,Bust
+2000,30,LAC,Marko Jarić,Unknown,7.0,447.0,12.1,0.052,-0.7,3.8,SG-SF,78.5,210.0,81.0,104.0,,,27.5,33.0,11.32,,3.28,,1,Bust
+2000,31,DAL,Dan Langhi,Vanderbilt,4.0,133.0,0.3,0.012,-4.6,-0.8,SF,81.0,197.5,80.0,104.0,,,31.0,34.5,10.85,,3.24,12.0,2,Bust
+2000,32,CHI,A.J. Guyton,Indiana,3.0,80.0,0.3,0.01,-2.9,-0.3,PG-SG,72.75,175.0,75.75,97.5,,,33.0,37.5,10.55,,3.22,9.0,2,Bust
+2000,33,CHI,Jake Voskuhl,UConn,9.0,450.0,11.6,0.087,-3.8,-3.0,,,,,,,,,,,,,,2,Bust
+2000,34,CHI,Khalid El-Amin,UConn,1.0,50.0,0.6,0.03,-2.4,-0.1,PG,69.0,200.0,73.5,93.0,,,27.5,32.0,10.59,,3.32,6.0,2,Bust
+2000,35,WAS,Mike Smith,Louisiana-Monroe,1.0,17.0,-0.1,-0.033,-4.2,-0.1,SF,78.5,198.0,80.5,103.0,,,33.0,21.0,11.32,,3.22,12.0,2,Bust
+2000,36,NJN,Soumaila Samake,Unknown,2.0,47.0,0.3,0.046,-3.7,-0.1,,,,,,,,,,,,,,2,Bust
+2000,37,MIA,Eddie House,Arizona State,11.0,717.0,20.0,0.077,0.0,6.1,SG-PG,71.75,176.5,75.5,95.0,,,29.5,38.5,11.12,,3.27,5.0,2,Solid
+2000,38,HOU,Eduardo Nájera,Oklahoma,12.0,619.0,24.7,0.106,-0.9,3.0,PF-SF,78.5,234.5,83.5,104.5,,,28.0,35.0,11.38,,3.45,15.0,2,Solid
+2000,39,NYK,Lavor Postell,St. John's,3.0,61.0,-0.2,-0.025,-5.0,-0.3,SG,76.5,205.0,80.5,101.5,,,33.5,36.5,11.79,,3.3,17.0,2,Bust
+2000,40,ATL,Hanno Möttölä,Utah,2.0,155.0,0.9,0.019,-5.9,-2.3,,,,,,,,,,,,,,2,Bust
+2000,42,SEA,Olumide Oyedeji,Unknown,3.0,93.0,1.2,0.095,-4.3,-0.3,,,,,,,,,,,,,,2,Bust
+2000,43,MIL,Michael Redd,Ohio State,12.0,629.0,55.9,0.134,2.2,21.4,SG-SF,76.75,214.0,81.0,102.0,,,27.0,31.0,12.06,,3.34,12.0,2,Star
+2000,44,DET,Brian Cardinal,Purdue,12.0,456.0,15.4,0.114,-0.1,3.2,,,,,,,,,,,,,,2,Solid
+2000,45,SAC,Jabari Smith,LSU,4.0,108.0,1.3,0.058,-4.3,-0.6,PF-C,81.75,240.5,86.5,109.5,,,24.5,30.0,12.45,,3.43,15.0,2,Bust
+2000,49,MIL,Jason Hart,Syracuse,9.0,341.0,8.6,0.078,-1.2,1.0,PG,73.75,181.0,78.0,97.5,,,29.5,33.5,11.7,,3.34,9.0,2,Bust
+2000,50,UTA,Kaniel Dickens,Idaho,3.0,19.0,0.1,0.055,-3.0,0.0,,,,,,,,,,,,,,2,Bust
+2000,51,MIN,Igor Rakočević,Unknown,1.0,42.0,0.1,0.022,-4.9,-0.2,PG,74.5,184.0,77.25,100.0,,,27.5,34.0,10.4,,3.1,9.0,2,Bust
+2000,52,MIA,Ernest Brown,Indian Hills Community College,1.0,3.0,-0.2,-0.349,-18.2,-0.1,C,82.0,222.5,85.25,109.5,,,,,,,,2.0,2,Bust
+2000,53,DEN,Dan McClintock,Northern Arizona University,1.0,6.0,0.0,0.007,-7.9,-0.1,C-PF,83.0,250.0,85.5,107.0,,,33.0,35.0,11.52,,3.33,20.0,2,Bust
+2000,55,GSW,Chris Porter,Auburn,1.0,51.0,0.2,0.008,-4.5,-0.7,SF-PF,77.5,214.0,81.5,103.5,,,28.5,35.0,10.93,,3.2,6.0,2,Bust
+2001,1,WAS,Kwame Brown,Unknown,12.0,607.0,20.8,0.074,-2.4,-1.3,PF-C,82.0,243.0,85.0,108.0,,,30.0,33.0,11.59,,3.45,17.0,1,Solid
+2001,2,LAC,Tyson Chandler,Unknown,19.0,1160.0,102.1,0.155,0.1,16.9,SF-PF,83.5,224.0,87.0,110.0,,,31.0,33.5,12.13,,3.36,2.0,1,Star
+2001,3,ATL,Pau Gasol,Unknown,18.0,1226.0,144.1,0.169,3.6,57.5,,,,,,,,,,,,,,1,Star
+2001,4,CHI,Eddy Curry,Unknown,11.0,527.0,21.7,0.08,-2.4,-1.3,C,82.5,301.0,90.5,111.0,,,28.0,31.0,12.25,,3.53,16.0,1,Solid
+2001,5,GSW,Jason Richardson,Michigan State,13.0,857.0,59.1,0.097,1.2,23.8,SF-SG,76.75,213.0,83.5,102.5,,,32.5,39.5,11.75,,3.12,15.0,1,Star
+2001,6,MEM,Shane Battier,Duke,13.0,977.0,75.7,0.121,1.7,28.2,SF-PF,80.25,229.0,82.5,105.0,,,29.5,33.0,10.95,,3.3,12.0,1,Star
+2001,7,NJN,Eddie Griffin,Seton Hall,5.0,303.0,10.9,0.078,-0.4,2.8,PF-SF,81.25,222.0,87.0,110.0,,,26.5,33.0,11.77,,3.21,3.0,1,Bust
+2001,8,CLE,DeSagana Diop,Unknown,12.0,601.0,12.8,0.073,-1.9,0.2,C,82.0,314.0,90.5,113.0,,,21.5,25.5,12.37,,3.56,15.0,1,Bust
+2001,9,DET,Rodney White,UNC Charlotte,4.0,218.0,1.8,0.026,-2.2,-0.1,SF,79.5,243.0,83.5,104.5,,,27.5,33.0,12.07,,3.47,16.0,1,Bust
+2001,10,BOS,Joe Johnson,Arkansas,18.0,1277.0,82.9,0.09,0.4,26.5,SF-SG,78.75,226.0,81.0,105.0,,,32.5,36.5,12.05,,3.4,12.0,1,Star
+2001,11,BOS,Kedrick Brown,Okaloosa-Walton Community College,4.0,143.0,3.0,0.074,-1.1,0.4,,,,,,,,,,,,,,1,Bust
+2001,12,SEA,Vladimir Radmanović,Unknown,12.0,737.0,26.5,0.079,-0.1,7.6,,,,,,,,,,,,,,1,Solid
+2001,13,HOU,Richard Jefferson,Arizona,17.0,1181.0,83.0,0.116,0.2,19.4,SF,79.25,223.0,84.0,103.0,,,33.0,38.5,11.19,,3.15,14.0,1,Star
+2001,14,GSW,Troy Murphy,Notre Dame,12.0,729.0,50.3,0.121,0.1,10.6,PF,81.75,230.0,83.0,105.5,,,28.5,34.5,11.22,,3.43,11.0,1,Star
+2001,15,ORL,Steven Hunter,DePaul,8.0,400.0,10.6,0.085,-2.3,-0.5,C-PF,82.25,224.0,88.0,108.0,,,30.5,38.5,11.99,,3.15,11.0,1,Bust
+2001,16,CHH,Kirk Haston,Indiana,2.0,27.0,-0.5,-0.197,-13.3,-0.4,PF-SF,80.0,242.0,84.25,106.0,,,27.0,31.5,12.25,,3.35,11.0,1,Bust
+2001,17,TOR,Michael Bradley,Villanova,5.0,173.0,2.0,0.047,-4.0,-1.0,PF,81.5,227.0,85.5,107.0,,,27.0,30.0,11.11,,3.35,13.0,1,Bust
+2001,18,HOU,Jason Collins,Stanford,13.0,735.0,20.1,0.064,-3.7,-6.5,PF-C,82.25,251.0,88.5,110.0,,,25.5,28.5,12.1,,3.54,8.0,1,Solid
+2001,19,POR,Zach Randolph,Michigan State,17.0,1116.0,81.1,0.112,0.2,18.8,,,,,,,,,,,,,,1,Star
+2001,20,CLE,Brendan Haywood,UNC,13.0,816.0,43.8,0.113,-1.4,2.9,C,83.75,266.0,90.5,113.5,,,27.0,28.5,12.87,,3.5,17.0,1,Solid
+2001,21,BOS,Joseph Forte,UNC,2.0,25.0,-0.4,-0.166,-8.6,-0.2,SG,75.5,193.0,78.5,100.5,,,26.5,33.0,11.51,,3.19,10.0,1,Bust
+2001,22,ORL,Jeryl Sasser,SMU,2.0,82.0,0.7,0.032,-2.5,-0.1,PG-SG,77.5,194.0,82.5,103.5,,,29.0,34.0,11.47,,3.22,1.0,1,Bust
+2001,23,HOU,Brandon Armstrong,Pepperdine,3.0,108.0,-0.6,-0.039,-8.0,-1.0,SG,75.5,188.0,81.5,99.5,,,30.0,37.0,10.91,,3.2,6.0,1,Bust
+2001,24,UTA,Raül López,Unknown,2.0,113.0,2.1,0.047,-2.4,-0.2,,,,,,,,,,,,,,1,Bust
+2001,25,SAC,Gerald Wallace,Alabama,14.0,832.0,59.7,0.116,1.8,23.5,,,,,,,,,,,,,,1,Star
+2001,26,PHI,Samuel Dalembert,Seton Hall,13.0,886.0,51.3,0.114,-1.1,4.6,,,,,,,,,,,,,,1,Star
+2001,27,MEM,Jamaal Tinsley,Iowa State,11.0,547.0,17.2,0.057,0.0,7.1,PG,72.75,199.0,79.5,97.5,,,28.0,37.5,11.96,,3.2,1.0,1,Solid
+2001,28,SAS,Tony Parker,Unknown,18.0,1254.0,111.3,0.14,1.1,30.1,,,,,,,,,,,,,,1,Star
+2001,30,CHI,Trenton Hassell,Austin Peay State University,9.0,644.0,13.8,0.041,-2.9,-3.7,SG-SF,76.25,205.0,80.0,99.5,,,35.5,37.5,11.57,,3.29,12.0,1,Bust
+2001,31,GSW,Gilbert Arenas,Arizona,11.0,552.0,51.3,0.127,2.6,22.3,SG,74.25,199.0,81.5,99.5,,,31.5,36.0,,,3.25,12.0,2,Star
+2001,32,ORL,Omar Cook,St. John's,2.0,22.0,-0.1,-0.021,-2.7,0.0,PG,71.5,189.0,77.5,92.0,,,31.0,35.5,10.77,,3.2,9.0,2,Bust
+2001,33,MEM,Will Solomon,Clemson,2.0,115.0,0.0,0.0,-3.3,-0.5,PG-SG,71.75,172.0,81.5,99.5,,,28.5,35.0,11.3,,3.22,4.0,2,Bust
+2001,34,ATL,Terence Morris,Maryland,3.0,139.0,1.0,0.025,-2.8,-0.4,,,,,,,,,,,,,,2,Bust
+2001,35,NJN,Brian Scalabrine,USC,11.0,520.0,7.6,0.054,-2.7,-1.2,PF-SF,80.75,241.0,81.75,105.5,,,27.0,30.5,11.75,,3.47,14.0,2,Bust
+2001,36,CLE,Jeff Trepagnier,USC,3.0,31.0,-0.2,-0.038,-2.8,-0.1,,,,,,,,,,,,,,2,Bust
+2001,37,PHI,Damone Brown,Syracuse,4.0,39.0,-0.7,-0.1,-8.6,-0.6,SF,80.25,202.0,83.75,104.5,,,32.0,37.0,11.81,,3.27,6.0,2,Bust
+2001,38,DET,Mehmet Okur,Unknown,10.0,634.0,54.7,0.142,1.1,14.5,,,,,,,,,,,,,,2,Star
+2001,40,SEA,Earl Watson,UCLA,13.0,878.0,19.2,0.047,-1.4,2.8,PG,72.0,184.0,78.75,97.0,,,32.5,37.5,10.97,,3.19,4.0,2,Solid
+2001,41,IND,Jamison Brewer,Auburn,4.0,54.0,0.0,-0.001,-2.4,0.0,PG,74.5,178.0,80.75,102.5,,,26.0,32.5,9.65,,3.15,12.0,2,Bust
+2001,42,SEA,Bobby Simmons,DePaul,10.0,466.0,20.1,0.084,-0.7,3.6,SF,78.25,235.0,84.25,105.0,,,27.5,34.0,11.69,,3.41,12.0,2,Solid
+2001,45,CHI,Sean Lampley,California,2.0,45.0,1.1,0.096,-1.7,0.0,SF,77.5,213.0,81.25,101.0,,,36.0,40.0,11.06,,3.12,12.0,2,Bust
+2001,46,MIN,Loren Woods,Arizona,6.0,215.0,3.1,0.062,-2.5,-0.3,C-PF,84.75,246.0,89.5,113.0,,,24.5,28.0,11.83,,3.48,10.0,2,Bust
+2001,48,MEM,Antonis Fotsis,Unknown,1.0,28.0,0.1,0.017,-3.4,-0.1,,,,,,,,,,,,,,2,Bust
+2001,49,MIA,Ken Johnson,Ohio State,1.0,16.0,0.0,-0.002,-6.8,-0.2,C,82.75,227.0,88.0,109.5,,,32.5,35.0,11.27,,3.12,13.0,2,Bust
+2001,50,POR,Ruben Boumtje-Boumtje,Georgetown,3.0,44.0,0.2,0.027,-5.4,-0.2,C,83.5,245.0,88.0,111.0,,,26.5,31.0,11.84,,3.33,6.0,2,Bust
+2001,51,PHO,Alton Ford,Houston,3.0,73.0,0.8,0.074,-6.4,-0.6,PF,80.25,271.0,82.5,102.5,,,34.5,36.5,11.7,,3.16,21.0,2,Bust
+2001,53,UTA,Jarron Collins,Stanford,10.0,542.0,15.7,0.088,-3.1,-2.5,C-PF,81.25,252.0,87.0,104.0,,,23.0,29.0,11.65,,3.6,10.0,2,Solid
+2001,54,DAL,Kenny Satterfield,Cincinnati,2.0,75.0,-1.1,-0.051,-4.1,-0.6,PG,73.0,176.0,76.5,98.0,,,28.5,33.0,12.05,,3.2,3.0,2,Bust
+2001,57,PHI,Alvin Jones,Georgia Tech,1.0,23.0,0.1,0.034,-8.7,-0.2,,,,,,,,,,,,,,2,Bust
+2002,1,HOU,Yao Ming,Unknown,8.0,486.0,65.9,0.2,3.2,20.7,,,,,,,,,,,,,,1,Star
+2002,2,CHI,Jay Williams,Duke,1.0,75.0,0.8,0.02,-2.0,0.0,PG,72.25,197.0,75.5,97.0,,,28.5,36.0,10.34,,3.09,10.0,1,Bust
+2002,3,GSW,Mike Dunleavy,Duke,15.0,986.0,58.5,0.103,0.3,15.7,SF,80.0,230.0,81.0,106.0,,,24.5,29.0,11.55,,3.3,11.0,1,Star
+2002,4,MEM,Drew Gooden,Kansas,14.0,790.0,43.9,0.105,-1.2,4.3,PF,80.75,227.0,84.5,106.5,,,29.0,33.0,11.81,,3.19,13.0,1,Solid
+2002,5,DEN,Nikoloz Tskitishvili,Unknown,4.0,172.0,-1.6,-0.039,-6.1,-2.0,,,,,,,,,,,,,,1,Bust
+2002,6,CLE,Dajuan Wagner,Memphis,4.0,103.0,0.0,0.0,-4.9,-1.6,PG-SG,72.75,193.0,74.0,99.0,,,28.0,35.0,12.03,,3.22,16.0,1,Bust
+2002,7,NYK,Nenê,Unknown,17.0,965.0,73.3,0.139,1.0,18.8,,,,,,,,,,,,,,1,Star
+2002,8,LAC,Chris Wilcox,Maryland,11.0,628.0,26.9,0.103,-1.6,1.2,PF-C,80.25,218.0,85.0,107.5,,,31.0,34.5,11.43,,3.16,20.0,1,Solid
+2002,9,PHO,Amar'e Stoudemire,Unknown,14.0,846.0,92.5,0.169,1.3,21.9,PF,80.5,233.0,85.75,108.5,,,32.0,35.5,11.19,,3.25,12.0,1,Star
+2002,10,MIA,Caron Butler,UConn,14.0,881.0,50.9,0.086,-0.2,12.6,SF-SG,77.25,222.0,83.5,103.5,,,27.0,31.0,12.15,,3.33,2.0,1,Star
+2002,11,WAS,Jared Jeffries,Indiana,11.0,629.0,13.1,0.046,-2.4,-1.5,PF,82.0,230.0,84.5,109.0,,,26.0,30.0,11.73,,3.4,9.0,1,Bust
+2002,12,LAC,Melvin Ely,Fresno State,9.0,375.0,4.0,0.032,-4.0,-3.1,PF,81.0,240.0,88.0,111.0,,,26.0,29.0,11.96,,3.35,7.0,1,Bust
+2002,13,MIL,Marcus Haislip,Tennessee,4.0,89.0,0.5,0.026,-4.7,-0.6,PF,80.5,221.0,84.0,107.0,,,33.5,36.5,11.35,,3.21,8.0,1,Bust
+2002,14,IND,Fred Jones,Oregon,7.0,430.0,16.5,0.077,-1.0,2.6,SG,74.25,218.0,84.0,100.0,,,33.5,37.5,11.12,,3.13,,1,Solid
+2002,15,HOU,Boštjan Nachbar,Unknown,6.0,317.0,8.7,0.074,-1.6,0.6,,,,,,,,,,,,,,1,Bust
+2002,16,PHI,Jiří Welsch,Unknown,4.0,247.0,5.7,0.059,-1.9,0.1,,,,,,,,,,,,,,1,Bust
+2002,17,WAS,Juan Dixon,Maryland,7.0,436.0,6.1,0.034,-2.1,-0.3,,,,,,,,,,,,,,1,Bust
+2002,18,ORL,Curtis Borchardt,Stanford,2.0,83.0,1.0,0.041,-3.8,-0.5,C,82.75,238.0,86.5,112.0,,,24.0,27.0,12.56,,3.63,7.0,1,Bust
+2002,19,UTA,Ryan Humphrey,Notre Dame,3.0,85.0,-0.4,-0.027,-8.1,-1.2,PF-SF,78.0,223.0,84.0,104.5,,,31.5,37.5,11.75,,3.2,13.0,1,Bust
+2002,20,TOR,Kareem Rush,Missouri,7.0,346.0,1.7,0.013,-3.2,-1.8,SG-SF,76.75,199.0,81.75,103.5,,,26.0,30.0,11.86,,3.22,15.0,1,Bust
+2002,21,POR,Qyntel Woods,Northeast Mississippi Community College,4.0,167.0,1.4,0.032,-2.7,-0.4,SF-SG,79.0,213.0,82.0,105.0,,,33.5,34.5,11.94,,3.23,2.0,1,Bust
+2002,22,PHO,Casey Jacobsen,Stanford,4.0,287.0,6.2,0.056,-2.2,-0.3,,,,,,,,,,,,,,1,Bust
+2002,23,DET,Tayshaun Prince,Kentucky,14.0,1017.0,63.1,0.096,0.3,18.0,,,,,,,,,,,,,,1,Star
+2002,24,NJN,Nenad Krstić,Unknown,7.0,419.0,21.5,0.098,-2.6,-1.5,,,,,,,,,,,,,,1,Solid
+2002,25,DEN,Frank Williams,Illinois,3.0,86.0,0.1,0.003,-3.2,-0.3,PG,73.5,212.0,80.0,100.5,,,26.0,31.0,11.73,,3.29,,1,Bust
+2002,26,SAS,John Salmons,Miami (FL),13.0,895.0,33.9,0.069,-0.9,6.7,SF-SG,77.5,207.0,82.25,104.0,,,30.5,34.5,11.35,,3.25,12.0,1,Solid
+2002,27,LAL,Chris Jefferies,Fresno State,2.0,72.0,-0.5,-0.03,-5.5,-0.8,,,,,,,,,,,,,,1,Bust
+2002,28,SAC,Dan Dickau,Gonzaga,6.0,300.0,5.9,0.061,-1.5,0.6,,,,,,,,,,,,,,1,Bust
+2002,31,CHI,Roger Mason,Virginia,10.0,518.0,13.0,0.068,-1.4,1.4,,,,,,,,,,,,,,2,Bust
+2002,32,MEM,Robert Archibald,Illinois,2.0,44.0,0.0,-0.004,-6.1,-0.3,PF-C,82.0,250.0,83.75,109.5,,,24.0,27.5,11.34,,3.33,10.0,2,Bust
+2002,33,DEN,Vincent Yarbrough,Tennessee,1.0,59.0,1.0,0.035,-2.4,-0.1,SF,77.5,202.0,84.5,104.5,,,30.0,34.0,11.7,,3.32,10.0,2,Bust
+2002,34,MIL,Dan Gadzuric,UCLA,10.0,527.0,15.8,0.097,-2.3,-0.7,,,,,,,,,,,,,,2,Solid
+2002,35,CLE,Carlos Boozer,Duke,13.0,861.0,80.3,0.143,1.4,23.1,PF,79.75,258.0,86.25,108.5,,,26.5,28.5,10.77,,3.31,13.0,2,Star
+2002,37,ATL,David Andersen,Unknown,2.0,103.0,1.5,0.059,-2.9,-0.3,,,,,,,,,,,,,,2,Bust
+2002,38,HOU,Tito Maddox,Fresno State,1.0,9.0,0.0,-0.011,-1.4,0.0,PG,75.0,200.0,77.0,99.0,,,27.0,32.5,12.2,,3.24,0.0,2,Bust
+2002,40,WAS,Juan Carlos Navarro,Unknown,1.0,82.0,1.4,0.031,-2.3,-0.2,,,,,,,,,,,,,,2,Bust
+2002,41,LAC,Mario Kasun,Unknown,2.0,73.0,0.8,0.069,-7.0,-0.7,C,83.75,260.0,83.5,109.0,,,,,,,,12.0,2,Bust
+2002,42,MIL,Ronald Murray,Shaw,8.0,487.0,8.5,0.037,-2.2,-0.5,SG,75.0,197.0,79.5,100.5,,,31.0,36.5,11.13,,3.16,9.0,2,Bust
+2002,44,CHI,Lonny Baxter,Maryland,4.0,162.0,2.9,0.075,-4.6,-1.2,PF-C,78.25,264.0,85.5,107.5,,,28.0,32.5,11.77,,3.21,14.0,2,Bust
+2002,46,MEM,Matt Barnes,UCLA,14.0,929.0,42.8,0.093,-0.1,10.7,SF,78.75,226.0,81.0,96.5,,,35.5,40.5,10.68,,3.28,11.0,2,Solid
+2002,47,UTA,Jamal Sampson,California,5.0,72.0,1.4,0.106,-2.3,-0.1,,,,,,,,,,,,,,2,Bust
+2002,48,MIL,Chris Owens,Texas,1.0,1.0,0.0,-0.032,-0.5,0.0,PF-SF,79.0,237.0,83.5,104.0,,,,,,,,10.0,2,Bust
+2002,50,BOS,Darius Songaila,Wake Forest,8.0,495.0,15.9,0.083,-2.1,-0.2,PF,80.0,240.0,85.0,108.5,,,24.5,29.5,11.69,,3.52,8.0,2,Solid
+2002,53,MIA,Rasual Butler,La Salle,13.0,809.0,20.8,0.058,-1.4,2.6,SF,78.75,198.0,84.0,105.5,,,31.5,37.5,11.54,,3.29,10.0,2,Solid
+2002,54,NJN,Tamar Slay,Marshall,3.0,66.0,-0.3,-0.029,-5.7,-0.5,SF,78.75,203.0,83.5,104.0,,,32.5,38.0,10.94,,3.09,11.0,2,Bust
+2002,56,SAS,Luis Scola,Unknown,10.0,743.0,45.7,0.115,-0.7,6.4,,,,,,,,,,,,,,2,Solid
+2002,57,SAS,Randy Holcomb,San Diego State,1.0,4.0,0.0,0.15,-1.7,0.0,SF-PF,79.0,225.0,85.0,105.0,,,29.5,35.5,12.85,,3.22,15.0,2,Bust
+2002,58,SAC,Corsley Edwards,Central Connecticut State University,1.0,10.0,0.1,0.026,-6.2,-0.1,PF,79.25,285.0,82.75,106.5,,,28.5,33.0,12.18,,3.31,12.0,2,Bust
+2003,1,CLE,LeBron James,Unknown,19.0,1366.0,249.5,0.23,8.9,142.6,SF-SG,79.25,245.0,84.25,106.3,,,,,,,,,1,Star
+2003,2,DET,Darko Miličić,Unknown,10.0,468.0,7.1,0.04,-2.4,-0.9,PF,83.5,250.0,89.0,111.5,,,26.5,32.5,11.3,,3.36,13.0,1,Bust
+2003,3,DEN,Carmelo Anthony,Syracuse,19.0,1260.0,108.5,0.12,1.3,36.7,SF,78.25,233.0,84.0,105.5,,,30.5,33.5,11.4,,3.15,7.0,1,Star
+2003,4,TOR,Chris Bosh,Georgia Tech,13.0,893.0,106.0,0.159,1.9,31.1,PF,82.25,225.0,87.5,109.0,,,30.5,33.0,11.8,,3.3,9.0,1,Star
+2003,5,MIA,Dwyane Wade,Marquette,16.0,1054.0,120.7,0.162,5.0,62.8,SG-SF,75.75,212.0,82.75,102.0,,,31.5,35.0,10.56,,3.08,9.0,1,Star
+2003,6,LAC,Chris Kaman,Central Michigan University,13.0,735.0,24.6,0.06,-1.9,0.4,C-PF,83.5,252.0,83.75,110.5,,,23.5,30.5,11.33,,3.37,15.0,1,Solid
+2003,7,CHI,Kirk Hinrich,Kansas,13.0,879.0,52.5,0.093,0.0,13.3,PG-SG,74.75,186.0,78.0,98.5,,,29.0,33.5,10.98,,3.1,10.0,1,Star
+2003,8,MIL,T.J. Ford,Texas,8.0,429.0,16.9,0.068,-0.4,4.6,PG,71.0,162.0,71.5,93.5,,,32.5,39.5,11.45,,3.2,0.0,1,Solid
+2003,9,NYK,Mike Sweetney,Georgetown,4.0,233.0,7.8,0.103,-2.7,-0.6,,,,,,,,,,,,,,1,Bust
+2003,10,WAS,Jarvis Hayes,Georgia,7.0,427.0,10.2,0.049,-2.5,-1.3,,,,,,,,,,,,,,1,Bust
+2003,11,GSW,Mickaël Piétrus,Unknown,10.0,557.0,19.7,0.079,-0.9,3.2,,,,,,,,,,,,,,1,Solid
+2003,12,SEA,Nick Collison,Kansas,14.0,910.0,44.5,0.115,-1.3,3.1,PF,80.75,255.0,85.5,108.0,,,28.0,33.0,11.62,,3.28,8.0,1,Solid
+2003,13,MEM,Marcus Banks,UNLV,8.0,348.0,6.6,0.057,-2.0,-0.1,,,,,,,,,,,,,,1,Bust
+2003,14,SEA,Luke Ridnour,Oregon,12.0,830.0,36.0,0.08,-0.6,7.5,PG,73.0,167.0,75.0,95.5,,,26.0,32.5,11.0,,3.28,0.0,1,Solid
+2003,15,ORL,Reece Gaines,Louisville,3.0,71.0,-0.6,-0.049,-6.1,-0.6,,,,,,,,,,,,,,1,Bust
+2003,16,BOS,Troy Bell,Boston College,1.0,6.0,-0.2,-0.326,-19.6,-0.2,PG,72.25,178.0,77.0,97.5,,,34.5,41.0,10.89,,3.06,17.0,1,Bust
+2003,17,PHO,Žarko Čabarkapa,Unknown,3.0,150.0,1.1,0.035,-3.9,-0.7,,,,,,,,,,,,,,1,Bust
+2003,18,NOH,David West,Xavier,15.0,1034.0,85.9,0.141,1.7,27.6,PF-SF,80.25,226.0,88.25,108.3,,,28.5,31.5,12.18,,3.43,11.0,1,Star
+2003,19,UTA,Sasha Pavlović,Unknown,10.0,567.0,7.0,0.038,-3.4,-3.1,,,,,,,,,,,,,,1,Bust
+2003,20,BOS,Dahntay Jones,Duke,13.0,624.0,9.9,0.048,-3.7,-4.1,SG-SF,76.75,214.0,81.0,102.5,,,30.0,39.5,10.91,,3.11,,1,Bust
+2003,21,ATL,Boris Diaw,Unknown,14.0,1064.0,51.6,0.086,0.1,15.5,,,,,,,,,,,,,,1,Star
+2003,22,NJN,Zoran Planinić,Unknown,3.0,148.0,1.5,0.046,-3.5,-0.6,,,,,,,,,,,,,,1,Bust
+2003,23,POR,Travis Outlaw,Unknown,11.0,622.0,16.5,0.061,-1.4,2.1,,,,,,,,,,,,,,1,Solid
+2003,24,LAL,Brian Cook,Illinois,9.0,421.0,10.2,0.086,-1.6,0.5,PF-SF,81.5,234.0,86.0,109.0,,,25.0,29.0,11.87,,3.45,6.0,1,Bust
+2003,25,DET,Carlos Delfino,Unknown,8.0,507.0,22.5,0.093,0.5,7.2,,,,,,,,,,,,,,1,Solid
+2003,26,MIN,Ndudi Ebi,Unknown,2.0,19.0,0.1,0.051,-3.8,0.0,,,,,,,,,,,,,,1,Bust
+2003,27,MEM,Kendrick Perkins,Unknown,14.0,782.0,27.9,0.078,-1.9,0.6,,,,,,,,,,,,,,1,Solid
+2003,28,SAS,Leandro Barbosa,Unknown,14.0,850.0,37.4,0.098,-0.2,8.6,,,,,,,,,,,,,,1,Solid
+2003,29,DAL,Josh Howard,Wake Forest,10.0,507.0,38.0,0.119,0.6,10.0,SF-SG,77.25,202.0,86.0,105.5,,,33.0,36.5,10.89,,3.09,4.0,1,Solid
+2003,30,NYK,Maciej Lampe,Unknown,3.0,64.0,-0.2,-0.014,-7.0,-0.8,,,,,,,,,,,,,,1,Bust
+2003,31,CLE,Jason Kapono,UCLA,9.0,509.0,10.3,0.055,-2.6,-1.3,SG-SF,78.5,215.0,78.5,102.0,,,23.5,30.0,11.04,,3.38,8.0,2,Bust
+2003,32,LAL,Luke Walton,Arizona,10.0,564.0,13.5,0.067,-1.0,2.5,SF-PF,79.75,235.0,80.5,104.0,,,28.0,,,,,12.0,2,Bust
+2003,33,MIA,Jerome Beasley,University of North Dakota,1.0,2.0,0.0,-0.117,-5.2,0.0,SF-PF,81.0,237.0,84.5,107.0,,,27.0,32.0,11.36,,3.25,10.0,2,Bust
+2003,37,ATL,Travis Hansen,BYU,1.0,41.0,0.2,0.019,-6.2,-0.5,SG,76.5,200.0,78.5,100.5,,,31.5,35.0,10.72,,3.18,16.0,2,Bust
+2003,38,WAS,Steve Blake,Maryland,13.0,870.0,29.1,0.067,-1.2,4.2,,,,,,,,,,,,,,2,Solid
+2003,39,NYK,Slavko Vraneš,Unknown,1.0,1.0,0.0,-0.371,-26.2,0.0,,,,,,,,,,,,,,2,Bust
+2003,40,GSW,Derrick Zimmerman,Mississippi State,1.0,2.0,0.0,0.004,-10.4,-0.1,PG,73.0,190.0,81.0,96.3,,,34.0,40.5,11.09,,3.1,13.0,2,Bust
+2003,41,SEA,Willie Green,Detroit Mercy,12.0,731.0,12.9,0.042,-2.7,-2.7,SG-PG,74.5,201.0,79.25,100.0,,,28.5,28.5,11.86,,3.19,13.0,2,Bust
+2003,42,ORL,Zaza Pachulia,Unknown,16.0,1098.0,52.7,0.114,-1.5,2.9,,,,,,,,,,,,,,2,Star
+2003,43,MIL,Keith Bogans,Kentucky,11.0,671.0,20.4,0.068,-1.5,1.9,SG,76.25,213.0,81.25,101.0,,,29.5,35.0,11.43,,3.25,10.0,2,Solid
+2003,45,CHI,Matt Bonner,Florida,12.0,792.0,38.5,0.138,1.0,10.1,PF-SF,80.5,242.0,80.75,105.5,,,27.0,32.0,11.52,,3.32,20.0,2,Solid
+2003,47,UTA,Mo Williams,Alabama,13.0,818.0,40.0,0.08,-0.3,10.0,PG-SG,72.75,189.0,77.5,98.5,,,,,,,,3.0,2,Solid
+2003,48,NOH,James Lang,Unknown,1.0,11.0,0.1,0.047,-6.4,-0.1,C-PF,80.25,316.0,90.25,110.0,,,24.5,32.0,14.01,,3.55,8.0,2,Bust
+2003,49,IND,James Jones,Miami (FL),14.0,709.0,25.2,0.109,-0.1,5.4,SF,79.25,218.0,86.5,107.5,,,30.5,33.0,11.18,,3.19,9.0,2,Solid
+2003,51,NJN,Kyle Korver,Creighton,17.0,1232.0,73.4,0.113,0.6,20.7,SF,78.25,211.0,81.5,102.5,,,25.5,31.5,11.42,,3.47,13.0,2,Star
+2003,56,BOS,Brandon Hunter,Ohio University,2.0,67.0,0.7,0.055,-3.7,-0.3,PF,78.5,266.0,86.75,105.5,,,32.5,35.0,11.13,,3.21,25.0,2,Bust
+2003,58,DET,Andreas Glyniadakis,Unknown,1.0,13.0,-0.2,-0.143,-14.0,-0.2,,,,,,,,,,,,,,2,Bust
+2004,1,ORL,Dwight Howard,Unknown,18.0,1242.0,141.7,0.172,1.9,39.0,PF-C,81.0,240.0,88.5,111.5,,,30.5,35.5,11.21,,3.14,7.0,1,Star
+2004,2,CHA,Emeka Okafor,UConn,10.0,616.0,45.3,0.114,-0.6,6.8,C-PF,80.75,257.0,88.0,110.5,,,31.5,34.0,12.32,,3.15,22.0,1,Solid
+2004,3,CHI,Ben Gordon,UConn,11.0,744.0,33.3,0.078,-0.3,8.7,PG-SG,73.0,192.0,80.5,99.0,,,31.5,37.5,11.28,,3.19,12.0,1,Solid
+2004,4,LAC,Shaun Livingston,Unknown,14.0,833.0,29.9,0.084,-1.0,4.3,PG-SG,78.25,186.0,83.0,105.5,,,26.5,30.0,10.72,,3.23,,1,Solid
+2004,5,WAS,Devin Harris,Wisconsin,15.0,985.0,54.9,0.11,0.6,15.5,PG,73.75,170.0,79.5,98.5,,,30.5,37.0,11.03,,3.19,5.0,1,Star
+2004,6,ATL,Josh Childress,Stanford,8.0,391.0,25.7,0.118,0.8,7.4,SG-SF,77.75,196.0,83.0,105.0,,,29.0,36.0,11.95,,3.38,11.0,1,Solid
+2004,7,PHO,Luol Deng,Duke,15.0,902.0,74.0,0.115,0.9,22.9,SF,79.0,220.0,84.5,108.5,,,27.5,31.5,11.46,,3.34,5.0,1,Star
+2004,8,TOR,Rafael Araújo,BYU,3.0,139.0,-0.4,-0.013,-7.2,-2.1,,,,,,,,,,,,,,1,Bust
+2004,9,PHI,Andre Iguodala,Arizona,18.0,1223.0,100.3,0.122,2.2,41.3,SG-SF,77.75,217.0,83.0,105.5,,,30.5,34.5,11.17,,3.18,4.0,1,Star
+2004,10,CLE,Luke Jackson,Oregon,4.0,73.0,0.2,0.01,-3.7,-0.3,SF-SG,78.0,212.0,80.5,103.0,,,26.5,36.0,11.1,,3.24,13.0,1,Bust
+2004,11,GSW,Andris Biedriņš,Unknown,10.0,516.0,30.7,0.132,-0.4,4.6,C,,,,,,,,,,,,,1,Solid
+2004,12,SEA,Robert Swift,Unknown,4.0,97.0,1.7,0.054,-3.8,-0.7,,,,,,,,,,,,,,1,Bust
+2004,13,POR,Sebastian Telfair,Unknown,10.0,564.0,5.0,0.02,-3.4,-4.2,,,,,,,,,,,,,,1,Bust
+2004,14,UTA,Kris Humphries,Minnesota,13.0,800.0,30.3,0.102,-1.7,1.2,PF,80.25,238.0,84.5,106.5,,,29.5,36.0,11.33,,3.2,22.0,1,Solid
+2004,15,BOS,Al Jefferson,Unknown,14.0,915.0,71.0,0.13,1.2,21.3,PF-SF,80.5,263.0,86.5,110.0,,,28.5,30.0,13.08,,3.29,3.0,1,Star
+2004,16,UTA,Kirk Snyder,Nevada,4.0,211.0,4.5,0.061,-1.2,0.7,SG-SF,78.0,228.0,81.0,104.0,,,30.0,35.0,10.79,,3.13,19.0,1,Bust
+2004,17,ATL,Josh Smith,Unknown,13.0,894.0,51.0,0.084,1.7,27.2,SG-SF,79.0,221.0,84.0,106.5,,,32.5,39.5,11.43,,3.24,12.0,1,Star
+2004,18,NOH,J.R. Smith,Unknown,16.0,977.0,46.3,0.084,0.2,14.7,SG-SF,77.5,227.0,82.0,104.0,,,29.0,35.5,10.93,,3.21,5.0,1,Solid
+2004,19,MIA,Dorell Wright,Unknown,11.0,549.0,25.9,0.101,0.9,9.1,,,,,,,,,,,,,,1,Solid
+2004,20,DEN,Jameer Nelson,Saint Joseph's,14.0,878.0,48.3,0.094,-0.1,11.6,PG,71.0,199.0,74.5,95.0,,,28.5,33.5,10.95,,3.14,15.0,1,Solid
+2004,21,UTA,Pavel Podkolzin,Unknown,2.0,6.0,-0.1,-0.163,-15.0,-0.1,,,,,,,,,,,,,,1,Bust
+2004,22,NJN,Viktor Khryapa,Unknown,4.0,143.0,2.0,0.041,-3.5,-0.9,,,,,,,,,,,,,,1,Bust
+2004,23,POR,Sergei Monia,Unknown,1.0,26.0,-0.2,-0.025,-5.3,-0.3,,,,,,,,,,,,,,1,Bust
+2004,24,BOS,Delonte West,Saint Joseph's,8.0,432.0,24.5,0.099,0.9,8.7,PG-SG,73.5,183.0,78.0,99.5,,,30.0,35.0,11.2,,3.15,12.0,1,Solid
+2004,25,BOS,Tony Allen,Oklahoma State,14.0,820.0,38.7,0.103,0.3,10.4,SG,75.5,214.0,81.0,102.0,,,31.5,36.5,10.7,,3.19,17.0,1,Solid
+2004,26,SAC,Kevin Martin,Western Carolina University,12.0,714.0,61.3,0.137,1.0,16.1,,,,,,,,,,,,,,1,Star
+2004,27,LAL,Sasha Vujačić,Unknown,10.0,581.0,16.0,0.086,-1.0,2.3,,,,,,,,,,,,,,1,Solid
+2004,28,SAS,Beno Udrih,Unknown,13.0,831.0,31.4,0.083,-0.9,4.9,PG,74.5,199.0,76.5,98.0,,,,,,,,2.0,1,Solid
+2004,29,IND,David Harrison,Colorado,4.0,189.0,3.2,0.057,-4.4,-1.7,,,,,,,,,,,,,,1,Bust
+2004,30,ORL,Anderson Varejão,Unknown,14.0,632.0,46.4,0.148,0.3,8.8,,,,,,,,,,,,,,1,Solid
+2004,31,CHI,Jackson Vroman,Iowa State,2.0,87.0,0.0,0.001,-5.1,-0.9,PF-C,81.25,226.0,84.0,105.5,,,29.5,33.5,10.75,,3.25,12.0,2,Bust
+2004,32,WAS,Peter John Ramos,Unknown,1.0,6.0,0.0,-0.108,-10.0,0.0,C,85.75,266.0,89.5,111.5,,,24.0,26.5,12.61,,3.6,2.0,2,Bust
+2004,33,LAC,Lionel Chalmers,Xavier,1.0,36.0,-0.2,-0.025,-5.3,-0.4,,,,,,,,,,,,,,2,Bust
+2004,34,ATL,Donta Smith,Southeastern Illinois College,2.0,61.0,0.5,0.043,-3.2,-0.2,,,,,,,,,,,,,,2,Bust
+2004,35,SEA,Andre Emmett,Texas Tech,2.0,14.0,0.1,0.04,-5.5,-0.1,SG-SF,75.5,216.0,81.0,100.0,,,,,,,,,2,Bust
+2004,36,ORL,Antonio Burks,Memphis,2.0,81.0,0.1,0.004,-5.0,-0.6,PG,72.0,191.0,78.5,96.5,,,,,,,,9.0,2,Bust
+2004,37,ATL,Royal Ivey,Texas,10.0,492.0,4.5,0.035,-3.8,-2.7,,,,,,,,,,,,,,2,Bust
+2004,38,CHI,Chris Duhon,Duke,9.0,606.0,25.0,0.077,-1.2,3.2,PG,72.0,193.0,78.5,98.0,,,31.5,35.0,10.45,,3.14,7.0,2,Solid
+2004,40,BOS,Justin Reed,Ole Miss,3.0,136.0,0.5,0.016,-5.9,-1.4,,,,,,,,,,,,,,2,Bust
+2004,43,NYK,Trevor Ariza,UCLA,18.0,1118.0,64.3,0.094,0.6,21.8,SG-SF,79.0,201.0,86.0,107.5,,,29.5,32.0,11.63,,3.29,8.0,2,Star
+2004,45,CHA,Bernard Robinson,Michigan,3.0,128.0,2.0,0.049,-2.0,0.0,SG-SF,77.25,208.0,82.0,102.0,,,28.5,34.5,10.91,,3.17,14.0,2,Bust
+2004,46,POR,Ha Seung-Jin,Unknown,2.0,46.0,-0.2,-0.029,-8.8,-0.5,,,,,,,,,,,,,,2,Bust
+2004,47,MIA,Pape Sow,Cal State Fullerton,3.0,76.0,0.8,0.044,-5.7,-0.8,PF-C,80.5,233.0,86.0,108.5,,,28.0,31.5,12.13,,3.27,18.0,2,Bust
+2004,50,DAL,Vassilis Spanoulis,Unknown,1.0,31.0,-0.1,-0.01,-5.9,-0.3,,,,,,,,,,,,,,2,Bust
+2004,53,MIA,Matt Freije,Vanderbilt,2.0,42.0,-0.6,-0.047,-6.0,-0.6,SF-PF,80.25,234.0,85.0,108.5,,,29.5,31.0,11.15,,3.25,13.0,2,Bust
+2004,55,HOU,Luis Flores,Manhattan College,1.0,16.0,0.0,-0.02,-4.8,0.0,PG-SG,72.5,202.0,79.5,98.5,,,29.0,32.0,10.97,,3.1,15.0,2,Bust
+2005,1,MIL,Andrew Bogut,Utah,14.0,706.0,50.6,0.122,1.2,16.0,C-PF,83.0,250.6,87.0,110.5,,,27.5,33.5,12.06,,3.51,13.0,1,Star
+2005,2,ATL,Marvin Williams,UNC,15.0,1072.0,65.1,0.104,-0.4,12.3,PF-SF,79.0,228.2,87.5,108.0,,,29.5,35.0,11.11,,3.17,12.0,1,Star
+2005,3,UTA,Deron Williams,Illinois,12.0,845.0,77.3,0.129,1.9,28.3,PG,73.75,202.4,78.25,98.0,,,30.0,35.0,10.83,,3.25,15.0,1,Star
+2005,4,NOH,Chris Paul,Wake Forest,17.0,1155.0,198.9,0.239,7.3,93.7,PG,71.75,178.0,76.25,93.0,,,32.0,38.0,11.09,,3.22,10.0,1,Star
+2005,5,CHA,Raymond Felton,UNC,14.0,971.0,40.2,0.067,-0.6,10.1,PG,71.5,199.4,76.25,98.0,,,29.0,33.5,10.5,,3.06,6.0,1,Solid
+2005,6,POR,Martell Webster,Unknown,10.0,580.0,24.7,0.085,-0.8,4.3,SF,78.0,229.6,83.0,106.0,,,28.0,30.5,11.39,,3.39,7.0,1,Solid
+2005,7,TOR,Charlie Villanueva,UConn,11.0,656.0,22.6,0.08,-0.6,4.7,PF-SF,81.0,236.6,84.25,109.0,,,26.0,31.0,10.86,,3.3,11.0,1,Solid
+2005,8,NYK,Channing Frye,Arizona,13.0,890.0,38.9,0.094,-0.4,8.0,PF-C,81.5,243.6,86.5,110.5,,,27.5,31.0,11.6,,3.38,19.0,1,Solid
+2005,9,GSW,Ike Diogu,Arizona State,6.0,225.0,6.5,0.112,-3.0,-0.7,PF,78.5,255.4,87.5,109.0,,,28.0,31.0,11.94,,3.45,21.0,1,Bust
+2005,10,LAL,Andrew Bynum,Unknown,8.0,418.0,37.4,0.168,1.4,9.1,,,,,,,,,,,,,,1,Solid
+2005,12,LAC,Yaroslav Korolev,Unknown,2.0,34.0,-0.1,-0.024,-5.2,-0.1,,,,,,,,,,,,,,1,Bust
+2005,13,CHA,Sean May,UNC,4.0,119.0,2.6,0.068,-1.7,0.2,PF,79.0,258.8,85.25,105.0,,,30.0,33.0,11.04,,3.29,12.0,1,Bust
+2005,14,MIN,Rashad McCants,UNC,4.0,249.0,3.6,0.035,-1.7,0.4,SG,74.75,201.0,82.75,103.5,,,32.5,34.5,10.39,,3.11,15.0,1,Bust
+2005,15,NJN,Antoine Wright,Texas A&M,6.0,297.0,3.1,0.026,-3.7,-2.4,SF-SG,77.25,202.6,80.75,104.5,,,26.5,29.5,11.45,,3.41,12.0,1,Bust
+2005,16,TOR,Joey Graham,Oklahoma State,6.0,377.0,7.8,0.061,-3.6,-2.4,SF,77.25,216.6,80.0,104.0,,,30.0,36.0,10.62,,3.05,26.0,1,Bust
+2005,17,IND,Danny Granger,New Mexico,10.0,586.0,48.5,0.126,1.8,17.7,,79.5,225.4,85.5,103.0,,,31.0,34.0,10.84,,3.34,10.0,1,Solid
+2005,18,BOS,Gerald Green,Unknown,12.0,658.0,18.4,0.068,-1.3,2.4,SF,78.0,192.0,81.75,104.0,,,31.5,39.0,11.2,,3.21,7.0,1,Solid
+2005,19,MEM,Hakim Warrick,Syracuse,8.0,526.0,20.4,0.092,-1.9,0.4,PF-SF,79.25,215.0,86.0,108.0,,,33.0,38.0,,,3.22,11.0,1,Solid
+2005,20,DEN,Julius Hodge,NC State,2.0,23.0,0.0,0.003,-3.7,0.0,SG-SF,78.0,202.2,84.5,107.5,,,24.5,29.0,10.89,,3.18,14.0,1,Bust
+2005,21,PHO,Nate Robinson,Washington,11.0,618.0,27.8,0.096,0.5,8.6,,,,,,,,,,,,,,1,Solid
+2005,22,DEN,Jarrett Jack,Georgia Tech,13.0,867.0,36.8,0.073,-0.9,6.5,PG,74.5,197.6,79.5,100.0,,,26.0,28.5,10.87,,3.24,5.0,1,Solid
+2005,23,SAC,Francisco García,Louisville,10.0,549.0,18.2,0.074,-0.1,5.7,SF-SG,77.75,189.6,82.75,103.0,,,27.5,31.5,10.63,,3.33,5.0,1,Solid
+2005,24,HOU,Luther Head,Illinois,6.0,348.0,14.7,0.09,0.1,4.2,PG-SG,74.0,178.8,77.25,98.5,,,31.5,38.5,11.12,,3.21,14.0,1,Bust
+2005,25,SEA,Johan Petro,Unknown,8.0,473.0,5.5,0.037,-4.6,-4.6,,,,,,,,,,,,,,1,Bust
+2005,26,DET,Jason Maxiell,Cincinnati,10.0,618.0,20.3,0.086,-2.5,-1.4,PF,77.0,257.6,87.25,107.0,,,,,,,,,1,Solid
+2005,27,POR,Linas Kleiza,Missouri,7.0,409.0,13.6,0.08,-2.3,-0.7,,,,,,,,,,,,,,1,Bust
+2005,28,SAS,Ian Mahinmi,Unknown,12.0,618.0,26.1,0.121,-2.0,0.1,,,,,,,,,,,,,,1,Solid
+2005,29,MIA,Wayne Simien,Kansas,2.0,51.0,0.9,0.083,-4.4,-0.3,PF,79.25,255.8,84.0,107.0,,,27.0,27.5,11.05,,3.35,11.0,1,Bust
+2005,30,NYK,David Lee,Florida,12.0,829.0,76.0,0.15,1.1,19.2,PF,79.75,229.5,84.0,106.5,,,30.5,32.5,10.8,,3.19,14.0,1,Star
+2005,31,ATL,Salim Stoudamire,Arizona,3.0,157.0,2.2,0.04,-2.9,-0.6,,,,,,,,,,,,,,2,Bust
+2005,32,LAC,Daniel Ewing,Duke,2.0,127.0,0.8,0.024,-3.0,-0.4,,,,,,,,,,,,,,2,Bust
+2005,33,NOH,Brandon Bass,LSU,12.0,758.0,42.8,0.125,-0.8,5.1,,,,,,,,,,,,,,2,Solid
+2005,34,UTA,C.J. Miles,Unknown,16.0,849.0,30.1,0.084,-0.4,6.9,,,,,,,,,,,,,,2,Solid
+2005,36,MIL,Ersan İlyasova,Unknown,13.0,825.0,48.8,0.124,-0.1,9.0,SF,79.75,208.8,85.25,109.5,,,22.0,30.0,11.59,,3.56,2.0,2,Solid
+2005,37,LAL,Ronny Turiaf,Gonzaga,10.0,473.0,19.2,0.115,0.3,4.7,PF,80.0,237.8,85.5,106.5,,,30.5,33.0,11.5,,3.23,15.0,2,Solid
+2005,38,ORL,Travis Diener,Marquette,5.0,179.0,5.6,0.102,-0.4,1.1,PG-SG,71.75,165.2,71.75,93.5,,,24.5,31.0,10.85,,3.26,1.0,2,Bust
+2005,39,LAL,Von Wafer,Florida State,6.0,200.0,3.3,0.064,-1.8,0.1,,,,,,,,,,,,,,2,Bust
+2005,40,GSW,Monta Ellis,Unknown,12.0,833.0,41.9,0.069,-0.3,12.4,SG-PG,74.25,176.6,74.75,98.0,,,26.5,31.5,12.13,,3.31,0.0,2,Solid
+2005,41,TOR,Roko Ukić,Unknown,2.0,85.0,-0.2,-0.007,-4.3,-0.6,,,,,,,,,,,,,,2,Bust
+2005,42,GSW,Chris Taft,Pitt,1.0,17.0,0.5,0.155,-0.7,0.0,PF,80.5,261.0,85.75,109.0,,,28.5,33.0,11.26,,3.27,14.0,2,Bust
+2005,43,NJN,Mile Ilić,Unknown,1.0,5.0,-0.2,-1.264,-52.0,-0.1,,,,,,,,,,,,,,2,Bust
+2005,44,ORL,Martynas Andriuškevičius,Unknown,1.0,6.0,0.0,0.155,5.2,0.0,C-PF,85.25,227.8,83.25,112.5,,,24.0,27.5,11.94,,3.42,0.0,2,Bust
+2005,45,PHI,Lou Williams,Unknown,17.0,1123.0,65.7,0.116,1.4,23.2,,,,,,,,,,,,,,2,Star
+2005,47,MIN,Bracey Wright,Indiana,2.0,26.0,0.5,0.068,-1.6,0.0,SG-PG,73.25,186.8,82.0,100.5,,,30.0,36.0,11.58,,3.27,8.0,2,Bust
+2005,48,SEA,Mickaël Gelabale,Unknown,3.0,145.0,3.0,0.062,-2.1,0.0,,,,,,,,,,,,,,2,Bust
+2005,49,WAS,Andray Blatche,Unknown,9.0,564.0,19.2,0.074,-0.8,3.8,,,,,,,,,,,,,,2,Solid
+2005,50,BOS,Ryan Gomes,Providence,8.0,487.0,19.4,0.069,-1.6,1.4,,,,,,,,,,,,,,2,Solid
+2005,51,UTA,Robert Whaley,Walsh University,1.0,23.0,0.0,0.004,-5.1,-0.2,PF-C,80.0,269.4,86.0,108.0,,,28.5,33.5,12.11,,3.25,15.0,2,Bust
+2005,53,BOS,Orien Greene,Louisiana,4.0,131.0,-0.7,-0.022,-4.6,-1.0,,,,,,,,,,,,,,2,Bust
+2005,54,NYK,Dijon Thompson,UCLA,2.0,16.0,0.2,0.102,-0.5,0.0,SF-SG,78.25,195.8,81.75,105.5,,,,,,,,,2,Bust
+2005,55,SEA,Lawrence Roberts,Mississippi State,2.0,87.0,2.5,0.106,-1.9,0.0,,,,,,,,,,,,,,2,Bust
+2005,56,DET,Amir Johnson,Unknown,14.0,870.0,55.3,0.145,0.3,10.6,,,,,,,,,,,,,,2,Star
+2005,57,PHO,Marcin Gortat,Unknown,12.0,806.0,61.3,0.142,0.4,12.7,PF-C,83.0,225.2,87.5,110.0,,,29.5,36.0,11.48,,3.33,18.0,2,Star
+2005,58,TOR,Uroš Slokar,Unknown,1.0,20.0,0.1,0.042,-5.6,-0.1,,,,,,,,,,,,,,2,Bust
+2005,60,DET,Alex Acker,Pepperdine,2.0,30.0,-0.2,-0.043,-5.3,-0.2,SG,75.75,183.0,84.0,102.5,,,28.0,32.0,11.67,,3.35,11.0,2,Bust
+2006,1,TOR,Andrea Bargnani,Unknown,10.0,550.0,18.9,0.057,-1.6,1.5,,,,,,,,,,,,,,1,Solid
+2006,2,CHI,LaMarcus Aldridge,Texas,16.0,1076.0,115.7,0.153,1.7,33.4,PF-C,82.0,234.0,88.75,110.0,,,26.5,34.0,12.02,,3.43,8.0,1,Star
+2006,3,CHA,Adam Morrison,Gonzaga,3.0,161.0,-1.4,-0.021,-5.0,-2.4,SF,78.5,198.0,82.0,105.0,,,25.5,30.5,11.46,,3.37,11.0,1,Bust
+2006,4,POR,Tyrus Thomas,LSU,8.0,402.0,13.0,0.078,-1.2,1.7,PF-SF,79.25,217.0,87.0,108.0,,,34.0,39.5,11.36,,3.2,8.0,1,Bust
+2006,5,ATL,Shelden Williams,Duke,6.0,361.0,9.9,0.085,-3.0,-1.5,PF-C,79.5,258.0,88.25,104.0,,,29.0,33.5,11.53,,3.59,25.0,1,Bust
+2006,6,MIN,Brandon Roy,Washington,6.0,326.0,37.4,0.155,3.6,16.3,SG-SF,77.25,207.0,80.0,101.0,,,34.0,40.5,11.13,,3.27,6.0,1,Solid
+2006,7,BOS,Randy Foye,Villanova,11.0,752.0,23.5,0.058,-1.2,3.8,SG-PG,74.25,212.0,78.25,97.0,,,32.0,38.0,10.53,,3.23,14.0,1,Solid
+2006,8,HOU,Rudy Gay,UConn,16.0,1064.0,60.7,0.086,0.7,22.8,SF-PF,79.0,222.0,87.0,107.5,,,33.0,40.5,11.03,,3.32,9.0,1,Star
+2006,9,GSW,Patrick O'Bryant,Bradley,4.0,90.0,0.5,0.046,-4.6,-0.3,C,83.0,249.0,89.75,113.0,,,26.5,30.0,12.68,,3.63,13.0,1,Bust
+2006,10,SEA,Mouhamed Sene,Unknown,3.0,47.0,0.3,0.052,-5.1,-0.2,C,83.0,237.0,92.5,113.0,,,28.5,31.0,12.52,,3.38,7.0,1,Bust
+2006,11,ORL,J.J. Redick,Duke,15.0,940.0,63.7,0.128,0.6,16.0,SG,76.0,190.0,75.25,97.5,,,27.5,33.0,10.94,,3.29,6.0,1,Star
+2006,12,NOK,Hilton Armstrong,UConn,6.0,292.0,3.9,0.055,-4.1,-1.8,C-PF,81.5,240.0,88.0,109.0,,,28.5,31.5,12.28,,3.53,13.0,1,Bust
+2006,13,PHI,Thabo Sefolosha,Unknown,14.0,869.0,39.3,0.099,0.6,12.4,,,,,,,,,,,,,,1,Solid
+2006,14,UTA,Ronnie Brewer,Arkansas,8.0,502.0,30.4,0.127,1.6,10.6,SG-PG,77.75,223.0,83.25,103.5,,,35.0,41.0,11.32,,3.14,19.0,1,Solid
+2006,15,NOK,Cedric Simmons,NC State,3.0,75.0,0.1,0.005,-5.0,-0.5,PF-C,80.25,223.0,88.25,108.5,,,30.5,35.0,11.05,,3.31,15.0,1,Bust
+2006,16,CHI,Rodney Carney,Memphis,5.0,299.0,6.2,0.064,-1.6,0.5,SG-SF,76.5,204.0,82.0,103.5,,,32.0,38.5,10.57,,3.06,10.0,1,Bust
+2006,17,IND,Shawne Williams,Memphis,7.0,314.0,6.7,0.06,-2.2,-0.3,SF-PF,79.25,227.0,87.0,104.0,,,32.0,31.0,10.69,,3.3,,1,Bust
+2006,18,WAS,Oleksiy Pecherov,Unknown,3.0,111.0,0.5,0.025,-4.8,-0.7,,,,,,,,,,,,,,1,Bust
+2006,19,SAC,Quincy Douby,Rutgers University,3.0,143.0,0.0,0.0,-3.5,-0.6,,,,,,,,,,,,,,1,Bust
+2006,20,NYK,Renaldo Balkman,South Carolina,6.0,221.0,7.2,0.113,0.1,1.6,SF-PF,77.25,206.0,85.0,104.5,,,30.5,35.0,11.58,,3.22,9.0,1,Bust
+2006,21,PHO,Rajon Rondo,Kentucky,16.0,957.0,61.8,0.104,1.2,23.2,,,,,,,,,,,,,,1,Star
+2006,22,NJN,Marcus Williams,UConn,4.0,203.0,0.0,-0.001,-3.3,-1.0,PG,74.0,215.0,79.0,97.5,,,24.5,28.0,11.3,,3.4,4.0,1,Bust
+2006,23,NJN,Josh Boone,UConn,4.0,256.0,9.1,0.097,-2.0,0.0,,,,,,,,,,,,,,1,Bust
+2006,24,MEM,Kyle Lowry,Villanova,16.0,1023.0,104.6,0.154,3.1,41.8,,,,,,,,,,,,,,1,Star
+2006,25,CLE,Shannon Brown,Michigan State,9.0,408.0,9.2,0.06,-1.5,1.0,,,,,,,,,,,,,,1,Bust
+2006,26,LAL,Jordan Farmar,UCLA,10.0,504.0,13.9,0.068,-0.5,3.7,PG,72.75,171.0,75.0,94.5,,,33.5,42.0,11.07,,3.17,11.0,1,Bust
+2006,27,PHO,Sergio Rodríguez,Unknown,5.0,353.0,4.3,0.039,-2.0,0.1,,,,,,,,,,,,,,1,Bust
+2006,28,DAL,Maurice Ager,Michigan State,4.0,82.0,-0.9,-0.089,-9.4,-0.9,SG-PG,75.25,203.0,79.75,101.5,,,29.5,35.0,11.73,,3.22,11.0,1,Bust
+2006,29,NYK,Mardy Collins,Temple,4.0,189.0,-1.6,-0.027,-4.4,-1.7,PG-SG,76.25,224.0,82.0,103.0,,,31.5,37.5,12.0,,3.27,9.0,1,Bust
+2006,30,POR,Joel Freeland,Unknown,3.0,151.0,3.2,0.084,-3.3,-0.6,,,,,,,,,,,,,,1,Bust
+2006,31,POR,James White,Cincinnati,3.0,67.0,0.8,0.062,-3.2,-0.2,,,,,,,,,,,,,,2,Bust
+2006,32,HOU,Steve Novak,Marquette,11.0,467.0,14.5,0.123,0.8,4.0,SF,80.0,216.0,81.5,103.0,,,24.5,31.0,11.11,,3.37,5.0,2,Bust
+2006,33,ATL,Solomon Jones,South Florida,8.0,281.0,5.0,0.078,-4.0,-1.6,PF-C,80.5,224.0,88.75,109.0,,,32.0,39.0,11.27,,3.3,6.0,2,Bust
+2006,34,LAC,Paul Davis,Michigan State,4.0,82.0,0.5,0.035,-4.2,-0.4,,,,,,,,,,,,,,2,Bust
+2006,35,TOR,P.J. Tucker,Texas,11.0,777.0,40.0,0.085,-0.7,7.2,,,,,,,,,,,,,,2,Solid
+2006,36,MIN,Craig Smith,Boston College,6.0,403.0,16.0,0.113,-1.2,1.4,PF,77.5,259.0,81.5,103.5,,,30.0,29.5,11.59,,3.4,,2,Solid
+2006,37,MIN,Bobby Jones,Washington,2.0,91.0,1.1,0.06,-4.1,-0.5,SF-SG,77.75,211.0,81.5,101.5,,,28.5,34.5,11.23,,3.28,15.0,2,Bust
+2006,38,GSW,Kosta Perović,Unknown,1.0,7.0,0.0,0.06,-5.9,0.0,,,,,,,,,,,,,,2,Bust
+2006,39,MIL,David Noel,UNC,1.0,68.0,0.4,0.024,-3.1,-0.2,SF-SG,76.5,223.0,81.5,100.0,,,34.5,38.5,10.54,,3.07,20.0,2,Bust
+2006,41,ORL,James Augustine,Illinois,2.0,27.0,0.3,0.101,-2.7,0.0,PF,80.25,227.0,84.25,104.0,,,30.0,32.5,10.54,,3.25,13.0,2,Bust
+2006,42,CLE,Daniel Gibson,Texas,7.0,397.0,16.0,0.082,-1.0,2.4,,,,,,,,,,,,,,2,Solid
+2006,43,NOK,Marcus Vinicius,Unknown,2.0,26.0,0.2,0.056,-3.0,0.0,,,,,,,,,,,,,,2,Bust
+2006,45,IND,Alexander Johnson,Florida State,2.0,102.0,1.5,0.056,-4.6,-0.9,,,,,,,,,,,,,,2,Bust
+2006,46,UTA,Dee Brown,Illinois,2.0,68.0,0.1,0.008,-3.0,-0.2,,,,,,,,,,,,,,2,Bust
+2006,47,UTA,Paul Millsap,Louisiana Tech,16.0,1085.0,95.4,0.15,1.9,29.9,PF,78.25,258.0,85.5,105.5,,,28.5,32.5,11.67,,3.3,15.0,2,Star
+2006,49,DEN,Leon Powe,California,5.0,239.0,12.0,0.174,-1.6,0.3,,,,,,,,,,,,,,2,Bust
+2006,50,CHA,Ryan Hollins,UCLA,10.0,518.0,10.4,0.081,-4.1,-3.2,,,,,,,,,,,,,,2,Bust
+2006,51,LAL,Cheikh Samb,Unknown,2.0,22.0,-0.1,-0.056,-9.1,-0.2,,,,,,,,,,,,,,2,Bust
+2006,52,LAC,Guillermo Díaz,Miami (FL),1.0,6.0,0.0,0.033,-2.9,0.0,,,,,,,,,,,,,,2,Bust
+2006,54,NJN,Hassan Adams,Arizona,2.0,73.0,0.8,0.072,-2.3,0.0,,,,,,,,,,,,,,2,Bust
+2006,59,SAS,Damir Markota,Unknown,1.0,30.0,-0.2,-0.07,-8.5,-0.3,,,,,,,,,,,,,,2,Bust
+2006,60,DET,Will Blalock,Iowa State,1.0,14.0,-0.1,-0.032,-5.8,-0.2,PG,71.25,194.0,78.0,96.5,,,35.0,40.0,11.08,,3.18,8.0,2,Bust
+2007,1,POR,Greg Oden,Ohio State,3.0,105.0,7.3,0.174,-0.4,0.8,C,83.0,257.0,88.25,112.0,,,32.0,34.0,11.67,,3.27,,1,Bust
+2007,2,SEA,Kevin Durant,Texas,14.0,939.0,155.2,0.216,6.8,76.4,SF-PF,81.0,215.0,88.75,110.0,,,26.0,33.5,12.33,,3.45,0.0,1,Star
+2007,3,ATL,Al Horford,Florida,15.0,950.0,100.3,0.157,2.9,37.9,PF,80.0,246.0,84.75,107.0,,,31.0,35.5,12.15,,3.37,20.0,1,Star
+2007,4,MEM,Mike Conley,Ohio State,15.0,958.0,86.8,0.136,2.5,34.8,PG,71.0,175.0,77.75,94.5,,,35.5,40.5,11.63,,3.09,13.0,1,Star
+2007,5,BOS,Jeff Green,Georgetown,14.0,1051.0,50.3,0.079,-1.4,4.8,SF,79.0,228.0,85.25,103.0,,,33.5,38.0,12.0,,3.34,17.0,1,Star
+2007,6,MIL,Yi Jianlian,Unknown,5.0,272.0,3.1,0.025,-4.3,-3.5,,,,,,,,,,,,,,1,Bust
+2007,7,MIN,Corey Brewer,Florida,13.0,819.0,22.5,0.058,-1.6,2.0,SF-SG,78.0,185.0,80.25,103.0,,,30.5,36.5,11.69,,3.22,11.0,1,Solid
+2007,8,CHA,Brandan Wright,UNC,10.0,428.0,26.2,0.181,2.3,7.5,PF,80.75,200.0,87.75,108.5,,,30.5,35.5,11.76,,3.31,2.0,1,Solid
+2007,9,CHI,Joakim Noah,Florida,13.0,672.0,61.9,0.159,2.5,20.9,PF,82.0,223.0,85.25,106.5,,,32.5,37.5,11.79,,3.47,12.0,1,Star
+2007,10,SAC,Spencer Hawes,Washington,10.0,684.0,22.6,0.07,-1.1,3.4,PF,82.0,244.0,84.5,110.0,,,26.0,29.0,11.88,,3.51,9.0,1,Solid
+2007,11,ATL,Acie Law,Texas A&M,4.0,188.0,1.6,0.032,-3.9,-1.1,PG,74.0,186.0,78.5,98.0,,,29.0,34.0,11.0,,3.22,8.0,1,Bust
+2007,12,PHI,Thaddeus Young,Georgia Tech,15.0,1085.0,68.9,0.104,0.5,20.0,SF,77.75,210.0,83.5,106.0,,,34.5,37.0,11.06,,3.19,13.0,1,Star
+2007,13,NOK,Julian Wright,Kansas,4.0,231.0,3.9,0.061,-0.5,1.2,SF-PF,78.5,211.0,86.25,108.0,,,28.5,33.5,11.48,,3.36,2.0,1,Bust
+2007,14,LAC,Al Thornton,Florida State,4.0,296.0,6.1,0.035,-3.5,-3.2,SF,77.75,221.0,85.0,104.0,,,35.0,41.0,11.96,,3.16,9.0,1,Bust
+2007,15,DET,Rodney Stuckey,Eastern Washington,10.0,651.0,28.7,0.077,-0.9,4.9,SG-PG,75.75,207.0,79.25,100.5,,,30.5,35.0,11.34,,3.11,14.0,1,Solid
+2007,16,WAS,Nick Young,USC,12.0,720.0,18.6,0.054,-2.2,-0.8,SG-SF,77.0,206.0,84.0,100.5,,,39.5,40.5,11.0,,3.25,6.0,1,Solid
+2007,17,NJN,Sean Williams,Boston College,4.0,137.0,3.0,0.073,-3.1,-0.6,,,,,,,,,,,,,,1,Bust
+2007,18,GSW,Marco Belinelli,Unknown,13.0,860.0,30.5,0.075,-1.3,3.3,,,,,,,,,,,,,,1,Solid
+2007,19,LAL,Javaris Crittenton,Georgia Tech,2.0,113.0,0.1,0.002,-4.2,-1.0,PG,75.0,194.0,77.5,98.0,,,32.5,38.0,11.6,,3.32,11.0,1,Bust
+2007,20,MIA,Jason Smith,Colorado State,11.0,616.0,14.1,0.067,-2.9,-2.4,PF,82.75,233.0,82.75,106.0,,,33.5,37.5,10.96,,3.29,15.0,1,Bust
+2007,21,PHI,Daequan Cook,Ohio State,6.0,328.0,4.9,0.039,-2.7,-1.1,SG,75.0,203.0,80.25,101.5,,,30.0,34.5,11.12,,3.22,4.0,1,Bust
+2007,22,CHA,Jared Dudley,Boston College,14.0,904.0,43.0,0.103,0.2,11.0,SF,77.0,219.0,79.0,102.0,,,28.0,32.0,11.32,,3.45,14.0,1,Solid
+2007,23,NYK,Wilson Chandler,DePaul,12.0,676.0,29.0,0.069,-1.3,3.5,,,,,,,,,,,,,,1,Solid
+2007,24,PHO,Rudy Fernández,Unknown,4.0,249.0,14.2,0.114,1.7,5.6,,,,,,,,,,,,,,1,Bust
+2007,25,UTA,Morris Almond,Rice University,3.0,38.0,0.0,0.005,-6.1,-0.4,,,,,,,,,,,,,,1,Bust
+2007,26,HOU,Aaron Brooks,Oregon,10.0,645.0,19.2,0.069,-1.2,2.7,PG,70.0,161.0,76.0,94.0,,,32.5,39.5,10.57,,3.2,6.0,1,Solid
+2007,27,DET,Arron Afflalo,UCLA,11.0,762.0,33.5,0.077,-1.5,2.4,,,,,,,,,,,,,,1,Solid
+2007,28,SAS,Tiago Splitter,Unknown,7.0,355.0,25.3,0.178,1.1,5.4,,,,,,,,,,,,,,1,Solid
+2007,29,PHO,Alando Tucker,Wisconsin,3.0,51.0,0.4,0.045,-4.5,-0.3,,,,,,,,,,,,,,1,Bust
+2007,31,SEA,Carl Landry,Purdue,9.0,513.0,35.9,0.149,-0.3,5.0,PF,79.0,248.0,83.0,102.5,,,31.5,36.5,11.35,,3.29,21.0,2,Solid
+2007,32,BOS,Gabe Pruitt,USC,2.0,62.0,0.4,0.043,-2.8,-0.1,,,,,,,,,,,,,,2,Bust
+2007,33,SAS,Marcus Williams,Arizona,2.0,13.0,-0.1,-0.084,-5.4,0.0,,,,,,,,,,,,,,2,Bust
+2007,34,DAL,Nick Fazekas,Nevada,1.0,26.0,0.8,0.148,0.5,0.2,,,,,,,,,,,,,,2,Bust
+2007,35,SEA,Glen Davis,LSU,8.0,514.0,18.6,0.082,-2.6,-1.7,,,,,,,,,,,,,,2,Solid
+2007,36,GSW,Jermareo Davidson,Alabama,2.0,52.0,0.0,0.0,-5.2,-0.3,PF,81.0,230.0,88.0,109.5,,,27.0,30.0,12.63,,3.53,7.0,2,Bust
+2007,37,POR,Josh McRoberts,Duke,11.0,433.0,18.5,0.107,0.3,4.7,PF,80.0,240.0,85.0,106.5,,,27.5,31.5,11.7,,3.47,12.0,2,Solid
+2007,38,PHI,Kyrylo Fesenko,Unknown,5.0,135.0,0.9,0.038,-5.7,-1.1,,,,,,,,,,,,,,2,Bust
+2007,40,LAL,Sun Yue,Unknown,1.0,10.0,-0.1,-0.226,-19.4,-0.1,SF,79.75,212.0,81.0,105.0,,,29.0,34.0,10.68,,3.45,9.0,2,Bust
+2007,41,MIN,Chris Richard,Florida,2.0,70.0,0.7,0.045,-5.7,-0.7,PF,79.0,252.0,88.5,110.5,,,26.5,30.5,11.39,,3.29,15.0,2,Bust
+2007,42,POR,Derrick Byars,Vanderbilt,1.0,2.0,0.1,0.147,-4.7,0.0,,,,,,,,,,,,,,2,Bust
+2007,46,GSW,Stéphane Lasme,UMass,1.0,16.0,0.3,0.041,-4.4,-0.2,PF,77.0,213.0,86.0,107.0,,,29.5,36.0,11.73,,3.22,17.0,2,Bust
+2007,47,WAS,Dominic McGuire,Fresno State,6.0,342.0,4.1,0.037,-2.1,-0.1,SF,79.0,220.0,82.5,104.0,,,28.5,34.5,10.95,,3.25,12.0,2,Bust
+2007,48,LAL,Marc Gasol,Unknown,13.0,891.0,85.3,0.143,3.1,36.5,,,,,,,,,,,,,,2,Star
+2007,49,CHI,Aaron Gray,Pitt,7.0,318.0,6.2,0.077,-3.6,-1.5,C,84.0,271.0,87.25,108.5,,,27.0,32.5,12.07,,3.7,17.0,2,Bust
+2007,51,CHI,JamesOn Curry,Oklahoma State,1.0,1.0,0.0,,,0.0,,,,,,,,,,,,,,2,Bust
+2007,52,POR,Taurean Green,Florida,1.0,17.0,-0.1,-0.066,-7.5,-0.1,PG,71.0,173.0,74.25,96.0,,,29.0,32.5,11.3,,3.26,8.0,2,Bust
+2007,53,POR,Demetris Nichols,Syracuse,2.0,18.0,-0.2,-0.203,-10.3,-0.1,SF,78.0,211.0,84.25,105.0,,,28.5,32.5,10.39,,3.38,16.0,2,Bust
+2007,56,MIL,Ramon Sessions,Nevada,11.0,691.0,28.8,0.086,-0.7,5.2,PG,74.0,185.0,76.25,97.5,,,29.5,33.5,11.65,,3.27,8.0,2,Solid
+2007,59,PHO,D.J. Strawberry,Maryland,1.0,33.0,-0.2,-0.031,-5.6,-0.2,SG,75.75,199.0,78.5,101.0,,,28.5,35.0,10.87,,3.14,21.0,2,Bust
+2008,1,CHI,Derrick Rose,Memphis,13.0,672.0,44.2,0.1,1.4,18.5,PG,73.5,196.0,80.0,98.5,,,34.5,40.0,11.69,,3.05,10.0,1,Solid
+2008,2,MIA,Michael Beasley,Kansas State,11.0,609.0,15.6,0.054,-1.7,0.9,PF-SF,79.0,239.0,84.25,107.0,,,30.0,35.0,11.06,,3.24,19.0,1,Solid
+2008,3,MIN,O.J. Mayo,USC,8.0,547.0,21.8,0.062,-0.9,4.7,SG-PG,75.25,200.0,78.0,99.5,,,30.5,41.0,11.04,,3.14,7.0,1,Solid
+2008,4,SEA,Russell Westbrook,UCLA,14.0,1021.0,106.5,0.144,4.3,55.8,PG,74.25,192.0,79.75,100.0,,,30.0,36.5,10.98,,3.08,12.0,1,Star
+2008,5,MEM,Kevin Love,UCLA,14.0,812.0,88.6,0.17,3.4,34.0,PF,79.75,255.0,83.25,106.0,,,29.5,35.0,11.17,,3.22,18.0,1,Star
+2008,6,NYK,Danilo Gallinari,Unknown,13.0,728.0,64.1,0.141,1.8,20.8,,,,,,,,,,,,,,1,Star
+2008,7,LAC,Eric Gordon,Indiana,14.0,749.0,36.3,0.072,-0.6,8.7,SG,74.0,222.0,81.0,99.0,,,32.0,40.0,10.81,,3.01,15.0,1,Solid
+2008,8,MIL,Joe Alexander,West Virginia,2.0,67.0,0.5,0.03,-3.6,-0.3,SF-PF,79.25,220.0,83.5,106.0,,,32.5,38.5,11.33,,2.99,24.0,1,Bust
+2008,9,CHA,D.J. Augustin,Texas,14.0,976.0,47.7,0.1,-0.7,7.6,PG,70.0,171.5,75.5,94.5,,,28.5,35.0,11.27,,3.07,2.0,1,Solid
+2008,10,NJN,Brook Lopez,Stanford,14.0,868.0,71.5,0.131,1.3,21.7,C,83.25,258.0,89.5,113.0,,,27.5,30.5,12.77,,3.57,7.0,1,Star
+2008,11,IND,Jerryd Bayless,Arizona,11.0,586.0,18.6,0.072,-1.6,1.1,PG-SG,73.75,204.0,75.5,97.0,,,31.0,38.0,11.26,,3.07,10.0,1,Solid
+2008,12,SAC,Jason Thompson,Rider University,8.0,588.0,23.8,0.077,-2.6,-2.4,,,,,,,,,,,,,,1,Solid
+2008,13,POR,Brandon Rush,Kansas,9.0,481.0,11.2,0.051,-1.4,1.6,,,,,,,,,,,,,,1,Bust
+2008,14,GSW,Anthony Randolph,LSU,6.0,252.0,5.8,0.072,-1.6,0.4,PF-SF,81.0,197.0,87.0,109.0,,,29.0,35.0,11.86,,3.26,7.0,1,Bust
+2008,15,PHO,Robin Lopez,Stanford,14.0,939.0,49.0,0.114,-1.1,4.7,,,,,,,,,,,,,,1,Solid
+2008,16,PHI,Marreese Speights,Florida,10.0,705.0,25.8,0.116,-2.2,-0.6,,,,,,,,,,,,,,1,Solid
+2008,17,TOR,Roy Hibbert,Georgetown,9.0,662.0,35.9,0.105,-1.1,3.5,,,,,,,,,,,,,,1,Solid
+2008,18,WAS,JaVale McGee,Nevada,14.0,821.0,42.4,0.146,0.1,7.4,C-PF,83.0,241.0,90.0,114.5,,,27.0,32.5,12.75,,3.25,7.0,1,Solid
+2008,19,CLE,J.J. Hickson,NC State,8.0,534.0,21.9,0.088,-1.8,0.5,,,,,,,,,,,,,,1,Solid
+2008,20,CHA,Alexis Ajinça,Unknown,7.0,293.0,7.5,0.093,-2.8,-0.8,,,,,,,,,,,,,,1,Bust
+2008,21,NJN,Ryan Anderson,California,12.0,649.0,46.7,0.134,1.0,12.8,,,,,,,,,,,,,,1,Solid
+2008,22,ORL,Courtney Lee,Western Kentucky,12.0,811.0,39.3,0.086,-0.6,7.9,,,,,,,,,,,,,,1,Solid
+2008,23,UTA,Kosta Koufos,Ohio State,11.0,686.0,28.3,0.12,-1.3,2.0,,,,,,,,,,,,,,1,Solid
+2008,24,SEA,Serge Ibaka,Unknown,13.0,903.0,72.8,0.14,0.5,15.8,,,,,,,,,,,,,,1,Star
+2008,25,HOU,Nicolas Batum,Unknown,14.0,915.0,63.5,0.109,1.7,26.1,,,,,,,,,,,,,,1,Star
+2008,26,SAS,George Hill,IUPUI,14.0,869.0,69.1,0.14,1.2,19.3,PG,73.25,181.0,81.0,97.5,,,34.0,37.5,12.2,,3.07,9.0,1,Star
+2008,27,NOH,Darrell Arthur,Kansas,9.0,503.0,12.3,0.066,-2.2,-0.4,PF,79.5,216.0,82.75,107.0,,,28.5,30.0,12.18,,3.14,12.0,1,Bust
+2008,28,MEM,Donté Greene,Syracuse,4.0,253.0,1.5,0.017,-2.8,-0.9,SF-PF,80.25,221.0,82.0,108.0,,,27.5,31.5,11.21,,3.2,2.0,1,Bust
+2008,29,DET,D.J. White,Indiana,6.0,138.0,3.8,0.087,-2.1,0.0,,,,,,,,,,,,,,1,Bust
+2008,30,BOS,J.R. Giddens,New Mexico,2.0,38.0,0.1,0.027,-4.3,-0.1,SG,76.0,208.0,83.25,103.0,,,,,,,,10.0,1,Bust
+2008,31,MIN,Nikola Peković,Unknown,6.0,271.0,18.8,0.134,-0.7,2.2,,,,,,,,,,,,,,2,Solid
+2008,32,SEA,Walter Sharpe,UAB,1.0,8.0,-0.1,-0.131,-10.1,0.0,,,,,,,,,,,,,,2,Bust
+2008,33,POR,Joey Dorsey,Memphis,4.0,130.0,2.9,0.092,-2.7,-0.3,PF-C,78.25,265.0,85.75,107.0,,,27.5,33.0,11.84,,3.2,19.0,2,Bust
+2008,34,MIN,Mario Chalmers,Kansas,9.0,646.0,32.3,0.09,-0.6,5.9,,,,,,,,,,,,,,2,Solid
+2008,35,LAC,DeAndre Jordan,Texas A&M,14.0,980.0,94.4,0.173,1.3,21.9,C,81.75,250.0,90.0,113.5,,,26.0,30.5,12.3,,3.27,8.0,2,Star
+2008,36,POR,Ömer Aşık,Unknown,8.0,471.0,20.9,0.109,-1.9,0.1,,,,,,,,,,,,,,2,Solid
+2008,37,MIL,Luc Mbah a Moute,UCLA,12.0,689.0,26.0,0.078,-1.5,2.0,SF,77.75,221.0,86.5,103.5,,,32.0,38.5,11.71,,3.17,11.0,2,Solid
+2008,38,CHA,Kyle Weaver,Washington State,3.0,73.0,1.5,0.051,-1.1,0.3,,,,,,,,,,,,,,2,Bust
+2008,39,CHI,Sonny Weems,Arkansas,4.0,183.0,0.0,0.001,-4.2,-1.8,SG-SF,76.0,193.0,82.0,104.0,,,29.0,36.5,10.58,,2.96,12.0,2,Bust
+2008,40,NJN,Chris Douglas-Roberts,Memphis,6.0,222.0,5.4,0.059,-2.2,-0.2,,,,,,,,,,,,,,2,Bust
+2008,41,IND,Nathan Jawai,Unknown,2.0,45.0,0.2,0.02,-4.4,-0.3,,,,,,,,,,,,,,2,Bust
+2008,42,SAC,Sean Singletary,Virginia,1.0,37.0,0.0,0.006,-5.1,-0.2,PG,71.0,183.8,76.5,95.0,,,26.0,,,,,18.0,2,Bust
+2008,43,SAC,Patrick Ewing,Georgetown,1.0,7.0,-0.1,-0.158,-9.1,0.0,SF-PF,78.0,224.0,84.25,97.5,,,35.0,42.0,11.77,,3.43,2.0,2,Bust
+2008,45,SAS,Goran Dragić,Unknown,14.0,888.0,56.3,0.109,0.6,16.3,,,,,,,,,,,,,,2,Star
+2008,47,WAS,Henry Walker,Kansas State,5.0,181.0,5.0,0.079,-1.8,0.2,,,,,,,,,,,,,,2,Bust
+2008,48,PHO,Malik Hairston,Oregon,2.0,62.0,0.8,0.086,-2.0,0.0,SG,76.25,204.0,81.0,103.5,,,30.5,38.0,11.33,,3.08,13.0,2,Bust
+2008,52,MIA,Darnell Jackson,Kansas,3.0,138.0,1.3,0.059,-5.2,-0.8,PF,79.0,240.5,83.25,106.5,,,27.0,31.0,11.75,,3.26,11.0,2,Bust
+2008,55,POR,Mike Taylor,Iowa State,1.0,51.0,-0.4,-0.028,-5.2,-0.6,SG-PG,72.75,166.2,79.25,98.0,,,31.0,39.0,10.98,,3.08,2.0,2,Bust
+2008,56,SEA,Sasha Kaun,Kansas,1.0,25.0,0.2,0.096,-2.8,0.0,C-PF,81.0,247.0,88.0,110.0,,,29.0,32.0,12.06,,3.2,13.0,2,Bust
+2008,58,LAL,Joe Crawford,Kentucky,1.0,2.0,0.0,0.037,-2.7,0.0,SG,75.0,213.0,77.75,99.5,,,31.0,36.0,11.67,,3.22,13.0,2,Bust
+2008,60,BOS,Semih Erden,Unknown,2.0,69.0,1.8,0.094,-3.6,-0.4,,,,,,,,,,,,,,2,Bust
+2009,1,LAC,Blake Griffin,Oklahoma,12.0,724.0,79.3,0.16,3.4,32.5,PF,80.5,248.4,83.25,105.0,,,32.0,35.5,10.95,,3.28,22.0,1,Star
+2009,2,MEM,Hasheem Thabeet,UConn,5.0,224.0,4.8,0.099,-2.7,-0.4,C,85.25,267.2,90.25,113.0,,,,,,,,,1,Bust
+2009,3,OKC,James Harden,Arizona State,13.0,942.0,149.6,0.22,6.8,72.0,SG,76.0,222.0,82.75,103.5,,,31.5,37.0,11.1,,3.13,17.0,1,Star
+2009,4,SAC,Tyreke Evans,Memphis,10.0,594.0,28.4,0.075,0.8,13.1,PG-SG,76.0,220.6,83.25,104.0,,,28.5,34.0,11.81,,3.17,7.0,1,Solid
+2009,5,MIN,Ricky Rubio,Unknown,11.0,665.0,41.6,0.099,0.6,13.4,,,,,,,,,,,,,,1,Solid
+2009,6,MIN,Jonny Flynn,Syracuse,3.0,163.0,-1.1,-0.015,-4.0,-1.9,PG,71.25,195.6,76.0,95.5,,,33.0,40.0,10.86,,3.23,10.0,1,Bust
+2009,7,GSW,Stephen Curry,Davidson,13.0,826.0,120.2,0.203,6.5,60.9,PG-SG,74.0,181.0,75.5,97.0,,,29.5,35.5,11.07,,3.28,10.0,1,Star
+2009,8,NYK,Jordan Hill,Arizona,8.0,409.0,16.4,0.102,-2.0,0.0,PF-C,81.25,232.4,85.5,108.0,,,31.0,35.0,12.23,,3.3,11.0,1,Solid
+2009,9,TOR,DeMar DeRozan,USC,13.0,957.0,83.7,0.123,0.7,22.6,SG-SF,77.5,211.2,81.0,102.5,,,29.0,38.5,11.88,,3.31,5.0,1,Star
+2009,10,MIL,Brandon Jennings,Unknown,9.0,555.0,29.9,0.085,0.8,11.8,,,,,,,,,,,,,,1,Solid
+2009,11,NJN,Terrence Williams,Louisville,4.0,153.0,-0.2,-0.004,-2.8,-0.6,SG-SF,77.0,213.2,81.0,103.5,,,30.5,37.0,11.15,,3.18,9.0,1,Bust
+2009,12,CHA,Gerald Henderson,Duke,8.0,535.0,18.3,0.063,-1.8,0.6,SG-SF,76.0,214.6,82.25,102.5,,,31.5,35.0,11.17,,3.14,8.0,1,Solid
+2009,13,IND,Tyler Hansbrough,UNC,7.0,428.0,20.2,0.134,-2.0,0.0,PF,80.25,234.2,83.5,106.0,,,27.5,34.0,11.12,,3.27,18.0,1,Solid
+2009,14,PHO,Earl Clark,Louisville,6.0,261.0,2.9,0.038,-2.8,-0.8,SF-PF,80.5,228.4,86.5,109.5,,,28.5,33.0,11.17,,3.35,5.0,1,Bust
+2009,15,DET,Austin Daye,Gonzaga,6.0,293.0,4.5,0.053,-2.0,0.0,SF-PF,81.75,191.8,86.75,110.0,,,25.0,28.0,12.11,,3.55,0.0,1,Bust
+2009,16,CHI,James Johnson,Wake Forest,13.0,747.0,27.5,0.086,0.5,9.5,SF-PF,79.0,257.2,84.75,105.5,,,30.5,35.0,11.21,,3.23,18.0,1,Solid
+2009,17,PHI,Jrue Holiday,UCLA,13.0,839.0,56.4,0.097,1.5,24.6,PG-SG,75.25,199.0,79.0,100.5,,,28.5,34.0,10.64,,3.21,6.0,1,Star
+2009,18,MIN,Ty Lawson,UNC,8.0,551.0,42.1,0.126,1.4,13.6,PG,71.25,196.6,72.75,94.5,,,29.0,36.5,10.98,,3.12,14.0,1,Solid
+2009,19,ATL,Jeff Teague,Wake Forest,12.0,826.0,52.4,0.113,0.6,14.3,PG,72.25,175.2,79.5,98.5,,,30.5,36.5,11.05,,3.18,13.0,1,Star
+2009,20,UTA,Eric Maynor,VCU,5.0,267.0,3.3,0.041,-2.9,-0.8,PG,74.25,163.6,74.5,97.0,,,28.5,31.5,10.78,,3.19,8.0,1,Bust
+2009,21,NOH,Darren Collison,UCLA,11.0,711.0,49.9,0.115,0.5,13.4,PG,72.25,166.2,75.0,96.5,,,30.5,33.5,10.45,,3.1,9.0,1,Solid
+2009,22,POR,Victor Claver,Unknown,3.0,80.0,0.2,0.011,-3.6,-0.4,,,,,,,,,,,,,,1,Bust
+2009,23,SAC,Omri Casspi,Unknown,10.0,588.0,19.6,0.078,-0.8,3.5,SF,79.75,211.2,81.25,106.5,,,25.5,32.5,11.15,,3.28,2.0,1,Solid
+2009,24,DAL,Byron Mullens,Ohio State,5.0,189.0,0.6,0.008,-4.0,-1.8,C,83.75,258.2,85.5,111.0,,,28.5,32.5,11.1,,3.45,10.0,1,Bust
+2009,25,OKC,Rodrigue Beaubois,Unknown,4.0,182.0,4.8,0.079,-0.1,1.4,PG,73.25,182.4,81.75,100.0,,,29.5,39.0,10.49,,3.15,3.0,1,Bust
+2009,26,CHI,Taj Gibson,USC,13.0,896.0,58.9,0.129,-0.7,7.1,PF,80.5,214.4,88.0,109.0,,,25.5,30.0,11.56,,3.41,12.0,1,Star
+2009,27,MEM,DeMarre Carroll,Missouri,11.0,578.0,29.5,0.104,0.0,6.7,PF-SF,78.25,207.2,82.0,105.0,,,,,,,,,1,Solid
+2009,28,MIN,Wayne Ellington,UNC,13.0,770.0,21.1,0.063,-1.5,2.2,SG,76.25,202.4,78.5,100.0,,,31.5,38.0,11.14,,3.2,13.0,1,Solid
+2009,29,LAL,Toney Douglas,Florida State,8.0,394.0,12.1,0.077,-0.8,2.2,PG,73.0,183.4,78.0,97.5,,,28.0,32.5,10.63,,3.03,15.0,1,Bust
+2009,30,CLE,Christian Eyenga,Unknown,2.0,51.0,-0.4,-0.02,-4.2,-0.6,,,,,,,,,,,,,,1,Bust
+2009,31,SAC,Jeff Ayres,Arizona State,6.0,237.0,6.3,0.131,-2.3,-0.2,PF,80.75,239.6,85.0,107.0,,,31.0,35.0,11.98,,3.14,15.0,2,Bust
+2009,32,WAS,Jermaine Taylor,Central Florida,2.0,65.0,0.2,0.014,-3.7,-0.3,SG,75.5,207.4,80.75,101.0,,,34.0,37.5,11.54,,3.32,16.0,2,Bust
+2009,33,POR,Dante Cunningham,Villanova,10.0,715.0,24.9,0.08,-1.7,1.1,PF,79.0,227.4,83.0,106.5,,,28.0,35.0,11.18,,3.26,18.0,2,Solid
+2009,35,DET,DaJuan Summers,Georgetown,4.0,83.0,-0.1,-0.008,-5.8,-0.8,SF,79.25,243.0,84.75,106.5,,,29.5,34.5,10.94,,3.17,15.0,2,Bust
+2009,36,MEM,Sam Young,Pitt,4.0,249.0,5.2,0.063,-2.1,-0.1,SF-SG,77.25,222.8,82.75,105.5,,,27.5,33.0,11.47,,3.45,,2,Bust
+2009,37,SAS,DeJuan Blair,Pitt,7.0,424.0,19.0,0.129,-1.2,1.4,PF,77.25,276.6,86.0,106.5,,,26.0,33.0,11.5,,3.45,18.0,2,Solid
+2009,38,POR,Jon Brockman,Washington,3.0,150.0,3.7,0.113,-3.9,-0.8,,,,,,,,,,,,,,2,Bust
+2009,39,DET,Jonas Jerebko,Unknown,9.0,635.0,25.8,0.109,-1.0,2.9,,,,,,,,,,,,,,2,Solid
+2009,40,CHA,Derrick Brown,Xavier,3.0,171.0,4.5,0.085,-1.3,0.4,SF-PF,79.5,224.6,86.5,107.5,,,30.5,35.5,11.26,,3.13,20.0,2,Bust
+2009,41,MIL,Jodie Meeks,Kentucky,10.0,539.0,24.3,0.096,-0.6,4.2,SG,75.0,211.4,76.5,98.0,,,28.5,37.0,10.96,,3.1,14.0,2,Solid
+2009,42,LAL,Patrick Beverley,Arkansas,10.0,526.0,34.5,0.115,1.1,11.4,,,,,,,,,,,,,,2,Solid
+2009,43,MIA,Marcus Thornton,LSU,8.0,483.0,20.0,0.085,0.2,6.2,,,,,,,,,,,,,,2,Solid
+2009,44,DET,Chase Budinger,Arizona,7.0,407.0,13.9,0.083,-0.5,2.9,SF-SG,78.25,206.4,79.0,101.0,,,29.5,38.5,11.08,,3.24,10.0,2,Bust
+2009,45,MIN,Nick Calathes,Florida,2.0,129.0,2.6,0.063,-0.5,0.8,,,,,,,,,,,,,,2,Bust
+2009,46,CLE,Danny Green,UNC,13.0,819.0,49.1,0.114,1.9,20.2,SG-SF,77.25,208.0,82.0,103.0,,,29.0,33.0,11.3,,3.3,15.0,2,Solid
+2009,48,PHO,Taylor Griffin,Oklahoma,1.0,8.0,0.0,-0.039,-8.1,-0.1,,,,,,,,,,,,,,2,Bust
+2009,52,IND,A.J. Price,UConn,6.0,261.0,4.7,0.058,-1.3,0.7,PG,72.5,192.8,75.75,97.0,,,26.0,31.0,10.99,,3.22,11.0,2,Bust
+2009,53,SAS,Nando De Colo,Unknown,2.0,119.0,2.4,0.081,-0.7,0.5,,,,,,,,,,,,,,2,Bust
+2009,55,POR,Patty Mills,Saint Mary's,13.0,820.0,35.3,0.1,0.1,9.0,PG,71.25,175.4,74.0,95.0,,,27.5,33.0,10.87,,3.1,8.0,2,Solid
+2009,58,BOS,Lester Hudson,University of Tennessee at Martin,4.0,57.0,0.2,0.016,-2.1,0.0,,,,,,,,,,,,,,2,Bust
+2010,1,WAS,John Wall,Kentucky,10.0,613.0,44.1,0.097,2.4,24.0,PG,74.75,195.6,81.25,101.5,8.25,9.5,30.0,39.0,10.84,,3.14,,1,Solid
+2010,2,PHI,Evan Turner,Ohio State,10.0,705.0,20.2,0.051,-1.9,0.5,SG,77.75,213.8,80.0,103.5,8.75,9.5,27.5,34.5,11.06,,3.27,9.0,1,Solid
+2010,3,NJN,Derrick Favors,Georgia Tech,12.0,790.0,60.2,0.15,0.9,14.0,PF,80.75,245.2,88.0,110.0,8.75,9.3,31.5,35.5,11.74,,3.25,14.0,1,Star
+2010,4,MIN,Wesley Johnson,Syracuse,9.0,609.0,10.7,0.038,-1.6,1.2,SF,78.25,206.4,85.0,106.0,9.0,9.5,32.0,37.0,11.43,,3.14,16.0,1,Bust
+2010,5,SAC,DeMarcus Cousins,Kentucky,11.0,654.0,46.8,0.115,2.4,21.6,C,81.5,291.8,89.75,113.0,9.25,10.0,23.5,27.5,11.4,,3.55,,1,Solid
+2010,6,GSW,Ekpe Udoh,Baylor,7.0,384.0,10.4,0.088,-1.4,0.8,PF,80.75,237.4,88.5,106.5,9.5,8.8,31.0,33.5,11.15,,3.29,10.0,1,Bust
+2010,7,DET,Greg Monroe,Georgetown,10.0,646.0,50.4,0.137,1.4,15.3,PF-C,81.75,246.6,86.25,108.5,8.75,9.5,25.0,29.0,12.1,,3.35,15.0,1,Star
+2010,8,LAC,Al-Farouq Aminu,Wake Forest,11.0,711.0,27.6,0.075,-0.6,6.5,SF,79.25,216.0,87.25,108.5,9.5,9.5,27.0,33.5,11.29,,3.3,13.0,1,Solid
+2010,9,UTA,Gordon Hayward,Butler,12.0,734.0,60.1,0.126,2.0,22.8,SF,78.75,211.0,79.75,103.0,8.5,9.3,30.5,34.5,11.73,,3.22,10.0,1,Star
+2010,10,IND,Paul George,Fresno State,12.0,737.0,76.6,0.149,4.1,38.0,SF,79.75,214.4,83.25,107.0,8.5,9.0,,,,,,4.0,1,Star
+2010,11,NOH,Cole Aldrich,Kansas,8.0,339.0,9.6,0.135,0.1,1.8,C,81.0,236.0,88.75,111.5,9.0,9.3,23.0,28.0,11.48,,3.35,10.0,1,Bust
+2010,12,MEM,Xavier Henry,Kansas,5.0,185.0,0.8,0.013,-4.4,-1.7,SG,77.25,210.2,83.25,105.0,8.75,10.0,28.5,36.5,11.1,,3.18,8.0,1,Bust
+2010,13,TOR,Ed Davis,UNC,12.0,722.0,43.3,0.151,-0.2,6.2,PF,81.0,226.6,84.0,108.0,9.25,10.0,31.0,36.0,11.7,,3.21,,1,Solid
+2010,14,HOU,Patrick Patterson,Kentucky,11.0,719.0,31.9,0.102,0.0,7.4,PF,80.0,239.6,85.25,107.0,9.25,10.3,28.5,33.5,11.14,,3.25,17.0,1,Solid
+2010,15,MIL,Larry Sanders,VCU,6.0,238.0,10.3,0.107,-1.1,1.1,PF-C,81.25,222.4,89.75,112.0,9.75,11.0,25.5,28.0,12.49,,3.27,7.0,1,Bust
+2010,16,MIN,Luke Babbitt,Nevada,8.0,381.0,7.2,0.065,-2.1,-0.1,SF-PF,79.5,217.8,83.25,104.5,8.5,10.0,29.5,37.5,10.98,,3.4,15.0,1,Bust
+2010,17,CHI,Kevin Séraphin,Unknown,7.0,423.0,5.9,0.044,-4.3,-3.6,,,,,,,,,,,,,,1,Bust
+2010,18,OKC,Eric Bledsoe,Kentucky,12.0,756.0,46.1,0.105,1.6,18.8,PG,72.25,191.6,79.5,98.0,8.5,9.8,,,,,,9.0,1,Solid
+2010,19,BOS,Avery Bradley,Texas,12.0,660.0,17.2,0.045,-2.4,-1.8,SG-PG,74.0,180.4,79.25,98.5,8.25,9.5,31.5,37.5,11.47,,3.14,2.0,1,Solid
+2010,20,SAS,James Anderson,Oklahoma State,5.0,247.0,3.3,0.037,-2.7,-0.8,SF,76.75,207.6,80.5,104.0,8.5,7.3,30.0,35.5,11.86,,3.19,14.0,1,Bust
+2010,21,OKC,Craig Brackins,Iowa State,2.0,17.0,-0.2,-0.089,-9.9,-0.2,PF-SF,80.5,229.0,84.0,109.0,9.5,11.3,26.0,35.0,11.65,,3.39,6.0,1,Bust
+2010,22,POR,Elliot Williams,Memphis,4.0,109.0,0.7,0.024,-4.9,-1.1,,,,,,,,,,,,,,1,Bust
+2010,23,MIN,Trevor Booker,Clemson,8.0,532.0,26.2,0.116,-0.5,4.2,PF,78.25,235.8,81.75,106.0,9.0,9.5,31.0,36.0,11.15,,3.1,22.0,1,Solid
+2010,24,ATL,Damion James,Texas,4.0,39.0,0.0,-0.001,-3.7,-0.3,SF,78.25,226.6,84.75,107.0,9.25,8.5,29.0,33.0,10.89,,3.2,13.0,1,Bust
+2010,25,MEM,Dominique Jones,South Florida,3.0,80.0,0.3,0.017,-2.4,-0.1,SG,75.25,216.0,81.25,101.0,9.0,10.3,26.0,32.5,10.88,,3.31,19.0,1,Bust
+2010,26,OKC,Quincy Pondexter,Washington,7.0,355.0,9.7,0.084,-1.8,0.3,,,,,,,,,,,,,,1,Bust
+2010,27,NJN,Jordan Crawford,Xavier,6.0,281.0,6.3,0.044,-1.3,1.3,SG,75.0,198.4,79.0,101.0,8.0,9.0,31.5,34.5,11.03,,3.37,7.0,1,Bust
+2010,28,MEM,Greivis Vásquez,Maryland,7.0,401.0,12.6,0.064,-1.2,1.8,PG-SG,77.0,210.8,79.0,101.0,7.75,9.3,,,,,,,1,Bust
+2010,29,ORL,Daniel Orton,Kentucky,3.0,51.0,1.0,0.093,-3.5,-0.2,C,80.75,269.2,88.25,110.5,8.5,9.8,24.0,30.5,12.32,,3.39,13.0,1,Bust
+2010,30,WAS,Lazar Hayward,Marquette,3.0,72.0,0.2,0.02,-4.2,-0.3,SG-SF,76.5,225.8,84.75,102.0,9.25,9.5,31.0,36.0,10.87,,3.31,15.0,1,Bust
+2010,31,NJN,Tibor Pleiß,Unknown,1.0,12.0,-0.1,-0.041,-11.6,-0.2,,,,,,,,,,,,,,2,Bust
+2010,32,MIA,Dexter Pittman,Texas,4.0,50.0,0.5,0.068,-7.7,-0.5,PF-C,81.5,302.6,90.0,111.0,10.25,10.5,,,,,,,2,Bust
+2010,33,SAC,Hassan Whiteside,Marshall,10.0,511.0,52.0,0.197,2.5,14.5,C-PF,82.5,226.6,91.0,113.0,8.25,10.3,27.0,31.5,11.83,,3.54,12.0,2,Star
+2010,34,POR,Armon Johnson,Nevada,2.0,47.0,-0.1,-0.015,-4.1,-0.2,PG-SG,74.0,195.2,80.0,99.5,8.25,9.3,31.5,38.5,11.25,,3.19,18.0,2,Bust
+2010,35,WAS,Nemanja Bjelica,Unknown,7.0,449.0,20.0,0.104,0.3,5.4,,,,,,,,,,,,,,2,Solid
+2010,37,MIL,Darington Hobson,New Mexico,1.0,5.0,-0.2,-0.225,-13.0,-0.1,SG-SF,77.25,203.6,81.25,104.5,8.25,9.0,29.0,34.0,11.68,,3.25,,2,Bust
+2010,38,NYK,Andy Rautins,Syracuse,1.0,5.0,-0.2,-0.314,-13.2,-0.1,SG,76.25,191.6,79.0,100.0,8.0,9.8,23.5,30.5,11.27,,3.49,8.0,2,Bust
+2010,39,NYK,Landry Fields,Stanford,5.0,255.0,10.5,0.084,-0.3,2.6,,,,,,,,,,,,,,2,Bust
+2010,40,IND,Lance Stephenson,Cincinnati,10.0,554.0,17.5,0.066,-1.3,2.3,SG,76.5,227.0,82.5,103.0,9.0,10.3,27.0,33.0,11.39,,3.38,10.0,2,Solid
+2010,41,MIA,Jarvis Varnado,Mississippi State,2.0,37.0,0.7,0.089,-3.3,-0.1,PF-C,80.25,210.2,87.5,109.5,9.25,9.5,29.5,32.5,11.61,,3.37,3.0,2,Bust
+2010,43,LAL,Devin Ebanks,West Virginia,3.0,63.0,0.5,0.035,-4.8,-0.5,SF,79.0,207.8,84.25,107.5,8.25,9.0,23.5,32.0,11.69,,3.44,6.0,2,Bust
+2010,44,MIL,Jerome Jordan,Tulsa,2.0,65.0,1.7,0.168,-1.0,0.1,C,83.5,244.2,89.25,113.0,9.0,10.3,,,,,,,2,Bust
+2010,46,PHO,Gani Lawal,Georgia Tech,1.0,1.0,0.0,-0.009,-15.0,0.0,PF,79.5,233.4,84.0,107.5,8.5,10.0,27.0,31.5,11.61,,3.24,20.0,2,Bust
+2010,50,DAL,Solomon Alabi,Florida State,2.0,26.0,0.0,0.01,-4.4,-0.1,C,83.5,237.4,89.0,113.0,9.25,9.3,22.5,26.0,13.2,,3.68,10.0,2,Bust
+2010,52,BOS,Luke Harangody,Notre Dame,2.0,70.0,0.9,0.048,-3.5,-0.3,PF,78.0,240.2,81.5,106.0,8.75,9.8,24.0,28.5,11.83,,3.41,23.0,2,Bust
+2010,53,ATL,Pape Sy,Unknown,1.0,3.0,0.0,-0.047,-6.0,0.0,,,,,,,,,,,,,,2,Bust
+2010,54,LAC,Willie Warren,Oklahoma,1.0,19.0,0.2,0.065,-2.7,0.0,SG-PG,74.5,208.4,78.0,99.5,8.5,9.5,23.0,31.5,11.21,,3.5,10.0,2,Bust
+2010,55,UTA,Jeremy Evans,Western Kentucky,7.0,250.0,8.2,0.15,0.9,1.9,,,,,,,,,,,,,,2,Bust
+2010,56,MIN,Hamady N'Diaye,Rutgers University,3.0,33.0,0.0,0.013,-7.3,-0.2,,,,,,,,,,,,,,2,Bust
+2010,57,IND,Ryan Reid,Florida State,1.0,5.0,0.1,0.142,-2.0,0.0,,,,,,,,,,,,,,2,Bust
+2010,58,LAL,Derrick Caracter,Texas-El Paso,1.0,41.0,0.3,0.057,-7.1,-0.3,PF,80.25,280.0,84.25,107.5,9.0,10.3,25.0,30.5,12.78,,3.61,22.0,2,Bust
+2011,1,CLE,Kyrie Irving,Duke,11.0,611.0,72.0,0.166,4.5,34.2,PG,73.75,191.0,76.0,99.0,8.25,9.3,,,,,,,1,Star
+2011,2,MIN,Derrick Williams,Arizona,7.0,428.0,14.1,0.076,-1.6,0.8,PF-SF,79.25,248.4,85.5,108.0,9.0,9.8,29.0,34.5,11.03,,3.23,19.0,1,Bust
+2011,3,UTA,Enes Freedom,Unknown,11.0,748.0,52.8,0.157,-0.1,7.6,,,,,,,,,,,,,,1,Star
+2011,4,CLE,Tristan Thompson,Texas,11.0,730.0,47.6,0.117,-1.7,1.4,PF,79.5,227.4,85.25,108.5,8.75,9.3,30.0,35.0,10.92,,3.26,9.0,1,Solid
+2011,5,TOR,Jonas Valančiūnas,Unknown,10.0,695.0,67.4,0.178,1.1,14.3,,,,,,,,,,,,,,1,Star
+2011,6,WAS,Jan Veselý,Unknown,3.0,162.0,4.0,0.078,-2.6,-0.4,,,,,,,,,,,,,,1,Bust
+2011,7,SAC,Bismack Biyombo,Unknown,11.0,738.0,29.4,0.096,-2.6,-2.2,,,,,,,,,,,,,,1,Solid
+2011,8,DET,Brandon Knight,Kentucky,9.0,451.0,11.6,0.042,-1.6,1.4,PG,73.5,176.8,78.75,98.5,8.25,9.5,29.0,37.5,10.74,,3.07,10.0,1,Bust
+2011,9,CHA,Kemba Walker,UConn,11.0,741.0,59.6,0.116,2.8,29.8,PG,71.5,184.0,75.5,91.5,8.0,9.0,32.0,39.5,10.87,,3.16,7.0,1,Star
+2011,10,MIL,Jimmer Fredette,BYU,6.0,241.0,2.2,0.033,-2.5,-0.4,,,,,,,,,,,,,,1,Bust
+2011,11,GSW,Klay Thompson,Washington State,9.0,647.0,48.5,0.11,0.8,14.9,SG,77.75,205.6,81.0,103.5,8.75,9.3,26.5,31.5,10.99,,3.24,5.0,1,Solid
+2011,12,UTA,Alec Burks,Colorado,11.0,625.0,26.0,0.087,-0.5,5.3,SG,77.0,192.6,82.0,103.5,9.0,8.3,29.0,36.0,10.96,,3.17,5.0,1,Solid
+2011,13,PHO,Markieff Morris,Kansas,11.0,715.0,27.1,0.073,-1.4,2.8,PF,79.75,240.8,82.75,106.5,8.5,8.3,27.0,31.5,,,3.4,11.0,1,Solid
+2011,14,HOU,Marcus Morris,Kansas,11.0,718.0,36.4,0.09,-0.5,7.1,PF-SF,79.0,229.6,82.0,105.5,8.25,8.5,29.0,33.0,,,3.15,11.0,1,Solid
+2011,15,IND,Kawhi Leonard,San Diego State,10.0,576.0,83.3,0.222,6.9,40.4,SF,78.0,227.4,87.0,106.0,9.75,11.3,25.5,32.0,11.45,,3.15,3.0,1,Star
+2011,16,PHI,Nikola Vučević,USC,11.0,741.0,58.9,0.124,2.2,24.3,PF-C,82.25,259.8,88.5,112.5,9.25,10.3,23.5,25.0,12.02,,3.27,8.0,1,Star
+2011,17,NYK,Iman Shumpert,Georgia Tech,10.0,461.0,12.9,0.054,-1.7,0.9,PG-SG,76.25,221.8,81.5,99.5,9.0,9.0,36.5,42.0,11.1,,3.18,18.0,1,Bust
+2011,18,WAS,Chris Singleton,Florida State,3.0,148.0,2.3,0.042,-3.2,-0.8,SF,79.75,230.2,85.0,103.5,9.25,10.0,30.5,37.5,11.33,,3.09,15.0,1,Bust
+2011,19,CHA,Tobias Harris,Tennessee,11.0,753.0,58.4,0.119,1.1,18.3,SF-PF,78.5,222.8,83.0,103.5,8.75,9.0,31.5,37.5,10.96,,3.17,12.0,1,Star
+2011,20,MIN,Donatas Motiejūnas,Unknown,6.0,251.0,7.1,0.075,-2.5,-0.5,,,,,,,,,,,,,,1,Bust
+2011,21,POR,Nolan Smith,Duke,2.0,84.0,-0.8,-0.047,-6.0,-0.8,PG,73.5,187.6,77.5,99.0,8.5,9.3,28.5,34.0,11.05,,3.17,9.0,1,Bust
+2011,22,DEN,Kenneth Faried,Morehead State University,8.0,478.0,38.8,0.159,0.5,7.5,PF,78.0,224.6,84.0,108.0,8.5,10.3,30.5,35.0,11.35,,3.26,16.0,1,Solid
+2011,23,HOU,Nikola Mirotić,Unknown,5.0,319.0,20.8,0.129,1.6,7.1,,,,,,,,,,,,,,1,Solid
+2011,24,OKC,Reggie Jackson,Boston College,11.0,703.0,33.5,0.089,0.0,9.1,,,,,,,,,,,,,,1,Solid
+2011,25,BOS,MarShon Brooks,Providence,5.0,200.0,3.3,0.046,-1.6,0.4,SG,76.25,194.6,85.0,101.0,9.0,10.5,34.0,38.5,10.74,,3.09,5.0,1,Bust
+2011,26,DAL,Jordan Hamilton,Texas,5.0,151.0,3.0,0.069,-0.1,1.0,SF,78.75,228.4,81.5,104.0,9.0,9.3,25.0,32.0,11.47,,3.3,7.0,1,Bust
+2011,27,NJN,JaJuan Johnson,Purdue,1.0,36.0,0.2,0.032,-3.9,-0.1,PF,81.0,219.8,86.0,107.5,9.0,10.0,33.5,38.0,11.21,,3.14,15.0,1,Bust
+2011,28,CHI,Norris Cole,Cleveland State University,6.0,360.0,3.0,0.018,-4.1,-4.1,PG,72.25,174.4,74.25,95.5,8.5,9.5,29.5,38.5,10.07,,3.22,11.0,1,Bust
+2011,29,SAS,Cory Joseph,Texas,11.0,728.0,28.7,0.085,-1.1,3.9,PG,74.0,186.2,77.5,99.0,8.5,10.5,27.5,35.0,10.75,,3.27,5.0,1,Solid
+2011,30,CHI,Jimmy Butler,Marquette,11.0,690.0,93.6,0.196,4.7,38.3,SF,78.0,222.2,79.5,101.5,9.0,9.0,32.0,39.0,11.12,,3.15,14.0,1,Star
+2011,31,MIA,Bojan Bogdanović,Unknown,8.0,603.0,33.0,0.09,-0.9,4.8,,,,,,,,,,,,,,2,Solid
+2011,32,CLE,Justin Harper,Richmond,3.0,22.0,-0.3,-0.093,-8.7,-0.2,PF-SF,80.0,228.0,83.75,106.0,9.0,9.3,28.5,33.0,11.92,,3.3,19.0,2,Bust
+2011,33,DET,Kyle Singler,Duke,6.0,356.0,10.0,0.062,-2.5,-0.9,SF,79.5,228.0,82.1,106.0,8.25,8.8,23.0,30.0,11.22,,3.21,10.0,2,Bust
+2011,34,WAS,Shelvin Mack,Butler,8.0,456.0,10.3,0.059,-1.9,0.1,PG,73.0,209.0,79.5,96.5,8.25,9.3,32.0,39.0,11.23,,3.18,17.0,2,Bust
+2011,35,SAC,Tyler Honeycutt,UCLA,2.0,24.0,-0.1,-0.049,-5.1,-0.1,SF,78.75,186.8,81.0,105.0,8.5,9.5,30.0,37.0,11.68,,3.07,,2,Bust
+2011,36,NJN,Jordan Williams,Maryland,1.0,43.0,1.3,0.101,-2.1,0.0,PF,79.75,247.2,84.25,106.5,9.25,10.0,25.0,30.5,12.74,,3.45,10.0,2,Bust
+2011,37,LAC,Trey Thompkins,Georgia,1.0,24.0,0.0,0.004,-5.7,-0.1,PF,80.5,239.0,85.0,107.5,9.25,9.8,27.5,30.5,11.72,,3.41,15.0,2,Bust
+2011,38,HOU,Chandler Parsons,Florida,9.0,440.0,28.9,0.105,1.1,10.2,SF,80.75,221.2,81.5,104.5,8.25,10.0,25.5,31.5,11.05,,3.29,4.0,2,Solid
+2011,39,CHA,Jeremy Tyler,Unknown,3.0,104.0,0.3,0.014,-7.0,-1.3,PF-C,81.0,262.4,89.0,110.5,9.25,9.0,28.0,33.5,11.26,,3.29,10.0,2,Bust
+2011,40,MIL,Jon Leuer,Wisconsin,8.0,377.0,13.2,0.107,-0.7,2.0,PF,82.0,223.2,84.0,105.5,8.75,9.8,29.5,36.5,10.82,,3.36,14.0,2,Bust
+2011,41,LAL,Darius Morris,Michigan,4.0,132.0,-0.3,-0.01,-5.1,-1.2,PG-SG,75.25,190.0,79.5,102.0,8.75,10.0,24.5,32.0,11.0,,3.2,12.0,2,Bust
+2011,42,IND,Dāvis Bertāns,Unknown,6.0,387.0,16.8,0.11,0.4,4.5,,,,,,,,,,,,,,2,Solid
+2011,43,CHI,Malcolm Lee,UCLA,3.0,36.0,0.4,0.04,-2.5,-0.1,SG,76.0,198.2,81.75,101.5,8.5,9.5,30.0,35.5,11.2,,3.09,17.0,2,Bust
+2011,44,GSW,Charles Jenkins,Hofstra,2.0,110.0,0.5,0.017,-4.5,-0.8,PG-SG,73.5,216.4,79.5,96.5,8.5,9.0,29.5,34.0,11.68,,3.18,16.0,2,Bust
+2011,45,NOH,Josh Harrellson,Kentucky,3.0,75.0,2.1,0.116,-0.4,0.4,,,,,,,,,,,,,,2,Bust
+2011,46,LAL,Andrew Goudelock,College of Charleston,3.0,49.0,0.0,0.003,-5.0,-0.3,PG,73.25,197.6,76.25,96.5,8.25,9.3,32.5,37.0,10.33,,3.1,4.0,2,Bust
+2011,47,LAC,Travis Leslie,Georgia,1.0,10.0,0.1,0.06,-0.3,0.0,SG,75.0,205.0,82.5,103.0,8.75,9.3,33.0,40.5,11.0,,3.13,10.0,2,Bust
+2011,48,ATL,Keith Benson,Oakland,1.0,3.0,0.0,-0.005,-7.7,0.0,C-PF,82.0,217.0,87.75,109.5,9.5,11.0,31.5,36.0,11.88,,3.35,12.0,2,Bust
+2011,49,MEM,Josh Selby,Kansas,2.0,38.0,-0.7,-0.113,-9.5,-0.6,SG-PG,73.75,194.6,77.25,98.0,8.5,9.0,29.5,42.0,11.13,,3.2,5.0,2,Bust
+2011,50,PHI,Lavoy Allen,Temple,6.0,388.0,13.8,0.096,-2.1,-0.1,,,,,,,,,,,,,,2,Bust
+2011,52,DET,Vernon Macklin,Florida,1.0,23.0,0.5,0.161,1.2,0.1,,,,,,,,,,,,,,2,Bust
+2011,53,ORL,DeAndre Liggins,Kentucky,5.0,177.0,1.6,0.04,-2.2,-0.1,SF-SG,77.0,202.2,83.0,103.5,8.75,10.0,27.0,31.0,,,3.33,6.0,2,Bust
+2011,55,BOS,E'Twaun Moore,Purdue,10.0,598.0,14.8,0.057,-1.9,0.2,SG,74.5,191.4,81.5,99.5,9.0,10.0,32.0,34.5,11.12,,3.31,,2,Bust
+2011,60,SAC,Isaiah Thomas,Washington,11.0,550.0,45.3,0.14,2.1,16.1,PG,68.75,186.0,73.75,91.5,8.25,9.0,31.5,40.0,10.49,,3.14,13.0,2,Solid
+2012,1,NOH,Anthony Davis,Kentucky,10.0,604.0,91.3,0.211,6.0,42.1,PF-C,81.25,221.8,89.5,108.0,9.0,8.5,,,,,,,1,Star
+2012,2,CHA,Michael Kidd-Gilchrist,Kentucky,8.0,446.0,21.0,0.092,-1.8,0.6,SF,77.75,232.8,84.0,104.5,9.0,10.3,32.0,35.5,11.77,,3.18,6.0,1,Solid
+2012,3,WAS,Bradley Beal,Florida,10.0,645.0,48.8,0.104,1.7,21.0,SG,75.25,201.8,80.0,100.0,8.5,9.0,33.0,39.0,10.95,,3.28,8.0,1,Solid
+2012,4,CLE,Dion Waiters,Syracuse,8.0,419.0,8.8,0.036,-2.1,-0.4,SG,74.5,221.0,79.25,98.0,8.5,9.5,,,,,,,1,Bust
+2012,5,SAC,Thomas Robinson,Kansas,5.0,313.0,4.6,0.053,-3.5,-1.6,PF,79.75,244.2,87.25,106.0,9.75,10.5,28.5,35.5,11.96,,3.17,15.0,1,Bust
+2012,6,POR,Damian Lillard,Weber State,10.0,711.0,94.1,0.175,4.7,43.7,PG,73.75,188.8,79.75,95.5,8.75,9.8,34.5,39.5,11.15,,3.34,13.0,1,Star
+2012,7,GSW,Harrison Barnes,UNC,10.0,747.0,44.8,0.091,-0.8,7.1,SF-SG,79.0,227.8,83.25,101.5,9.0,8.5,38.0,39.5,10.93,,3.16,15.0,1,Solid
+2012,8,TOR,Terrence Ross,Washington,10.0,670.0,23.4,0.068,-0.9,4.5,SG-SF,78.0,196.6,79.25,100.5,8.75,10.3,31.0,37.5,11.78,,3.28,2.0,1,Solid
+2012,9,DET,Andre Drummond,UConn,10.0,718.0,67.7,0.153,1.3,17.7,C,81.75,278.6,90.25,109.5,9.5,9.5,31.5,33.5,10.83,,3.39,10.0,1,Star
+2012,10,NOH,Austin Rivers,Duke,10.0,655.0,13.9,0.042,-3.1,-4.2,SG-PG,75.5,202.8,79.25,96.5,8.5,10.0,32.5,37.5,11.54,,3.32,1.0,1,Bust
+2012,11,POR,Meyers Leonard,Illinois,9.0,447.0,15.5,0.104,-1.4,1.1,C,83.75,249.8,87.0,108.0,9.25,11.0,30.0,32.5,11.34,,3.41,19.0,1,Solid
+2012,12,HOU,Jeremy Lamb,UConn,10.0,573.0,26.8,0.108,0.6,7.9,SG,76.0,179.2,83.0,102.0,8.75,9.3,31.5,38.0,10.98,,3.25,5.0,1,Solid
+2012,13,PHO,Kendall Marshall,UNC,4.0,160.0,1.0,0.015,-3.5,-1.1,PG,75.25,198.4,77.5,96.0,8.5,9.0,31.0,37.0,12.03,,3.23,,1,Bust
+2012,14,MIL,John Henson,UNC,8.0,445.0,20.7,0.113,-0.5,3.4,PF,81.0,216.0,89.0,112.0,9.25,10.0,25.5,30.0,,,,5.0,1,Solid
+2012,15,PHI,Maurice Harkless,St. John's,10.0,621.0,23.0,0.079,-0.8,4.1,SF,79.25,206.6,84.0,102.5,9.25,10.3,32.5,37.0,10.87,,3.25,5.0,1,Solid
+2012,16,HOU,Royce White,Iowa State,1.0,3.0,0.0,-0.121,-16.9,0.0,PF,79.0,260.6,84.0,104.5,9.5,11.5,,,,,,,1,Bust
+2012,17,DAL,Tyler Zeller,UNC,8.0,414.0,17.1,0.113,-2.0,0.0,PF-C,83.25,247.4,84.0,104.5,9.0,9.8,30.0,34.0,11.13,,3.4,16.0,1,Solid
+2012,18,HOU,Terrence Jones,Kentucky,6.0,234.0,14.7,0.127,0.5,3.6,PF-SF,80.25,252.0,86.25,107.0,9.0,10.0,29.5,34.5,11.57,,3.4,12.0,1,Bust
+2012,19,ORL,Andrew Nicholson,St. Bonaventure,5.0,285.0,3.8,0.045,-3.6,-1.6,PF,80.5,234.0,88.0,107.0,10.0,10.8,28.5,30.5,11.89,,3.67,10.0,1,Bust
+2012,20,DEN,Evan Fournier,Unknown,10.0,645.0,30.5,0.079,-0.9,4.9,,,,,,,,,,,,,,1,Solid
+2012,21,BOS,Jared Sullinger,Ohio State,5.0,269.0,15.3,0.113,-0.4,2.7,PF,79.75,268.2,85.25,105.5,9.25,9.8,29.5,31.0,12.77,,3.81,9.0,1,Solid
+2012,22,BOS,Fab Melo,Syracuse,1.0,6.0,0.0,0.021,-7.6,-0.1,C,82.75,255.0,86.5,110.0,9.0,10.0,29.5,31.0,12.14,,3.44,9.0,1,Bust
+2012,23,ATL,John Jenkins,Vanderbilt,6.0,171.0,3.0,0.065,-1.9,0.1,SG,75.25,212.0,80.5,98.0,9.0,9.0,30.5,36.5,11.36,,3.37,10.0,1,Bust
+2012,24,CLE,Jared Cunningham,Oregon State,4.0,84.0,0.2,0.017,-5.7,-0.6,SG-PG,75.5,187.6,78.5,98.0,8.25,9.0,,,,,,4.0,1,Bust
+2012,25,MEM,Tony Wroten,Washington,4.0,145.0,-1.3,-0.021,-3.4,-1.1,PG,76.75,203.2,81.0,101.0,8.0,9.0,30.0,35.5,10.75,,3.24,0.0,1,Bust
+2012,26,IND,Miles Plumlee,Duke,7.0,346.0,10.6,0.09,-1.9,0.2,PF-C,82.5,252.4,84.75,105.5,9.25,9.0,34.0,40.5,10.64,,3.36,15.0,1,Bust
+2012,27,MIA,Arnett Moultrie,Mississippi State,2.0,59.0,1.7,0.113,-2.8,-0.1,PF,81.5,232.8,86.25,106.5,9.25,9.3,33.5,37.5,11.32,,3.22,10.0,1,Bust
+2012,28,OKC,Perry Jones,Baylor,3.0,143.0,1.7,0.048,-3.5,-0.6,PF-SF,82.25,233.8,85.75,107.0,9.25,9.5,33.0,38.5,11.31,,3.19,11.0,1,Bust
+2012,29,CHI,Marquis Teague,Kentucky,3.0,91.0,-0.9,-0.045,-6.5,-1.0,PG,73.0,179.8,79.25,96.5,8.25,7.8,32.5,40.5,10.65,,3.19,8.0,1,Bust
+2012,30,GSW,Festus Ezeli,Vanderbilt,3.0,170.0,5.9,0.119,-2.0,0.0,C-PF,81.75,264.2,89.75,108.0,9.0,10.8,34.0,33.5,12.35,,3.29,18.0,1,Bust
+2012,31,CHA,Jeff Taylor,Vanderbilt,3.0,132.0,1.3,0.024,-4.2,-1.5,SF-SG,78.0,212.8,78.25,101.5,8.25,9.8,33.5,40.0,10.87,,3.29,15.0,2,Bust
+2012,32,WAS,Tomáš Satoranský,Unknown,6.0,388.0,17.9,0.1,-0.9,2.4,PG-SG,78.5,200.6,79.25,100.0,8.5,9.5,,,,,,,2,Solid
+2012,33,CLE,Bernard James,Florida State,3.0,92.0,1.9,0.117,-1.8,0.0,PF,80.75,229.8,87.0,108.5,9.0,9.3,30.0,32.5,11.84,,3.4,6.0,2,Bust
+2012,34,CLE,Jae Crowder,Marquette,10.0,735.0,40.2,0.104,0.3,10.9,SF,76.75,241.2,81.25,99.5,9.5,10.5,31.0,34.5,11.45,,3.37,20.0,2,Solid
+2012,35,GSW,Draymond Green,Michigan State,10.0,685.0,52.7,0.13,2.7,23.1,PF-SF,77.75,235.6,85.25,105.0,9.0,9.5,28.0,33.0,11.01,,3.4,9.0,2,Star
+2012,36,SAC,Orlando Johnson,UC Santa Barbara,3.0,103.0,1.4,0.059,-2.4,-0.1,SG,75.75,223.8,83.25,99.0,9.0,9.5,32.0,39.5,10.98,,3.25,13.0,2,Bust
+2012,37,TOR,Quincy Acy,Baylor,7.0,337.0,8.7,0.078,-2.0,-0.1,PF,78.5,223.8,86.75,106.5,9.5,11.0,32.0,37.0,10.48,,3.28,13.0,2,Bust
+2012,38,DEN,Quincy Miller,Baylor,3.0,69.0,-0.1,-0.003,-3.9,-0.5,SF,80.75,218.7,85.25,105.0,9.25,10.3,30.5,36.0,11.05,,3.48,8.0,2,Bust
+2012,39,DET,Khris Middleton,Texas A&M,10.0,651.0,50.6,0.117,0.7,14.3,SF,78.75,216.2,82.75,103.0,9.0,9.0,28.0,31.0,11.45,,3.47,4.0,2,Star
+2012,40,POR,Will Barton,Memphis,10.0,623.0,26.0,0.077,-0.3,7.1,SG-SF,77.0,174.4,81.75,102.5,9.0,9.5,30.0,34.0,12.5,,3.6,0.0,2,Solid
+2012,41,POR,Tyshawn Taylor,Kansas,2.0,61.0,-0.9,-0.088,-8.1,-0.8,PG,74.75,177.0,78.25,97.5,8.75,8.8,32.0,36.5,11.48,,3.2,0.0,2,Bust
+2012,42,MIL,Doron Lamb,Kentucky,2.0,100.0,0.1,0.005,-5.8,-1.2,SG-PG,75.25,199.4,78.75,98.5,8.5,8.8,29.0,33.5,11.12,,3.41,2.0,2,Bust
+2012,43,ATL,Mike Scott,Virginia,9.0,555.0,16.8,0.088,-1.7,0.6,PF,79.25,240.8,82.75,104.0,8.5,9.0,27.0,32.5,11.59,,3.44,14.0,2,Solid
+2012,44,DET,Kim English,Missouri,1.0,41.0,0.2,0.021,-4.2,-0.2,SG,76.5,192.0,78.5,98.0,8.5,8.8,29.0,36.5,10.59,,3.33,,2,Bust
+2012,45,PHI,Justin Hamilton,LSU,3.0,113.0,3.7,0.091,-0.9,0.5,,,,,,,,,,,,,,2,Bust
+2012,46,NOH,Darius Miller,Kentucky,6.0,271.0,6.5,0.059,-2.3,-0.4,SF-SG,78.0,233.4,81.0,101.0,8.5,8.8,33.0,37.0,11.34,,3.31,14.0,2,Bust
+2012,47,UTA,Kevin Murphy,Tennessee Technological University,1.0,17.0,-0.3,-0.272,-16.8,-0.2,SG,77.0,194.0,78.75,99.0,8.5,8.5,31.0,36.5,10.97,,3.42,11.0,2,Bust
+2012,48,NYK,Kostas Papanikolaou,Unknown,2.0,69.0,0.3,0.015,-2.7,-0.2,,,,,,,,,,,,,,2,Bust
+2012,49,ORL,Kyle O'Quinn,Norfolk State,8.0,472.0,17.8,0.128,0.9,5.0,PF,80.5,240.8,88.75,106.5,9.5,10.0,31.5,31.5,11.65,,3.53,,2,Solid
+2012,51,BOS,Kris Joseph,Syracuse,1.0,10.0,-0.1,-0.127,-9.9,-0.1,SG,78.0,215.0,83.0,104.0,9.0,9.0,28.5,35.0,,,3.46,6.0,2,Bust
+2012,52,GSW,Ognjen Kuzmić,Unknown,2.0,37.0,0.2,0.061,-5.6,-0.2,,,,,,,,,,,,,,2,Bust
+2012,53,LAC,Furkan Aldemir,Unknown,1.0,41.0,1.4,0.122,-3.6,-0.2,,,,,,,,,,,,,,2,Bust
+2012,54,PHI,Tornike Shengelia,Unknown,2.0,45.0,-0.2,-0.032,-7.0,-0.3,,,,,,,,,,,,,,2,Bust
+2012,55,DAL,Darius Johnson-Odom,Marquette,2.0,7.0,-0.3,-0.597,-25.5,-0.1,SG,73.5,212.0,79.0,96.0,8.75,8.8,33.5,41.5,10.76,,3.21,17.0,2,Bust
+2012,58,MIN,Robbie Hummel,Purdue,2.0,98.0,1.9,0.066,-3.1,-0.4,SF,79.25,218.0,80.5,102.0,8.5,9.5,27.5,30.0,11.56,,3.41,13.0,2,Bust
+2012,60,LAL,Robert Sacre,Gonzaga,4.0,189.0,2.4,0.042,-4.0,-1.4,,,,,,,,,,,,,,2,Bust
+2013,1,CLE,Anthony Bennett,UNLV,4.0,151.0,0.5,0.013,-4.8,-1.3,,,,,,,,,,,,,,1,Bust
+2013,2,ORL,Victor Oladipo,Indiana,9.0,462.0,25.1,0.08,0.9,11.0,SG,75.25,213.2,81.25,100.5,8.75,9.3,33.0,42.0,10.69,3.14,3.25,15.0,1,Solid
+2013,3,WAS,Otto Porter Jr.,Georgetown,9.0,504.0,36.0,0.132,1.8,12.5,SF,79.5,197.6,85.5,105.5,8.75,9.3,27.0,36.0,11.25,3.06,3.4,9.0,1,Solid
+2013,4,CHA,Cody Zeller,Indiana,9.0,494.0,32.1,0.14,-0.6,4.0,C-PF,82.75,230.0,82.75,106.0,8.5,10.5,35.5,37.5,10.82,2.69,3.15,17.0,1,Solid
+2013,5,PHO,Alex Len,Maryland,9.0,570.0,21.6,0.096,-1.9,0.2,C,,,87.5,,9.0,10.8,,,,,,,1,Solid
+2013,6,NOH,Nerlens Noel,Kentucky,8.0,450.0,28.3,0.134,0.9,7.5,C,82.0,206.4,87.75,110.0,9.5,10.0,,,,,,,1,Solid
+2013,7,SAC,Ben McLemore,Kansas,9.0,556.0,9.0,0.035,-3.1,-3.4,SG,75.5,189.2,79.75,100.5,8.75,9.5,32.5,42.0,11.87,3.11,3.27,6.0,1,Bust
+2013,8,DET,Kentavious Caldwell-Pope,Georgia,9.0,683.0,34.6,0.083,-0.8,6.0,SG,76.5,203.6,80.0,100.5,8.5,9.0,29.0,34.5,10.6,3.2,3.12,7.0,1,Solid
+2013,9,MIN,Trey Burke,Michigan,9.0,498.0,12.9,0.06,-1.3,1.7,PG,71.75,187.0,77.5,97.5,8.25,8.8,29.5,36.5,11.2,3.01,3.16,3.0,1,Bust
+2013,10,POR,CJ McCollum,Lehigh,9.0,590.0,40.3,0.104,1.3,15.7,PG-SG,74.25,197.0,78.25,96.5,8.0,9.5,32.0,38.5,11.02,2.91,3.32,13.0,1,Solid
+2013,11,PHI,Michael Carter-Williams,Syracuse,8.0,391.0,6.6,0.032,-1.2,1.9,PG,76.75,184.4,79.25,101.0,7.5,8.5,31.5,41.0,10.68,3.7,3.22,8.0,1,Bust
+2013,12,OKC,Steven Adams,Pitt,9.0,664.0,56.0,0.151,0.5,11.3,C,82.75,254.5,88.5,109.5,9.5,11.0,28.5,33.0,11.85,3.02,3.4,16.0,1,Star
+2013,13,DAL,Kelly Olynyk,Gonzaga,9.0,610.0,35.3,0.126,0.9,9.8,PF-C,82.75,234.0,81.75,108.0,8.5,10.0,24.5,29.5,11.42,2.99,3.59,5.0,1,Solid
+2013,14,UTA,Shabazz Muhammad,UCLA,5.0,278.0,8.5,0.085,-2.0,0.0,SF-SG,76.75,221.8,83.0,104.5,9.0,10.0,29.5,37.0,10.99,2.93,3.32,10.0,1,Bust
+2013,15,MIL,Giannis Antetokounmpo,Unknown,9.0,656.0,87.5,0.197,6.0,43.3,,,,,,,,,,,,,,1,Star
+2013,16,BOS,Lucas Nogueira,Unknown,4.0,141.0,6.0,0.165,2.3,1.9,,,,,,,,,,,,,,1,Bust
+2013,17,ATL,Dennis Schröder,Unknown,9.0,621.0,23.4,0.068,-1.2,3.4,PG,73.0,164.8,79.75,98.0,8.75,10.5,30.0,34.0,11.09,2.86,3.21,1.0,1,Solid
+2013,18,ATL,Shane Larkin,Miami (FL),4.0,256.0,4.4,0.044,-2.4,-0.6,PG,70.25,170.8,70.75,89.5,7.5,8.8,34.5,44.0,10.64,3.03,3.08,12.0,1,Bust
+2013,19,CLE,Sergey Karasev,Unknown,3.0,95.0,0.8,0.036,-3.4,-0.4,,,,,,,,,,,,,,1,Bust
+2013,20,CHI,Tony Snell,New Mexico,9.0,601.0,18.5,0.068,-2.0,-0.1,SF-SG,78.0,198.2,83.5,105.5,9.0,9.5,30.0,36.5,11.36,2.84,3.25,7.0,1,Solid
+2013,21,UTA,Gorgui Dieng,Louisville,9.0,597.0,30.7,0.12,0.4,7.3,C,81.75,229.6,87.5,111.5,9.0,10.0,,,,,,,1,Solid
+2013,22,BRK,Mason Plumlee,Duke,9.0,661.0,44.2,0.144,1.3,12.2,C-PF,83.25,238.2,83.0,108.0,9.75,9.5,30.5,36.0,10.89,2.76,3.29,14.0,1,Solid
+2013,23,IND,Solomon Hill,Arizona,9.0,448.0,11.9,0.059,-2.1,-0.3,SF,77.5,226.0,81.0,103.0,9.0,10.5,29.5,37.5,10.77,2.91,3.19,14.0,1,Bust
+2013,24,NYK,Tim Hardaway Jr.,Michigan,9.0,586.0,25.8,0.078,-0.8,4.8,SG,76.5,199.4,79.0,101.0,8.0,9.3,31.5,37.5,10.68,2.93,3.25,16.0,1,Solid
+2013,25,LAC,Reggie Bullock,UNC,9.0,434.0,18.1,0.089,-0.8,3.0,SG-SF,77.75,199.8,80.75,102.0,8.5,9.0,31.0,36.5,11.33,3.3,3.31,11.0,1,Solid
+2013,26,MIN,Andre Roberson,Colorado,7.0,307.0,12.6,0.089,-0.6,2.3,PF-SF,78.25,205.8,83.0,104.5,8.75,9.5,30.0,36.5,11.36,3.02,3.34,10.0,1,Bust
+2013,27,DEN,Rudy Gobert,Unknown,9.0,611.0,86.6,0.227,4.0,27.8,C,84.5,237.6,92.5,115.0,9.75,10.0,25.0,29.0,12.85,3.19,3.57,7.0,1,Star
+2013,29,OKC,Archie Goodwin,Kentucky,4.0,165.0,1.1,0.022,-3.0,-0.6,SG,75.75,189.0,81.5,102.0,8.5,9.0,30.0,36.0,10.75,3.41,3.27,1.0,1,Bust
+2013,30,PHO,Nemanja Nedović,Unknown,1.0,24.0,-0.4,-0.132,-10.0,-0.3,,,,,,,,,,,,,,1,Bust
+2013,31,CLE,Allen Crabbe,California,7.0,381.0,13.7,0.072,-1.6,0.9,SG,77.25,197.4,83.25,103.5,8.25,8.5,30.5,36.0,10.67,3.1,3.32,10.0,2,Bust
+2013,32,OKC,Álex Abrines,Unknown,3.0,174.0,5.0,0.086,-1.9,0.1,,,,,,,,,,,,,,2,Bust
+2013,33,CLE,Carrick Felix,Arizona State,1.0,7.0,0.0,0.057,-3.4,0.0,SF-SG,76.75,202.6,81.25,103.5,8.5,9.5,32.0,38.5,11.16,3.09,3.25,15.0,2,Bust
+2013,34,HOU,Isaiah Canaan,Murray State,6.0,235.0,4.3,0.043,-2.4,-0.5,PG,71.0,188.4,76.5,94.5,8.25,9.5,33.0,40.5,10.98,2.89,3.22,16.0,2,Bust
+2013,35,PHI,Glen Rice Jr.,Georgia Tech,2.0,16.0,-0.2,-0.065,-6.6,-0.2,SF-SG,76.5,210.8,81.25,101.5,8.5,9.0,33.0,40.5,10.99,3.08,3.25,10.0,2,Bust
+2013,36,SAC,Ray McCallum,Detroit Mercy,3.0,154.0,2.1,0.035,-2.6,-0.4,PG,72.25,191.4,75.25,96.5,8.0,8.8,30.5,40.0,10.82,3.08,3.25,5.0,2,Bust
+2013,37,DET,Tony Mitchell,University of North Texas,1.0,21.0,0.2,0.151,0.4,0.0,PF-SF,79.5,236.4,86.5,106.5,9.0,10.0,33.5,38.0,11.82,3.25,3.52,13.0,2,Bust
+2013,38,WAS,Nate Wolters,South Dakota State,3.0,84.0,0.9,0.028,-2.6,-0.2,PG,75.5,196.4,75.75,98.0,8.25,8.8,,,,,,8.0,2,Bust
+2013,39,POR,Jeff Withey,Kansas,5.0,206.0,6.8,0.157,0.5,1.3,C,82.75,221.8,86.0,110.5,9.0,9.8,26.5,29.0,12.49,3.29,3.47,10.0,2,Bust
+2013,40,POR,Grant Jerrett,Arizona,1.0,8.0,-0.1,-0.128,-10.8,-0.1,PF,80.75,232.0,86.0,109.0,8.5,9.3,28.5,34.0,11.85,3.23,3.51,2.0,2,Bust
+2013,41,MEM,Jamaal Franklin,San Diego State,2.0,24.0,0.0,-0.006,-5.9,-0.2,SG-SF,76.0,190.8,83.25,103.5,8.5,8.3,,,,,,,2,Bust
+2013,42,PHI,Pierre Jackson,Baylor,1.0,8.0,0.0,0.021,-4.4,-0.1,PG,69.5,176.0,70.0,90.0,7.5,8.3,,,,,,,2,Bust
+2013,43,MIL,Ricky Ledo,Providence,2.0,28.0,-0.6,-0.096,-7.6,-0.4,SG,76.75,197.2,79.25,102.5,8.5,9.3,27.0,33.5,10.72,3.16,3.32,4.0,2,Bust
+2013,44,DAL,Mike Muscala,Bucknell,9.0,432.0,16.6,0.119,0.2,3.8,C-PF,82.25,230.2,85.0,108.0,8.5,9.0,28.0,33.5,11.76,2.99,3.44,5.0,2,Solid
+2013,46,UTA,Erick Green,Virginia Tech,2.0,52.0,0.1,0.011,-4.0,-0.2,PG,73.5,178.2,77.75,98.0,8.5,9.0,,,,,,5.0,2,Bust
+2013,47,ATL,Raul Neto,Unknown,7.0,387.0,10.1,0.077,-1.6,0.6,,,,,,,,,,,,,,2,Bust
+2013,48,LAL,Ryan Kelly,Duke,4.0,163.0,3.0,0.046,-2.6,-0.5,PF,81.75,228.0,83.5,110.0,9.0,10.0,,,,,,,2,Bust
+2013,49,CHI,Erik Murphy,Florida,1.0,24.0,-0.1,-0.055,-8.6,-0.1,PF,80.75,239.8,82.5,108.0,8.75,9.8,24.5,29.5,12.19,2.96,3.57,13.0,2,Bust
+2013,50,ATL,James Ennis III,Cal State Long Beach,8.0,395.0,16.2,0.097,-1.5,0.9,SF,77.75,200.8,83.5,104.5,8.5,8.8,29.5,36.5,11.55,3.06,3.4,7.0,2,Solid
+2013,52,MIN,Lorenzo Brown,NC State,5.0,103.0,-0.2,-0.007,-3.5,-0.5,PG,76.0,189.2,79.0,100.0,8.25,8.5,28.0,34.0,11.78,3.24,3.4,8.0,2,Bust
+2013,55,MEM,Joffrey Lauvergne,Unknown,4.0,208.0,5.2,0.089,-2.1,-0.1,,,,,,,,,,,,,,2,Bust
+2013,56,DET,Peyton Siva,Louisville,1.0,24.0,-0.2,-0.032,-6.4,-0.2,PG,71.5,180.6,75.0,93.0,8.0,9.8,33.5,41.5,10.59,2.93,3.16,15.0,2,Bust
+2014,1,CLE,Andrew Wiggins,Kansas,8.0,598.0,24.0,0.055,-1.5,2.6,,,,,,,,,,,,,,1,Solid
+2014,2,MIL,Jabari Parker,Duke,8.0,310.0,13.8,0.078,-0.8,2.5,,,,,,,,,,,,,,1,Bust
+2014,3,PHI,Joel Embiid,Kansas,6.0,328.0,43.7,0.205,5.9,20.4,,,,,,,,,,,,,,1,Solid
+2014,4,ORL,Aaron Gordon,Arizona,8.0,528.0,28.8,0.09,-0.1,7.3,PF,79.5,220.1,83.75,105.0,8.75,10.5,32.5,39.0,10.81,2.76,3.27,,1,Solid
+2014,5,UTA,Dante Exum,Unknown,6.0,245.0,3.1,0.032,-3.3,-1.5,SG,76.5,196.3,81.5,103.0,8.5,9.5,31.5,34.5,10.75,2.88,3.19,,1,Bust
+2014,6,BOS,Marcus Smart,Oklahoma State,8.0,520.0,29.5,0.092,-0.2,7.2,PG,74.0,227.2,81.25,99.0,9.0,8.8,33.0,36.0,10.82,2.96,3.26,,1,Solid
+2014,7,LAL,Julius Randle,Kentucky,8.0,518.0,31.4,0.093,0.4,9.7,PF,79.75,249.7,84.0,105.5,8.75,8.3,29.0,35.5,11.45,3.14,3.27,,1,Solid
+2014,8,SAC,Nik Stauskas,Michigan,6.0,343.0,3.9,0.028,-3.0,-1.7,SG,77.25,206.9,79.75,102.0,8.5,8.5,29.0,35.5,10.79,2.92,3.27,,1,Bust
+2014,9,CHH,Noah Vonleh,Indiana,7.0,339.0,9.2,0.078,-2.4,-0.6,PF,80.0,247.1,88.25,108.0,9.75,11.8,31.0,37.0,11.45,3.29,3.28,,1,Bust
+2014,10,PHI,Elfrid Payton,Louisiana,8.0,500.0,15.8,0.057,-0.9,3.7,PG,74.5,185.4,80.0,98.5,8.75,9.0,31.5,35.5,11.06,2.92,3.23,,1,Solid
+2014,11,DEN,Doug McDermott,Creighton,8.0,527.0,19.2,0.084,-1.9,0.4,SF,78.25,218.0,81.25,103.0,8.75,9.8,28.5,36.5,11.1,3.15,3.29,,1,Solid
+2014,12,ORL,Dario Šarić,Unknown,5.0,356.0,16.4,0.088,-0.8,2.6,,,,,,,,,,,,,,1,Solid
+2014,13,MIN,Zach LaVine,UCLA,8.0,478.0,23.7,0.075,0.5,9.5,PG,76.5,180.9,80.25,100.0,8.25,8.8,33.5,41.5,10.42,2.8,3.19,,1,Solid
+2014,14,PHO,T.J. Warren,NC State,7.0,332.0,19.6,0.099,-0.2,4.2,SF,79.0,220.2,82.25,104.0,8.75,9.0,27.0,35.5,11.1,3.04,3.26,,1,Solid
+2014,15,ATL,Adreian Payne,Michigan State,4.0,107.0,-0.6,-0.019,-5.9,-1.4,PF,81.0,238.5,88.0,109.0,9.25,9.5,,,,,,,1,Bust
+2014,16,CHI,Jusuf Nurkić,Unknown,8.0,411.0,23.3,0.114,0.5,6.1,,,,,,,,,,,,,,1,Solid
+2014,17,BOS,James Young,Kentucky,4.0,95.0,0.8,0.046,-3.4,-0.3,SG,77.25,213.3,84.0,104.0,9.0,9.5,28.0,35.5,,,,,1,Bust
+2014,18,PHO,Tyler Ennis,Syracuse,4.0,186.0,1.3,0.026,-3.4,-0.8,PG,73.0,181.5,79.25,98.0,8.25,8.8,29.0,36.0,11.12,2.84,3.3,,1,Bust
+2014,19,CHI,Gary Harris,Michigan State,8.0,468.0,20.8,0.074,-1.4,2.1,SG,74.5,204.8,78.75,96.0,8.5,9.5,,,,,,,1,Solid
+2014,20,TOR,Bruno Caboclo,Unknown,7.0,105.0,1.5,0.054,-2.7,-0.2,,,,,,,,,,,,,,1,Bust
+2014,21,OKC,Mitch McGary,Michigan,2.0,52.0,1.3,0.108,-2.6,-0.1,,,,,,,,,,,,,,1,Bust
+2014,22,MEM,Jordan Adams,UCLA,2.0,32.0,0.4,0.07,1.7,0.2,SG,75.5,208.8,82.0,102.0,8.5,7.5,24.5,29.5,12.13,3.05,3.5,,1,Bust
+2014,23,UTA,Rodney Hood,Duke,8.0,448.0,17.4,0.076,-1.2,2.2,SF,79.25,208.2,80.5,103.0,8.5,8.5,29.0,36.0,11.21,3.14,3.38,,1,Solid
+2014,24,CHH,Shabazz Napier,UConn,6.0,345.0,8.1,0.065,-0.7,2.0,PG,71.0,175.2,75.25,93.0,8.25,8.5,30.5,37.5,11.6,3.13,3.2,,1,Bust
+2014,25,HOU,Clint Capela,Unknown,8.0,471.0,52.9,0.201,2.0,12.8,,,,,,,,,,,,,,1,Star
+2014,26,MIA,P.J. Hairston,UNC,2.0,111.0,0.9,0.021,-3.9,-1.0,SG,76.25,228.8,81.0,101.0,8.75,9.8,32.0,37.0,11.12,,3.32,,1,Bust
+2014,27,PHO,Bogdan Bogdanović,Unknown,5.0,316.0,16.2,0.086,0.4,5.5,,,,,,,,,,,,,,1,Solid
+2014,28,LAC,C.J. Wilcox,Washington,3.0,66.0,0.1,0.007,-4.3,-0.2,SG,75.5,201.0,81.75,100.5,8.75,9.0,31.0,37.5,11.3,2.92,3.22,,1,Bust
+2014,29,OKC,Josh Huestis,Stanford,3.0,76.0,0.7,0.03,-3.5,-0.4,,,,,,,,,,,,,,1,Bust
+2014,30,SAS,Kyle Anderson,UCLA,8.0,505.0,27.0,0.122,1.7,10.0,SF,79.5,230.1,86.75,107.5,8.25,8.8,,,,,,,1,Solid
+2014,31,MIL,Damien Inglis,Unknown,1.0,20.0,-0.1,-0.024,-5.6,-0.1,,,,,,,,,,,,,,2,Bust
+2014,32,PHI,K.J. McDaniels,Clemson,3.0,148.0,1.3,0.03,-2.8,-0.4,SF,76.5,195.6,83.25,102.0,8.75,9.8,33.0,37.0,12.71,3.2,3.1,,2,Bust
+2014,33,CLE,Joe Harris,Virginia,8.0,414.0,20.5,0.093,-0.5,3.9,SG,76.75,215.0,78.0,100.0,8.5,9.8,28.5,33.5,11.11,2.92,3.31,,2,Solid
+2014,34,NYK,Cleanthony Early,Wichita State,2.0,56.0,-0.6,-0.039,-5.9,-0.8,SF,78.0,209.4,82.75,101.5,8.5,9.0,34.0,40.0,11.15,2.96,3.18,,2,Bust
+2014,35,UTA,Jarnell Stokes,Tennessee,3.0,28.0,0.6,0.202,0.1,0.1,PF,79.0,262.8,85.25,103.5,9.75,10.5,31.0,36.0,11.92,3.2,3.26,,2,Bust
+2014,36,MIL,Johnny O'Bryant,LSU,4.0,147.0,0.2,0.006,-6.2,-1.8,PF,79.25,256.8,86.25,105.0,9.25,9.5,31.0,35.5,11.57,3.32,3.45,,2,Bust
+2014,38,DET,Spencer Dinwiddie,Colorado,8.0,387.0,22.5,0.106,0.3,6.0,PG,76.5,204.9,80.25,103.0,8.25,9.0,,,,,,,2,Solid
+2014,39,PHI,Jerami Grant,Syracuse,8.0,555.0,28.1,0.093,-0.4,5.7,SF,78.5,214.0,86.75,107.0,9.25,9.3,,,,,,,2,Solid
+2014,40,MIN,Glenn Robinson III,Michigan,7.0,304.0,7.9,0.071,-1.7,0.4,SF,77.5,211.4,82.0,100.5,9.0,9.5,36.5,41.5,11.22,3.04,3.15,,2,Bust
+2014,41,DEN,Nikola Jokić,Unknown,7.0,527.0,79.6,0.239,8.9,44.0,,,,,,,,,,,,,,2,Star
+2014,42,HOU,Nick Johnson,Arizona,1.0,28.0,-0.1,-0.02,-6.5,-0.3,SG,73.5,198.0,79.25,96.5,8.75,9.8,33.5,41.5,10.8,2.95,3.27,,2,Bust
+2014,43,ATL,Edy Tavares,Unknown,2.0,13.0,0.2,0.118,-0.4,0.0,,,,,,,,,,,,,,2,Bust
+2014,44,MIN,Markel Brown,Oklahoma State,3.0,113.0,1.1,0.029,-2.9,-0.4,SG,74.5,184.4,80.75,100.0,8.25,9.8,36.5,43.5,12.62,2.9,3.18,,2,Bust
+2014,45,CHH,Dwight Powell,Stanford,8.0,511.0,38.0,0.188,1.3,8.0,PF,81.5,234.4,84.5,105.0,9.0,9.3,28.5,35.0,11.28,2.88,3.2,,2,Solid
+2014,46,WAS,Jordan Clarkson,Missouri,8.0,600.0,21.7,0.064,-0.5,6.2,PG,75.25,186.3,80.0,98.0,8.25,9.0,33.0,38.5,10.76,2.98,3.28,,2,Solid
+2014,47,PHI,Russ Smith,Louisville,2.0,27.0,-0.2,-0.068,-5.1,-0.1,PG,71.5,160.0,75.5,95.0,8.25,8.5,29.5,34.0,11.57,3.01,3.27,,2,Bust
+2014,48,MIL,Lamar Patterson,Pitt,2.0,40.0,0.1,0.006,-5.7,-0.4,SG,76.0,226.0,83.0,101.0,9.0,9.3,27.5,32.5,11.63,3.13,3.45,,2,Bust
+2014,49,CHI,Cameron Bairstow,New Mexico,2.0,36.0,-0.1,-0.021,-8.1,-0.3,PF,80.75,252.4,84.75,107.0,8.75,9.0,31.0,33.5,11.39,3.09,3.37,,2,Bust
+2014,51,NYK,Thanasis Antetokounmpo,Unknown,4.0,127.0,1.8,0.075,-3.4,-0.4,SF,77.25,205.2,84.0,104.5,9.0,9.8,31.5,39.5,11.39,3.05,3.18,,2,Bust
+2014,55,MIA,Semaj Christon,Xavier,1.0,64.0,0.1,0.006,-5.1,-0.8,PG,73.5,186.0,78.5,99.0,8.5,8.3,30.5,36.5,11.55,3.21,3.32,,2,Bust
+2014,56,DEN,Devyn Marble,Iowa,2.0,44.0,-0.3,-0.028,-5.5,-0.4,SG,77.0,192.4,81.0,102.0,8.25,8.5,29.0,35.0,11.32,3.08,3.28,,2,Bust
+2014,58,SAS,Jordan McRae,Tennessee,4.0,123.0,1.7,0.048,-2.1,0.0,SG,75.75,179.4,84.5,104.0,8.75,8.5,27.5,34.5,11.07,3.15,3.39,,2,Bust
+2014,60,SAS,Cory Jefferson,Baylor,2.0,58.0,0.9,0.071,-3.3,-0.2,PF,79.75,218.4,84.5,105.0,8.75,9.8,33.0,37.5,12.63,3.39,3.36,,2,Bust
+2015,1,MIN,Karl-Anthony Towns,Kentucky,7.0,482.0,66.1,0.193,4.8,28.3,,,,,,,,,,,,,,1,Star
+2015,2,LAL,D'Angelo Russell,Ohio State,7.0,424.0,14.4,0.055,0.5,8.0,PG-SG,75.25,193.4,81.75,102.0,8.75,9.8,,,,,,,1,Bust
+2015,3,PHI,Jahlil Okafor,Duke,6.0,247.0,7.2,0.071,-2.0,0.0,,,,,,,,,,,,,,1,Bust
+2015,4,NYK,Kristaps Porziņģis,Unknown,6.0,337.0,27.1,0.125,1.7,9.6,,,,,,,,,,,,,,1,Solid
+2015,5,ORL,Mario Hezonja,Unknown,5.0,330.0,3.2,0.025,-2.8,-1.2,,,,,,,,,,,,,,1,Bust
+2015,6,SAC,Willie Cauley-Stein,Kentucky,7.0,422.0,23.3,0.121,-0.1,4.4,C,83.25,242.4,87.0,111.0,9.5,9.0,,,,,,,1,Solid
+2015,7,DEN,Emmanuel Mudiay,Unknown,6.0,302.0,-0.2,-0.001,-3.2,-2.2,,,,,,,,,,,,,,1,Bust
+2015,8,DET,Stanley Johnson,Arizona,7.0,419.0,6.2,0.035,-2.8,-1.7,SF,77.0,241.8,83.5,102.0,9.0,9.0,,,,,,,1,Bust
+2015,9,CHO,Frank Kaminsky,Wisconsin,7.0,377.0,15.2,0.092,-0.3,3.4,C-PF,83.75,231.2,83.0,109.5,8.5,9.5,,,,,,,1,Solid
+2015,10,MIA,Justise Winslow,Duke,7.0,315.0,7.8,0.046,-2.1,-0.2,SF,76.5,221.8,82.25,104.5,8.5,9.3,,,,,,,1,Bust
+2015,11,IND,Myles Turner,Texas,7.0,431.0,32.8,0.127,0.6,8.2,C-PF,81.75,238.6,88.0,112.0,9.25,9.3,,,,,,,1,Solid
+2015,12,UTA,Trey Lyles,Kentucky,7.0,449.0,14.5,0.085,-1.0,2.0,PF,81.0,241.2,85.5,108.0,9.25,10.3,,,,,,,1,Bust
+2015,13,PHO,Devin Booker,Kentucky,7.0,477.0,29.9,0.089,0.5,10.2,SG,76.5,205.8,80.25,102.5,8.75,9.0,27.5,34.5,10.27,2.75,3.28,8.0,1,Solid
+2015,14,OKC,Cameron Payne,Murray State,7.0,279.0,8.2,0.079,-0.4,2.0,PG,72.75,182.8,79.25,97.5,8.5,8.3,29.8,35.5,10.9,2.93,3.28,0.0,1,Bust
+2015,15,ATL,Kelly Oubre Jr.,Kansas,7.0,479.0,17.6,0.07,-1.8,0.5,SF-SG,77.75,202.8,86.25,102.5,9.0,8.8,34.5,37.0,11.09,3.12,3.32,7.0,1,Solid
+2015,16,BOS,Terry Rozier,Louisville,7.0,477.0,24.0,0.093,0.6,8.2,PG-SG,72.5,190.2,80.25,98.5,8.25,8.5,33.0,38.0,10.84,2.84,3.15,7.0,1,Solid
+2015,17,MIL,Rashad Vaughn,UNLV,3.0,139.0,-0.6,-0.017,-4.7,-1.2,SG,75.75,198.6,79.0,101.0,8.0,8.5,28.0,34.0,11.4,3.1,3.21,5.0,1,Bust
+2015,18,HOU,Sam Dekker,Wisconsin,5.0,201.0,5.4,0.083,-1.4,0.5,SF,79.75,218.6,83.5,106.0,8.5,9.3,25.5,34.5,10.64,2.96,3.28,5.0,1,Bust
+2015,19,WAS,Jerian Grant,Notre Dame,5.0,279.0,8.3,0.08,-1.6,0.5,PG,75.25,198.0,79.5,100.0,8.25,8.5,,,,,,,1,Bust
+2015,20,TOR,Delon Wright,Utah,7.0,411.0,22.8,0.128,2.1,8.9,PG,76.25,181.4,79.5,101.5,8.0,8.5,29.5,31.0,11.16,3.5,3.29,4.0,1,Solid
+2015,21,DAL,Justin Anderson,Virginia,6.0,242.0,4.9,0.072,-1.5,0.4,SF-SG,77.25,230.6,83.75,101.0,8.5,9.5,38.0,43.0,11.13,2.88,3.22,12.0,1,Bust
+2015,22,CHI,Bobby Portis,Arkansas,7.0,453.0,21.1,0.103,-0.6,3.5,PF,81.5,246.2,86.0,108.5,9.5,9.3,25.0,31.5,11.78,3.28,3.56,5.0,1,Solid
+2015,23,POR,Rondae Hollis-Jefferson,Arizona,6.0,305.0,12.9,0.091,-0.7,2.3,SF,77.5,210.8,86.0,104.0,8.75,9.8,32.0,38.0,10.41,3.19,3.12,13.0,1,Bust
+2015,24,CLE,Tyus Jones,Duke,7.0,455.0,19.3,0.111,0.4,5.1,PG,72.5,184.6,77.0,97.0,8.25,8.8,26.5,32.5,11.84,2.95,3.32,2.0,1,Solid
+2015,25,MEM,Jarell Martin,LSU,4.0,184.0,3.2,0.053,-4.3,-1.7,PF,80.0,238.6,81.0,106.5,8.25,9.5,28.5,35.0,11.2,2.97,3.27,19.0,1,Bust
+2015,27,LAL,Larry Nance Jr.,Wyoming,7.0,396.0,24.4,0.123,1.0,7.3,PF,79.5,226.6,85.5,108.0,9.0,9.8,29.0,37.5,10.93,3.01,3.25,10.0,1,Solid
+2015,28,BOS,R.J. Hunter,Georgia State University,4.0,45.0,0.4,0.051,-2.0,0.0,SG,76.5,185.0,82.5,104.0,8.5,8.3,27.5,33.5,10.87,2.91,3.26,1.0,1,Bust
+2015,29,BRK,Chris McCullough,Syracuse,3.0,59.0,0.6,0.054,-2.5,-0.1,PF,80.25,199.0,87.25,109.0,8.75,8.8,,,,,,,1,Bust
+2015,30,GSW,Kevon Looney,UCLA,7.0,367.0,20.4,0.163,-0.2,2.7,PF,80.0,222.4,87.5,110.0,9.5,9.3,,,,,,,1,Solid
+2015,31,MIN,Cedi Osman,Unknown,5.0,327.0,7.3,0.044,-2.4,-0.8,,,,,,,,,,,,,,2,Bust
+2015,32,HOU,Montrezl Harrell,Louisville,7.0,458.0,40.7,0.198,2.9,12.1,PF,79.0,253.4,88.25,109.0,9.0,9.8,,,,,,,2,Solid
+2015,33,BOS,Jordan Mickey,LSU,3.0,64.0,0.5,0.05,-4.8,-0.3,PF,79.0,238.0,87.25,106.0,8.75,9.5,33.0,37.5,11.72,3.13,3.28,9.0,2,Bust
+2015,34,LAL,Anthony Brown,Stanford,3.0,41.0,-0.2,-0.016,-5.1,-0.6,SF-SG,77.75,211.0,83.0,104.5,8.5,9.0,27.5,34.5,10.94,3.29,3.18,4.0,2,Bust
+2015,35,PHI,Willy Hernangómez,Unknown,6.0,306.0,14.6,0.15,0.1,2.5,,,,,,,,,,,,,,2,Bust
+2015,36,MIN,Rakeem Christmas,Syracuse,2.0,30.0,0.5,0.105,-4.7,-0.2,PF-C,80.25,242.6,89.25,110.5,9.25,9.0,29.0,32.0,11.6,3.3,3.47,9.0,2,Bust
+2015,37,PHI,Richaun Holmes,Bowling Green,7.0,376.0,26.6,0.161,0.4,4.8,PF,80.25,242.8,85.5,108.0,8.5,8.5,32.5,36.0,11.24,3.31,3.32,15.0,2,Solid
+2015,38,DET,Darrun Hilliard,Villanova,3.0,91.0,0.3,0.016,-4.7,-0.6,,,,,,,,,,,,,,2,Bust
+2015,40,MIA,Josh Richardson,Tennessee,7.0,438.0,23.8,0.088,-0.4,5.2,,,,,,,,,,,,,,2,Solid
+2015,41,BRK,Pat Connaughton,Notre Dame,7.0,417.0,18.1,0.112,0.0,3.9,SG,76.0,215.0,80.0,96.0,8.5,9.3,37.5,44.0,10.58,3.08,3.2,13.0,2,Solid
+2015,43,IND,Joe Young,Oregon,3.0,127.0,0.4,0.016,-4.1,-0.6,,,,,,,,,,,,,,2,Bust
+2015,44,PHO,Andrew Harrison,Kentucky,3.0,145.0,3.2,0.051,-2.8,-0.6,PG,76.5,213.2,81.0,100.0,8.25,9.3,26.5,33.0,11.2,,3.34,,2,Bust
+2015,46,MIL,Norman Powell,UCLA,7.0,421.0,19.5,0.099,-0.1,4.4,SG,75.0,215.4,82.75,102.5,9.25,9.0,32.5,40.5,10.69,3.2,3.2,5.0,2,Solid
+2015,48,OKC,Dakari Johnson,Kentucky,1.0,31.0,0.6,0.178,-0.3,0.1,C,83.0,264.6,86.0,112.0,9.25,10.5,22.5,25.0,11.76,2.94,3.62,4.0,2,Bust
+2015,56,NOP,Branden Dawson,Michigan State,1.0,6.0,0.0,0.069,-5.7,0.0,PF,77.5,230.2,83.0,105.0,9.0,8.8,28.5,34.5,12.22,3.53,3.2,12.0,2,Bust
+2016,1,PHI,Ben Simmons,LSU,4.0,275.0,30.4,0.156,3.7,13.5,,,,,,,,,,,,,,1,Solid
+2016,2,LAL,Brandon Ingram,Duke,6.0,368.0,18.7,0.074,-0.3,5.2,,,,,,,,,,,,,,1,Solid
+2016,3,BOS,Jaylen Brown,California,6.0,403.0,24.5,0.102,0.1,6.1,SG-SF,77.25,222.8,83.75,102.5,8.75,9.0,,,,,,,1,Solid
+2016,4,PHO,Dragan Bender,Unknown,4.0,187.0,0.5,0.006,-3.9,-1.9,,,,,,,,,,,,,,1,Bust
+2016,5,MIN,Kris Dunn,Providence,6.0,245.0,3.9,0.031,-2.1,-0.2,PG,75.0,0.0,81.5,100.0,,,,,,,,,1,Bust
+2016,6,NOP,Buddy Hield,Oklahoma,6.0,468.0,17.1,0.06,0.1,7.3,SG,75.75,212.4,81.25,101.0,8.5,9.0,,,,,,,1,Solid
+2016,7,DEN,Jamal Murray,Kentucky,5.0,345.0,20.8,0.096,0.3,6.0,,,,,,,,,,,,,,1,Solid
+2016,8,SAC,Marquese Chriss,Washington,6.0,292.0,6.5,0.058,-2.4,-0.5,PF,80.75,233.0,84.25,105.0,9.0,9.0,32.5,38.5,11.93,3.05,3.26,,1,Bust
+2016,9,TOR,Jakob Poeltl,Utah,6.0,416.0,28.9,0.165,1.0,6.4,C,84.25,239.0,86.75,111.5,9.25,10.3,,,,,,,1,Solid
+2016,10,MIL,Thon Maker,Unknown,5.0,263.0,6.6,0.087,-2.1,-0.1,PF,83.75,216.0,87.0,110.5,8.75,9.5,32.0,36.5,11.15,3.09,3.33,,1,Bust
+2016,11,ORL,Domantas Sabonis,Gonzaga,6.0,415.0,34.6,0.141,1.7,11.1,,,,,,,,,,,,,,1,Solid
+2016,12,UTA,Taurean Prince,Baylor,6.0,370.0,8.3,0.045,-1.8,0.5,SF,78.5,220.2,83.5,102.0,9.0,8.5,34.0,36.0,10.96,2.8,3.24,,1,Bust
+2016,13,PHO,Georgios Papagiannis,Unknown,2.0,39.0,0.4,0.044,-3.9,-0.2,,,,,,,,,,,,,,1,Bust
+2016,14,CHI,Denzel Valentine,Michigan State,5.0,256.0,4.5,0.044,-1.9,0.2,SG-SF,76.0,210.4,82.75,102.0,8.5,9.8,27.0,32.0,10.51,3.22,3.46,,1,Bust
+2016,15,DEN,Juancho Hernangómez,Unknown,6.0,297.0,8.1,0.083,-1.8,0.3,,,,,,,,,,,,,,1,Bust
+2016,16,BOS,Guerschon Yabusele,Unknown,2.0,74.0,1.1,0.105,-1.9,0.0,,,,,,,,,,,,,,1,Bust
+2016,17,MEM,Wade Baldwin,Vanderbilt,3.0,56.0,-0.3,-0.028,-5.3,-0.5,PG,74.5,201.8,83.25,100.0,9.0,9.8,32.5,38.0,10.45,3.01,3.19,,1,Bust
+2016,18,DET,Henry Ellenson,Marquette,5.0,83.0,0.4,0.023,-3.7,-0.3,PF,82.0,242.0,86.25,108.0,8.5,9.8,,,,,,,1,Bust
+2016,19,DEN,Malik Beasley,Florida State,6.0,336.0,10.5,0.071,-0.9,2.0,SG,75.5,189.8,79.0,100.5,8.5,9.0,,,,0.0,,,1,Bust
+2016,20,IND,Caris LeVert,Michigan,6.0,318.0,11.9,0.065,-0.5,3.3,SG,77.75,191.0,82.0,101.0,8.5,9.3,,,,,,,1,Bust
+2016,21,ATL,DeAndre' Bembry,Saint Joseph's,6.0,296.0,4.4,0.038,-2.3,-0.4,SG-SF,76.25,206.6,81.25,101.0,8.0,9.3,32.0,38.0,10.9,2.87,3.17,,1,Bust
+2016,22,CHO,Malachi Richardson,Syracuse,3.0,70.0,-0.1,-0.009,-6.1,-0.7,SG-SF,76.75,199.6,84.0,101.5,8.75,10.0,33.0,38.0,10.56,3.25,3.33,,1,Bust
+2016,23,BOS,Ante Žižić,Unknown,3.0,113.0,3.5,0.11,-2.6,-0.2,,,,,,,,,,,,,,1,Bust
+2016,24,PHI,Timothé Luwawu-Cabarrot,Unknown,6.0,328.0,4.7,0.043,-4.0,-2.7,,,,,,,,,,,,,,1,Bust
+2016,25,LAC,Brice Johnson,UNC,2.0,21.0,0.1,0.062,-0.6,0.0,PF,81.0,208.6,84.5,106.5,9.0,8.3,33.5,38.0,11.88,2.94,3.2,,1,Bust
+2016,26,PHI,Furkan Korkmaz,Unknown,5.0,256.0,7.1,0.071,-1.8,0.3,,,,,,,,,,,,,,1,Bust
+2016,27,TOR,Pascal Siakam,New Mexico State,6.0,400.0,33.3,0.136,1.8,11.1,PF,80.25,226.6,87.25,107.5,9.25,10.0,30.5,36.5,11.25,3.09,3.41,,1,Solid
+2016,28,PHO,Skal Labissière,Kentucky,4.0,148.0,4.4,0.081,-2.3,-0.2,PF-C,82.5,215.8,86.5,105.5,8.75,9.0,,,,,,,1,Bust
+2016,29,SAS,Dejounte Murray,Washington,5.0,320.0,16.4,0.096,1.8,7.8,,,,,,,,,,,,,,1,Solid
+2016,30,GSW,Damian Jones,Vanderbilt,6.0,199.0,9.3,0.146,-0.9,0.8,C,82.25,243.6,87.75,107.0,8.75,10.5,36.0,37.0,11.35,3.12,3.2,,1,Bust
+2016,31,BOS,Deyonta Davis,Michigan State,3.0,107.0,3.6,0.131,-2.1,0.0,PF,81.25,237.2,86.5,108.5,9.0,9.3,,,,,,,2,Bust
+2016,32,LAL,Ivica Zubac,Unknown,6.0,360.0,26.1,0.183,0.6,4.5,,,,,,,,,,,,,,2,Solid
+2016,33,LAC,Cheick Diallo,Kansas,5.0,183.0,6.3,0.139,-1.4,0.3,PF,79.5,218.6,88.5,107.5,8.5,9.8,31.0,35.0,11.24,3.3,3.26,,2,Bust
+2016,34,PHO,Tyler Ulis,Kentucky,3.0,133.0,0.5,0.008,-3.6,-1.1,PG,68.75,149.2,74.0,88.5,7.5,7.5,32.5,38.0,10.8,2.88,3.2,,2,Bust
+2016,36,MIL,Malcolm Brogdon,Virginia,6.0,333.0,24.2,0.116,1.1,7.9,SG,75.75,223.0,82.5,98.0,9.0,10.3,30.5,35.5,10.77,2.64,3.31,,2,Solid
+2016,37,HOU,Chinanu Onuaku,Louisville,2.0,6.0,0.1,0.043,-5.4,-0.1,C,81.0,245.2,86.75,108.5,9.0,8.0,27.5,33.5,11.65,3.0,3.5,,2,Bust
+2016,38,MIL,Patrick McCaw,UNLV,5.0,199.0,4.4,0.062,-2.8,-0.6,PG-SG,77.25,180.8,82.0,100.5,8.75,8.8,30.0,38.0,11.01,2.97,3.3,,2,Bust
+2016,40,NOP,Diamond Stone,Maryland,1.0,7.0,-0.1,-0.211,-20.8,-0.1,C,81.0,254.4,86.75,108.5,8.5,7.8,27.0,29.5,12.02,3.22,3.5,,2,Bust
+2016,41,ORL,Stephen Zimmerman,UNLV,1.0,19.0,0.0,-0.005,-8.3,-0.2,C,82.25,234.0,87.25,108.5,9.0,9.0,26.0,31.0,12.08,3.16,3.43,,2,Bust
+2016,42,UTA,Isaiah Whitehead,Seton Hall,2.0,89.0,-0.9,-0.025,-5.0,-1.4,PG-SG,75.25,210.0,80.75,100.0,8.5,8.8,27.5,35.5,11.65,3.21,3.34,,2,Bust
+2016,43,HOU,Zhou Qi,Unknown,2.0,19.0,-0.2,-0.093,-9.6,-0.2,PF-C,85.25,218.2,91.75,112.5,9.25,9.5,31.5,32.0,11.27,2.9,3.46,,2,Bust
+2016,45,BOS,Demetrius Jackson,Notre Dame,3.0,26.0,0.2,0.087,-0.5,0.1,PG,72.0,193.8,77.5,93.0,8.25,9.0,37.5,43.5,10.81,2.87,3.25,,2,Bust
+2016,46,DAL,A.J. Hammons,Purdue,1.0,22.0,0.0,-0.001,-6.6,-0.2,,,,,,,,,,,,,,2,Bust
+2016,47,ORL,Jake Layman,Maryland,6.0,243.0,3.8,0.059,-2.3,-0.2,SF,80.0,208.6,81.25,102.0,8.25,9.3,33.0,39.5,11.35,2.82,3.24,,2,Bust
+2016,48,CHI,Paul Zipser,Unknown,2.0,98.0,0.0,-0.001,-5.2,-1.4,,,,,,,,,,,,,,2,Bust
+2016,49,DET,Michael Gbinije,Syracuse,1.0,9.0,-0.1,-0.136,-12.1,-0.1,SG,77.5,204.6,79.5,101.0,8.0,9.0,33.5,37.5,11.0,3.19,3.12,,2,Bust
+2016,50,IND,Georges Niang,Iowa State,6.0,305.0,8.1,0.088,-1.1,1.0,PF,78.75,230.8,82.0,103.0,9.25,9.3,25.0,31.0,11.64,3.17,3.49,,2,Bust
+2016,51,BOS,Ben Bentil,Providence,1.0,3.0,-0.1,-0.473,-25.9,-0.1,PF,79.25,229.2,85.5,105.0,9.5,10.0,29.0,33.0,11.16,3.1,3.3,,2,Bust
+2016,52,UTA,Joel Bolomboy,Weber State,2.0,18.0,0.3,0.132,-0.1,0.0,PF,79.5,224.4,85.75,103.5,9.0,10.3,37.5,40.5,10.26,2.86,3.17,,2,Bust
+2016,53,DEN,Petr Cornelie,Unknown,1.0,13.0,0.0,-0.015,-8.8,-0.1,,,,,,,,,,,,,,2,Bust
+2016,54,ATL,Kay Felder,Oakland,2.0,58.0,-0.4,-0.041,-4.7,-0.4,PG,68.25,177.2,74.5,88.5,8.25,8.5,35.5,44.0,11.52,2.9,3.15,,2,Bust
+2016,55,BRK,Marcus Paige,UNC,1.0,5.0,0.0,-0.006,-8.8,0.0,PG,72.5,163.8,78.25,97.0,7.75,8.8,33.5,39.5,10.82,2.69,3.15,,2,Bust
+2016,56,DEN,Daniel Hamilton,UConn,2.0,25.0,0.0,0.0,-3.3,-0.1,SG-SF,78.25,197.0,81.0,103.5,9.0,8.5,26.0,29.0,11.48,3.2,3.4,,2,Bust
+2016,58,BOS,Abdel Nader,Iowa State,5.0,202.0,2.8,0.052,-2.6,-0.4,,,,,,,,,,,,,,2,Bust
+2016,60,UTA,Tyrone Wallace,California,4.0,112.0,0.1,0.003,-5.2,-1.4,,,,,,,,,,,,,,2,Bust
+2017,1,PHI,Markelle Fultz,Washington,5.0,131.0,3.5,0.052,-2.0,0.0,,,,,,,,,,,,,,1,Bust
+2017,2,LAL,Lonzo Ball,UCLA,5.0,252.0,11.4,0.067,1.0,6.3,,,,,,,,,,,,,,1,Bust
+2017,3,BOS,Jayson Tatum,Duke,5.0,365.0,35.1,0.138,2.8,14.8,,,,,,,,,,,,,,1,Solid
+2017,4,PHO,Josh Jackson,Kansas,5.0,291.0,-1.7,-0.012,-3.8,-3.1,,,,,,,,,,,,,,1,Bust
+2017,5,SAC,De'Aaron Fox,Kentucky,5.0,322.0,15.7,0.073,0.1,5.4,PG,74.0,169.6,78.5,100.0,8.5,8.5,,,,,,,1,Solid
+2017,6,ORL,Jonathan Isaac,Florida State,3.0,136.0,6.7,0.091,0.2,2.0,,,,,,,,,,,,,,1,Bust
+2017,7,MIN,Lauri Markkanen,Arizona,5.0,282.0,16.6,0.095,-0.1,4.0,,,,,,,,,,,,,,1,Solid
+2017,8,NYK,Frank Ntilikina,Unknown,5.0,269.0,0.6,0.006,-4.1,-2.5,,,,,,,,,,,,,,1,Bust
+2017,9,DAL,Dennis Smith Jr.,NC State,5.0,216.0,-0.6,-0.005,-2.3,-0.4,,,,,,,,,,,,,,1,Bust
+2017,10,SAC,Zach Collins,Gonzaga,4.0,182.0,5.1,0.077,-2.2,-0.2,PF-C,82.25,232.2,85.0,111.0,8.75,9.3,,,,,,,1,Bust
+2017,11,CHO,Malik Monk,Kentucky,5.0,309.0,5.6,0.043,-1.9,0.1,,,,,,,,,,,,,,1,Bust
+2017,12,DET,Luke Kennard,Duke,5.0,297.0,14.2,0.098,-0.3,3.0,SG-SF,76.5,196.2,77.25,98.5,8.0,8.8,,,,,,,1,Bust
+2017,13,DEN,Donovan Mitchell,Louisville,5.0,345.0,29.0,0.12,2.4,13.1,SG,73.25,211.4,82.0,97.0,8.5,9.5,36.5,40.5,11.53,3.07,3.01,10.0,1,Solid
+2017,14,MIA,Bam Adebayo,Kentucky,5.0,343.0,35.4,0.176,3.0,12.1,,,,,,,,,,,,,,1,Solid
+2017,15,POR,Justin Jackson,UNC,5.0,255.0,5.3,0.053,-2.8,-1.0,SF,77.75,219.4,87.25,107.0,9.0,9.5,26.5,31.5,11.78,3.08,3.43,,1,Bust
+2017,16,CHI,Justin Patton,Creighton,4.0,22.0,0.4,0.066,-2.8,-0.1,C,82.0,229.0,87.0,111.5,8.75,9.8,26.0,30.5,11.8,3.31,3.46,,1,Bust
+2017,17,MIL,D.J. Wilson,Michigan,5.0,146.0,2.8,0.075,-2.6,-0.3,PF,80.75,234.4,87.0,109.5,9.25,10.3,,,,,,,1,Bust
+2017,18,IND,T.J. Leaf,UCLA,4.0,146.0,2.7,0.104,-1.8,0.1,PF,80.75,222.2,83.0,107.0,8.5,9.5,29.0,34.5,11.55,3.27,3.27,6.0,1,Bust
+2017,19,ATL,John Collins,Wake Forest,5.0,293.0,28.1,0.159,1.5,7.4,PF,80.25,225.2,83.25,106.5,9.0,10.0,33.0,37.5,11.66,3.27,3.27,15.0,1,Solid
+2017,20,POR,Harry Giles,Duke,3.0,142.0,3.0,0.079,-2.4,-0.2,PF,81.25,232.0,87.25,109.5,9.5,10.8,27.0,32.5,11.08,3.0,3.34,5.0,1,Bust
+2017,21,OKC,Terrance Ferguson,Unknown,4.0,204.0,4.4,0.053,-4.0,-2.1,SG-SF,77.5,184.4,80.75,103.0,8.5,10.0,28.5,38.0,11.16,3.22,3.32,,1,Bust
+2017,22,BRK,Jarrett Allen,Texas,5.0,341.0,34.9,0.185,1.7,8.5,C,81.0,233.6,89.25,109.5,9.5,10.5,31.5,35.5,11.82,3.0,3.21,4.0,1,Solid
+2017,23,TOR,OG Anunoby,Indiana,5.0,301.0,17.6,0.105,0.1,4.3,SF,78.25,232.4,86.25,107.5,9.25,9.5,,,,,,,1,Solid
+2017,24,UTA,Tyler Lydon,Syracuse,2.0,26.0,0.2,0.084,-4.3,-0.1,PF,80.25,215.0,84.0,107.5,8.75,8.8,29.5,33.5,11.68,2.81,3.46,1.0,1,Bust
+2017,25,ORL,Anžejs Pasečņiks,Unknown,2.0,28.0,0.4,0.038,-6.2,-0.5,,,,,,,,,,,,,,1,Bust
+2017,26,POR,Caleb Swanigan,Purdue,3.0,75.0,-0.2,-0.015,-6.2,-0.7,PF,79.5,245.6,87.0,108.0,9.5,10.3,,,,,,,1,Bust
+2017,27,BRK,Kyle Kuzma,Utah,5.0,342.0,14.2,0.066,-1.0,2.7,SF-SG,80.0,222.6,84.25,107.5,8.5,9.5,27.0,34.0,10.72,2.98,3.25,12.0,1,Bust
+2017,28,LAL,Tony Bradley,UNC,5.0,167.0,7.4,0.181,0.2,1.1,C,81.25,248.8,89.0,112.5,9.5,9.5,24.5,27.5,11.79,2.99,3.44,5.0,1,Bust
+2017,29,SAS,Derrick White,Colorado,5.0,263.0,15.3,0.108,1.1,5.3,PG,75.25,189.8,79.5,101.5,8.25,8.5,31.0,36.5,10.84,2.92,3.08,10.0,1,Solid
+2017,30,UTA,Josh Hart,Villanova,5.0,296.0,15.7,0.094,-0.3,3.4,SG-SF,75.75,209.2,80.25,101.0,8.5,9.5,27.5,35.5,11.15,3.02,3.18,9.0,1,Solid
+2017,31,CHO,Frank Jackson,Duke,4.0,213.0,2.5,0.031,-3.9,-1.9,PG,74.0,201.6,79.5,98.0,8.25,9.0,34.5,42.0,10.94,2.7,3.14,9.0,2,Bust
+2017,32,PHO,Davon Reed,Miami (FL),3.0,79.0,1.4,0.07,-2.1,0.0,SG-SF,76.5,206.2,84.0,102.0,9.25,9.5,28.5,36.0,11.37,3.21,3.34,12.0,2,Bust
+2017,33,ORL,Wes Iwundu,Kansas State,5.0,226.0,4.2,0.053,-3.9,-1.8,,,,,,,,,,,,,,2,Bust
+2017,34,SAC,Frank Mason III,Kansas,4.0,103.0,1.2,0.035,-2.6,-0.3,PG,71.0,188.8,75.25,94.0,8.0,9.3,34.0,41.0,11.41,3.09,3.18,15.0,2,Bust
+2017,35,ORL,Ivan Rabb,California,2.0,85.0,3.2,0.125,-1.7,0.1,PF,80.75,219.6,85.5,109.0,8.75,9.0,28.5,32.5,12.68,3.23,3.35,3.0,2,Bust
+2017,36,PHI,Jonah Bolden,Unknown,2.0,51.0,1.4,0.098,-1.3,0.1,,,,,,,,,,,,,,2,Bust
+2017,37,BOS,Semi Ojeleye,SMU,5.0,284.0,5.2,0.061,-3.4,-1.5,SF-SG,77.25,241.4,81.75,102.0,8.75,9.5,35.0,40.5,10.58,3.07,3.16,19.0,2,Bust
+2017,38,CHI,Jordan Bell,Oregon,5.0,161.0,4.9,0.121,0.2,1.1,PF,79.0,223.6,83.75,104.5,9.25,9.5,31.5,38.0,10.63,2.83,3.21,16.0,2,Bust
+2017,39,PHI,Jawun Evans,Oklahoma State,2.0,56.0,-0.4,-0.022,-5.4,-0.7,PG,70.75,185.2,77.5,95.0,8.0,7.8,27.5,33.5,11.34,3.26,3.21,1.0,2,Bust
+2017,40,NOP,Dwayne Bacon,Florida State,4.0,207.0,0.8,0.01,-5.1,-3.1,SG-SF,76.75,221.6,82.0,103.5,8.75,10.0,30.0,36.5,11.7,3.22,3.22,8.0,2,Bust
+2017,41,ATL,Tyler Dorsey,Oregon,2.0,104.0,1.0,0.03,-3.1,-0.5,SG,75.0,182.6,77.25,99.5,8.5,9.3,30.5,36.0,10.55,2.98,3.16,8.0,2,Bust
+2017,42,UTA,Thomas Bryant,Indiana,5.0,170.0,11.6,0.163,1.5,3.0,PF-C,81.5,247.8,90.0,112.5,9.5,10.3,25.5,33.0,11.42,3.12,3.37,7.0,2,Bust
+2017,43,HOU,Isaiah Hartenstein,Unknown,4.0,165.0,8.5,0.181,1.9,2.2,,,,,,,,,,,,,,2,Bust
+2017,44,NYK,Damyean Dotson,Oregon,5.0,213.0,3.0,0.034,-2.8,-0.9,SG-SF,76.5,205.2,81.0,100.0,8.5,9.3,31.5,38.0,11.18,3.03,3.13,13.0,2,Bust
+2017,45,HOU,Dillon Brooks,Oregon,5.0,272.0,5.3,0.033,-3.8,-3.5,SG-SF,77.0,220.2,78.0,100.5,8.25,9.3,31.0,37.5,11.14,3.24,3.21,16.0,2,Bust
+2017,46,PHI,Sterling Brown,SMU,5.0,264.0,6.5,0.071,-2.1,-0.1,,,,,,,,,,,,,,2,Bust
+2017,47,IND,Ike Anigbogu,UCLA,2.0,14.0,0.0,0.057,-1.1,0.0,C,80.5,252.2,90.25,110.5,9.5,10.0,29.5,32.5,12.52,3.48,3.44,11.0,2,Bust
+2017,48,MIL,Sindarius Thornwell,South Carolina,4.0,160.0,1.1,0.032,-3.1,-0.5,SG-SF,75.5,211.6,82.0,103.0,8.75,8.8,27.0,30.5,11.48,3.03,3.36,15.0,2,Bust
+2017,49,DEN,Vlatko Čančar,Unknown,3.0,70.0,0.8,0.075,-2.5,-0.1,,,,,,,,,,,,,,2,Bust
+2017,51,DEN,Monte Morris,Iowa State,5.0,280.0,18.5,0.125,0.3,4.2,PG,73.25,175.2,76.0,96.5,8.25,8.8,28.0,33.5,11.0,3.2,3.19,8.0,2,Solid
+2017,52,NOP,Edmond Sumner,Xavier,4.0,108.0,1.9,0.061,-3.2,-0.4,PG,76.0,176.4,81.0,102.5,8.25,9.0,,,,,,,2,Bust
+2017,53,BOS,Kadeem Allen,Arizona,3.0,47.0,1.0,0.075,-1.2,0.1,PG,73.0,192.4,81.25,99.5,8.5,8.8,33.0,35.5,11.24,2.98,3.15,7.0,2,Bust
+2017,54,PHO,Alec Peters,Valparaiso,1.0,20.0,0.3,0.055,-2.8,0.0,PF,79.25,232.0,82.75,105.0,8.75,10.0,,,,,,,2,Bust
+2017,55,UTA,Nigel Williams-Goss,Gonzaga,1.0,10.0,0.0,0.017,-3.9,0.0,PG,73.5,190.2,79.25,99.0,8.75,9.3,27.5,34.5,10.42,3.08,3.19,10.0,2,Bust
+2017,56,BOS,Jabari Bird,California,1.0,13.0,0.2,0.098,-3.1,0.0,,,,,,,,,,,,,,2,Bust
+2017,59,SAS,Jaron Blossomgame,Clemson,1.0,27.0,0.3,0.03,-3.8,-0.2,SF,77.75,218.6,82.0,104.5,8.75,10.3,31.0,35.5,11.47,3.35,3.17,16.0,2,Bust
+2018,1,PHO,Deandre Ayton,Arizona,4.0,236.0,24.6,0.163,1.1,5.7,,,,,,,,,,,,,,1,Solid
+2018,2,SAC,Marvin Bagley III,Duke,4.0,166.0,7.3,0.085,-2.1,-0.1,,,,,,,,,,,,,,1,Bust
+2018,3,ATL,Luka Dončić,Unknown,4.0,264.0,29.0,0.156,6.8,19.8,,,,,,,,,,,,,,1,Solid
+2018,4,MEM,Jaren Jackson Jr.,Michigan State,4.0,204.0,12.8,0.112,0.0,2.8,PF-C,81.75,236.0,89.25,110.0,10.0,10.0,,,,,,,1,Bust
+2018,5,DAL,Trae Young,Oklahoma,4.0,280.0,26.3,0.134,3.0,11.9,PG,72.5,177.8,75.0,95.5,8.0,9.3,,,,,,,1,Solid
+2018,6,ORL,Mo Bamba,Texas,4.0,226.0,10.4,0.119,0.2,2.3,,,,,,,,,,,,,,1,Bust
+2018,7,CHI,Wendell Carter Jr.,Duke,4.0,203.0,13.6,0.116,-0.7,1.9,C-PF,80.75,251.4,88.5,109.0,8.5,9.0,,,,,,,1,Bust
+2018,8,CLE,Collin Sexton,Alabama,4.0,218.0,5.4,0.036,-2.5,-0.9,PG,72.5,183.0,79.25,98.5,8.25,8.5,,,,,,,1,Bust
+2018,9,NYK,Kevin Knox,Kentucky,4.0,212.0,-0.3,-0.004,-4.7,-2.7,SF,79.75,212.6,83.75,108.0,8.75,9.3,,,,,,,1,Bust
+2018,10,PHI,Mikal Bridges,Villanova,4.0,309.0,24.6,0.122,1.1,7.5,,,,,,,,,,,,,,1,Solid
+2018,11,CHO,Shai Gilgeous-Alexander,Kentucky,4.0,243.0,17.6,0.109,1.9,7.5,PG,76.5,180.0,83.5,104.0,9.0,9.0,,,,,,,1,Solid
+2018,12,LAC,Miles Bridges,Michigan State,4.0,291.0,16.0,0.091,-0.2,3.8,SF,77.25,220.4,81.5,103.5,9.0,9.8,,,,,,,1,Solid
+2018,13,LAC,Jerome Robinson,Boston College,3.0,113.0,-0.1,-0.003,-4.7,-1.1,SG,76.0,188.4,79.25,98.0,9.0,10.0,,,,,,,1,Bust
+2018,14,DEN,Michael Porter Jr.,Missouri,3.0,125.0,9.6,0.15,2.1,3.1,SF-PF,81.5,211.0,84.25,108.5,8.75,9.3,,,,,,,1,Bust
+2018,15,WAS,Troy Brown Jr.,Oregon,4.0,221.0,4.9,0.058,-2.0,0.0,SF,77.75,208.0,82.25,105.0,9.0,9.8,26.0,33.0,11.51,3.29,3.33,5.0,1,Bust
+2018,16,PHO,Zhaire Smith,Texas Tech,2.0,13.0,0.0,0.011,-6.1,-0.1,SF-SG,74.75,198.6,81.75,100.0,8.75,8.3,33.0,41.5,11.02,3.15,3.05,10.0,1,Bust
+2018,17,MIL,Donte DiVincenzo,Villanova,4.0,201.0,9.2,0.093,-0.2,2.2,SG,75.5,200.6,78.0,97.5,8.25,9.0,34.5,42.0,10.72,3.12,3.11,12.0,1,Bust
+2018,18,SAS,Lonnie Walker IV,Miami (FL),4.0,208.0,2.0,0.022,-3.2,-1.3,SG,75.75,196.2,82.25,99.5,9.0,9.5,31.5,40.0,10.87,2.91,3.06,12.0,1,Bust
+2018,19,ATL,Kevin Huerter,Maryland,4.0,274.0,9.4,0.056,-1.3,1.4,SG,78.25,194.0,79.5,101.5,8.25,8.5,31.0,38.0,10.89,2.97,3.09,9.0,1,Bust
+2018,20,MIN,Josh Okogie,Georgia Tech,4.0,244.0,5.3,0.051,-2.9,-1.2,SG,75.0,210.8,84.0,102.0,9.0,9.8,33.0,42.0,11.08,3.03,3.04,12.0,1,Bust
+2018,21,UTA,Grayson Allen,Duke,4.0,192.0,8.1,0.092,-0.7,1.4,SG,75.0,198.0,79.25,97.0,8.25,10.0,32.5,40.5,10.31,3.04,3.15,,1,Bust
+2018,22,CHI,Chandler Hutchison,Boise State,4.0,103.0,1.1,0.03,-3.9,-0.9,,,,,,,,,,,,,,1,Bust
+2018,23,IND,Aaron Holiday,UCLA,4.0,245.0,4.7,0.051,-2.3,-0.4,PG,71.75,187.0,79.5,97.0,8.75,8.5,25.5,33.0,10.96,3.22,3.27,,1,Bust
+2018,24,POR,Anfernee Simons,Unknown,4.0,211.0,4.0,0.043,-2.2,-0.2,SG-PG,74.25,183.2,81.25,99.5,8.75,9.0,32.0,41.5,11.27,3.16,3.1,1.0,1,Bust
+2018,25,LAL,Moritz Wagner,Michigan,4.0,196.0,5.9,0.096,-1.4,0.4,C-PF,82.5,241.4,84.0,108.0,9.0,10.8,27.0,34.0,11.48,3.07,3.18,8.0,1,Bust
+2018,26,PHI,Landry Shamet,Wichita State,4.0,262.0,10.6,0.083,-1.8,0.3,PG,76.0,188.6,78.75,100.0,8.0,9.0,31.0,39.5,11.26,3.21,3.11,8.0,1,Bust
+2018,27,BOS,Robert Williams,Texas A&M,4.0,174.0,18.4,0.255,5.3,6.3,,,,,,,,,,,,,,1,Solid
+2018,28,GSW,Jacob Evans,Cincinnati,2.0,59.0,-0.6,-0.047,-7.4,-0.8,SG-SF,76.25,199.6,81.25,102.5,9.0,9.3,28.0,35.5,11.11,3.14,3.2,8.0,1,Bust
+2018,29,BRK,Džanan Musa,Unknown,2.0,49.0,0.0,0.003,-4.6,-0.4,,,,,,,,,,,,,,1,Bust
+2018,30,ATL,Omari Spellman,Villanova,2.0,95.0,2.4,0.068,-1.5,0.2,PF-C,80.0,253.8,86.0,107.5,9.0,9.0,28.5,35.5,12.28,3.35,3.38,8.0,1,Bust
+2018,31,PHO,Elie Okobo,Unknown,2.0,108.0,0.5,0.014,-4.1,-0.9,,,,,,,,,,,,,,2,Bust
+2018,32,MEM,Jevon Carter,West Virginia,4.0,223.0,4.5,0.069,-1.1,0.7,PG,72.25,196.2,76.25,95.0,9.25,8.5,29.0,36.5,11.04,3.05,3.18,14.0,2,Bust
+2018,33,DAL,Jalen Brunson,Villanova,4.0,277.0,17.3,0.121,0.0,3.5,PG,73.0,198.4,76.0,96.0,8.25,9.3,29.0,37.0,10.59,3.11,3.15,7.0,2,Solid
+2018,34,ATL,Devonte' Graham,Kansas,4.0,240.0,10.1,0.072,-0.4,2.7,PG,72.25,186.4,78.25,96.0,8.5,9.5,31.0,37.0,11.28,3.15,3.21,14.0,2,Bust
+2018,35,ORL,Melvin Frazier,Tulane,3.0,32.0,-0.4,-0.062,-10.0,-0.6,SF-SG,76.5,198.2,85.75,105.0,9.5,9.5,31.0,40.5,11.24,3.08,3.08,0.0,2,Bust
+2018,36,NYK,Mitchell Robinson,Unknown,4.0,230.0,24.8,0.218,2.3,6.0,,,,,,,,,,,,,,2,Solid
+2018,37,SAC,Gary Trent Jr.,Duke,4.0,204.0,9.6,0.081,-0.9,1.6,SG,76.25,204.2,80.75,98.0,8.5,9.5,33.5,39.5,11.37,2.99,3.12,12.0,2,Bust
+2018,38,PHI,Khyri Thomas,Creighton,3.0,39.0,0.5,0.058,-2.7,-0.1,SG,74.5,198.8,82.5,101.0,8.75,9.3,30.0,35.0,10.96,3.18,3.18,14.0,2,Bust
+2018,39,PHI,Isaac Bonga,Unknown,4.0,143.0,1.7,0.044,-3.6,-0.7,,,,,,,,,,,,,,2,Bust
+2018,40,BRK,Rodions Kurucs,Unknown,3.0,131.0,2.3,0.052,-2.8,-0.4,,,,,,,,,,,,,,2,Bust
+2018,41,ORL,Jarred Vanderbilt,Kentucky,4.0,166.0,9.1,0.14,-0.1,1.5,,,,,,,,,,,,,,2,Bust
+2018,42,DET,Bruce Brown,Miami (FL),4.0,269.0,12.7,0.097,-0.9,1.7,SG-PG,75.5,194.6,81.0,98.5,8.5,8.5,32.5,38.0,11.11,3.44,3.2,17.0,2,Bust
+2018,45,BRK,Hamidou Diallo,Kentucky,4.0,207.0,4.9,0.06,-2.3,-0.3,SG,76.25,197.0,83.5,103.0,8.75,9.0,32.5,40.5,10.53,3.14,3.1,1.0,2,Bust
+2018,46,HOU,De'Anthony Melton,USC,4.0,235.0,7.7,0.076,0.5,3.1,SG-PG,74.25,193.2,80.5,99.5,8.5,9.5,31.0,36.5,11.48,3.33,3.23,1.0,2,Bust
+2018,47,LAL,Svi Mykhailiuk,Kansas,4.0,220.0,2.5,0.033,-2.7,-0.7,,,,,,,,,,,,,,2,Bust
+2018,48,MIN,Keita Bates-Diop,Ohio State,4.0,163.0,3.5,0.068,-2.4,-0.2,SG-SF,79.25,223.8,87.25,106.5,9.0,8.5,30.5,35.0,11.2,3.28,3.17,11.0,2,Bust
+2018,49,SAS,Chimezie Metu,USC,4.0,143.0,2.1,0.05,-2.3,-0.2,PF-C,80.5,219.6,84.5,108.0,9.0,9.3,29.5,36.0,11.89,3.25,3.33,5.0,2,Bust
+2018,50,IND,Alize Johnson,Missouri State,4.0,72.0,1.3,0.12,-2.0,0.0,PF,79.25,216.6,80.75,103.0,8.5,9.8,25.0,31.0,11.83,3.28,3.38,8.0,2,Bust
+2018,52,UTA,Vince Edwards,Purdue,1.0,2.0,0.0,-0.014,-6.4,0.0,,,,,,,,,,,,,,2,Bust
+2018,53,OKC,Devon Hall,Virginia,1.0,11.0,-0.2,-0.116,-6.7,-0.1,SG,76.25,206.4,79.75,102.0,8.5,10.0,25.0,31.0,10.95,3.16,3.27,6.0,2,Bust
+2018,54,DAL,Shake Milton,SMU,4.0,178.0,6.9,0.09,-1.8,0.2,SG-PG,76.5,207.2,84.75,99.5,8.75,9.5,30.0,33.0,11.07,3.19,3.25,2.0,2,Bust
+2018,55,CHO,Arnoldas Kulboka,Unknown,1.0,2.0,0.0,-0.217,-21.8,0.0,,,,,,,,,,,,,,2,Bust
+2018,56,PHI,Ray Spalding,Louisville,2.0,16.0,0.1,0.024,-6.2,-0.2,PF,81.0,215.4,88.75,109.0,9.25,9.0,26.0,32.0,11.48,3.2,3.34,12.0,2,Bust
+2018,57,OKC,Kevin Hervey,UT Arlington,1.0,10.0,-0.1,-0.085,-5.1,0.0,PF,78.5,211.6,87.5,107.0,9.25,10.3,27.5,32.0,11.28,3.15,3.36,4.0,2,Bust
+2018,58,DEN,Thomas Welsh,UCLA,1.0,11.0,0.1,0.162,1.2,0.0,,,,,,,,,,,,,,2,Bust
+2018,59,PHO,George King,Colorado,2.0,5.0,-0.1,-0.225,-17.1,-0.1,SF-SG,76.75,218.6,83.5,101.5,9.0,10.3,31.0,39.0,10.75,3.08,3.29,15.0,2,Bust
+2018,60,PHI,Kostas Antetokounmpo,Dayton,3.0,22.0,-0.2,-0.098,-9.9,-0.2,PF,81.0,194.8,86.25,110.0,9.25,9.5,29.5,35.0,12.48,3.48,3.21,0.0,2,Bust
