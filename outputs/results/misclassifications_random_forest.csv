@@ -1,7 +1,7 @@
 player,draft_year,draft_pick,actual,predicted,predicted_prob,career_ws,career_g
 Pat Connaughton,2015,41,Solid,Bust,0.7193022333901523,18.1,417.0
 Matt Barnes,2002,46,Solid,Bust,0.6708277242962256,42.8,929.0
-DeAndre Jordan,2008,35,Star,Bust,0.6648842936411954,94.4,980.0
+DeAndre Jordan,2008,35,Star,Bust,0.6648842936411953,94.4,980.0
 Kenyon Martin,2000,1,Solid,Star,0.6235948891062999,48.0,757.0
 Markelle Fultz,2017,1,Bust,Star,0.6235948891062999,3.5,131.0
 Deandre Ayton,2018,1,Solid,Star,0.6235948891062999,24.6,236.0
@@ -9,8 +9,8 @@ Michael Olowokandi,1998,1,Bust,Star,0.6235948891062999,2.5,500.0
 Ramon Sessions,2007,56,Solid,Bust,0.614684536004805,28.8,691.0
 Mahmoud Abdul-Rauf,1990,3,Solid,Star,0.6140203099784126,25.2,586.0
 Jarron Collins,2001,53,Solid,Bust,0.6107568664323806,15.7,542.0
-Manu Ginóbili,1999,57,Star,Bust,0.6060983697830054,106.4,1057.0
+Manu Ginóbili,1999,57,Star,Bust,0.6060983697830055,106.4,1057.0
 Luc Mbah a Moute,2008,37,Solid,Bust,0.6056576015026913,26.0,689.0
-Jamal Mashburn,1993,4,Solid,Star,0.6021884545729779,43.7,611.0
-Jim Jackson,1992,4,Solid,Star,0.6021884545729779,35.8,885.0
+Jamal Mashburn,1993,4,Solid,Star,0.602188454572978,43.7,611.0
+Jim Jackson,1992,4,Solid,Star,0.602188454572978,35.8,885.0
 Monta Ellis,2005,40,Solid,Bust,0.601438410502802,41.9,833.0

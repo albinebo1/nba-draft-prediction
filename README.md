@@ -4,7 +4,7 @@ A multiclass classification project: given **pre-draft** information (draft
 position, NBA Combine measurements, position), predict whether a player will
 become a **Star**, **Solid** contributor, or **Bust** over their NBA career.
 
-Everything is reproducible with `random_state=42` baked into every module.
+Everything is reproducible with `random_state=42` used throughout the pipeline.
 
 ## Project layout
 
@@ -15,18 +15,18 @@ nba_draft_project/
 │   └── processed/
 │       └── nba_draft_processed.csv
 ├── notebooks/
-│   └── eda.ipynb
+│   └── eda.ipynb                  # exploratory notebook
 ├── src/
-│   ├── data_prep.py               # load, merge, label
+│   ├── data_prep.py               # load, clean, merge, label
 │   ├── features.py                # ColumnTransformer + split helper
 │   ├── models.py                  # Dummy / RF / XGBoost / SVM factories
 │   ├── eda.py                     # all EDA plots (module form)
 │   ├── evaluate.py                # CV, GridSearchCV, metrics, plots
-│   └── report.py                  # auto-generates outputs/report_notes.md
+│   └── report.py                  # auto-generates outputs/project_notes.md
 ├── outputs/
 │   ├── figures/                   # all PNGs (EDA + per-model)
 │   ├── results/                   # results_summary.csv + misclassifications
-│   └── report_notes.md            # auto-generated report stub
+│   └── project_notes.md            # auto-generated project notes
 ├── requirements.txt
 ├── README.md
 └── main.py                        # run the whole pipeline
@@ -51,9 +51,13 @@ Three Kaggle datasets, downloaded once into `data/raw/`:
 | `marcusfern/nba-draft-combine` | 2000-2026 combine measurements (HGT, WGT, WNGSPN, STNDVERT, etc.) |
 
 The combine CSV uses `Last, First` for player names; we flip and fuzzy-match
-(`rapidfuzz.WRatio ≥ 88`) against the draft table.
+(`rapidfuzz.WRatio ≥ 88` to catch small suffix, spelling, punctuation or 
+accent differences) against the draft table.
 
 ## Target label
+
+Target variable is career_label which is created from career Win Shares (WS)
+and NBA games played.
 
 ```
 Star  : career WS ≥ 50
@@ -94,7 +98,7 @@ This executes (in order):
 3. `evaluate.run_full_evaluation()` — trains all 4 models with stratified
    5-fold CV + GridSearchCV, writes confusion matrices, learning curve,
    feature importances, `results_summary.csv`, and misclassification table.
-4. `report.write_report_notes()` — writes `outputs/report_notes.md`.
+4. `report.write_report_notes()` — writes `outputs/project_notes.md`.
 
 Run individual stages from the project root:
 
@@ -116,15 +120,14 @@ python src/evaluate.py
 All wrapped in an `sklearn.pipeline.Pipeline` so imputation/scaling fits on
 each CV fold independently. Selection metric: **macro F1**.
 
-## What you get
+## Outputs
 
 * **Figures** (`outputs/figures/`):
   `eda_*.png`, `confusion_*.png`, `feature_importance_*.png`,
   `learning_curve_<best>.png`
 * **Numbers** (`outputs/results/`):
   `results_summary.csv` (all models × all metrics),
-  `misclassifications_<best>.csv` (top 15 confidently wrong predictions —
-  great for the report)
+  `misclassifications_<best>.csv` top 15 confidently wrong predictions
 * **Project notes** (`outputs/project_notes.md`):
   dataset summary, preprocessing decisions, hyper-parameter grids, final
   results, feature importances, error analysis.
